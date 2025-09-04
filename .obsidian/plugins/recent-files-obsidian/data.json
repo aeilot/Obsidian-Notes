@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Chapter 1",
-      "path": "Linear Algebra/Chapter 1.md"
+      "basename": "Ch02 解线性方程组",
+      "path": "Linear Algebra/Ch02 解线性方程组.md"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "Linear Algebra/Ch01 向量和矩阵.md"
     },
     {
       "basename": "MATLAB",
