@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09a6bca37574e480",
+        "id": "fa4177558a159a5e",
         "type": "tabs",
         "children": [
           {
-            "id": "90a540858d96fb85",
+            "id": "66223abdf4568990",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Linear Algebra/Chapter 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Chapter 1"
             }
           }
         ]
@@ -44,6 +48,32 @@
             }
           },
           {
+            "id": "16274a321a7f43ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a2b750cc2b4223a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f4e2b0d8af0089c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
             "id": "b0d6a580f6a993d6",
             "type": "leaf",
             "state": {
@@ -59,22 +89,13 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
-          {
-            "id": "16274a321a7f43ef",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -90,6 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Linear Algebra/Chapter 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Chapter 1"
             }
           },
           {
@@ -136,20 +158,41 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Linear Algebra/Chapter 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Chapter 1"
+            }
+          },
+          {
+            "id": "5cd368e40bb0b5bf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "04d08194a88227a4",
+            "type": "leaf",
+            "state": {
+              "type": "infio-chat-view",
+              "state": {},
+              "icon": "wand-sparkles",
+              "title": "Infio chat"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +202,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "copilot:Open Copilot Chat": false,
+      "audio-recorder:Start/stop recording": false,
+      "smart-connections:Open: Smart Chat": true,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "infio-copilot:Open infio copilot": false
     }
   },
-  "active": "90a540858d96fb85",
-  "lastOpenFiles": []
+  "active": "66223abdf4568990",
+  "lastOpenFiles": [
+    "_infio_prompts",
+    "Screenshot 2025-09-04 at 9.34.57 AM.png",
+    "Screenshot 2025-09-04 at 9.18.58 AM.png",
+    "Screenshot 2025-09-04 at 9.14.27 AM.png",
+    "Screenshot 2025-09-04 at 9.10.39 AM.png",
+    "Linear Algebra/Chapter 1.md",
+    "Linear Algebra/MATLAB.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot-custom-prompts"
+  ]
 }
