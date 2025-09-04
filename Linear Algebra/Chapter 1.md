@@ -27,6 +27,43 @@ c &d
 \end{bmatrix}
 $$
 
+## 矩阵乘以向量
+
+线性组合
+
+$$
+\mathbf{A}\mathbf{x} = 
+\begin{bmatrix}
+ & \vert & \vert & \vert &  \\
+ & \mathbf{a_{1}} & \mathbf{a_{2}} & \mathbf{a_{3}} \\
+ & | & | & |
+\end{bmatrix}
+\begin{bmatrix}
+x_{1} \\
+x_{2} \\
+x_{3}
+\end{bmatrix}
+=x_{1}\mathbf{a_{1}} + x_{2}\mathbf{a_{2}} +x_{3}\mathbf{a_{3}}
+$$
+
+$$
+\mathbf{A}\mathbf{x} = 
+\begin{bmatrix}
+x_{1} & x_{2} & x_{3}
+\end{bmatrix}
+\begin{bmatrix}
+- -\mathbf{a_{1}}-- \\
+- -\mathbf{a_{2}}-- \\
+- -\mathbf{a_{3}}-- \\
+\end{bmatrix}
+=
+\begin{bmatrix}
+- -x_{1}\mathbf{a_{1}}-- \\
+- -x_{2}\mathbf{a_{2}}-- \\
+- -x_{3}\mathbf{a_{3}}-- \\
+\end{bmatrix}
+$$
+
 ## 矩阵乘法
 
 $(n\times m)\times(m\times p)$ 的矩阵得到 $n\times p$ 的矩阵
