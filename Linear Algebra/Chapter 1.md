@@ -2,6 +2,14 @@
 
 ![[Screenshot 2025-09-04 at 9.34.57 AM.png]]
 
+## 列空间
+
+列空间是矩阵所有列向量的线性组合所构成的空间。
+
+## 行空间
+
+行空间是矩阵所有行向量的线性组合所构成的空间。
+
 ## 向量乘法
 
 点积: 行乘列
@@ -55,13 +63,8 @@ x_{1} & x_{2} & x_{3}
 - -\mathbf{a_{1}}-- \\
 - -\mathbf{a_{2}}-- \\
 - -\mathbf{a_{3}}-- \\
-\end{bmatrix}
-=
-\begin{bmatrix}
-- -x_{1}\mathbf{a_{1}}-- \\
-- -x_{2}\mathbf{a_{2}}-- \\
-- -x_{3}\mathbf{a_{3}}-- \\
-\end{bmatrix}
+\end{bmatrix} =
+x_1\mathbf{a_1} + x_2\mathbf{a_2} + x_3\mathbf{a_3}
 $$
 
 ## 矩阵乘法
@@ -166,3 +169,7 @@ $$
 $$
 
 因此，哈达玛积也被称为逐元素乘积（element-wise product）。
+
+## $\mathbf{A}=\mathbf{C}\mathbf{R}$
+
+ 这种分解方式展示了如何将一个矩阵表示为列基矩阵和系数矩阵的乘积，是理解矩阵秩和空间的重要视角。
