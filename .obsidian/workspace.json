@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a3781028872d918b",
+        "id": "345ba43c436dcef9",
         "type": "tabs",
         "children": [
           {
-            "id": "e7c7bee6be167c91",
+            "id": "277ea363e33a67e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -111,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Algebra/Ch02 解线性方程组.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Ch02 解线性方程组"
+              "title": "Backlinks"
             }
           },
           {
@@ -158,13 +157,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linear Algebra/Ch02 解线性方程组.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Ch02 解线性方程组"
+              "title": "Outline"
             }
           },
           {
@@ -204,17 +202,14 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "copilot:Open Copilot Chat": false,
       "audio-recorder:Start/stop recording": false,
-      "smart-connections:Open: Smart Chat": true,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true,
       "infio-copilot:Open infio copilot": false
     }
   },
-  "active": "e7c7bee6be167c91",
+  "active": "277ea363e33a67e2",
   "lastOpenFiles": [
+    "Pasted image 20250906165638.png",
+    "Linear Algebra/Ch02 解线性方程组.md",
     "Pasted image 20250905121654.png",
     "Pasted image 20250905121117.png",
     "Pasted image 20250905121029.png",
@@ -226,8 +221,6 @@
     "Screenshot 2025-09-05 at 10.44.26 AM.png",
     "Linear Algebra/Ch01 向量和矩阵.md",
     "Screenshot 2025-09-05 at 10.42.03 AM.png",
-    "Linear Algebra/Ch02 解线性方程组.md",
-    "Screenshot 2025-09-05 at 10.40.07 AM.png",
     "Linear Algebra/MATLAB.md",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas",
