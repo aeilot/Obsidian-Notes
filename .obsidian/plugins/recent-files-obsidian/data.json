@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch01 Decision Trees",
+      "path": "A Course in ML/Ch01 Decision Trees.md"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "Linear Algebra/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "Linear Algebra/Ch01 向量和矩阵.md"
+    },
+    {
       "basename": "映射与函数",
       "path": "数学分析/映射与函数.md"
     },
@@ -13,20 +25,12 @@
       "path": "Pasted image 20250905121029.png"
     },
     {
-      "basename": "Ch03 四个基本子空间",
-      "path": "Linear Algebra/Ch03 四个基本子空间.md"
-    },
-    {
       "basename": "MATLAB",
       "path": "Linear Algebra/MATLAB.md"
     },
     {
       "basename": "教材知识拾遗",
       "path": "C++ 程序设计/教材知识拾遗.md"
-    },
-    {
-      "basename": "Ch01 向量和矩阵",
-      "path": "Linear Algebra/Ch01 向量和矩阵.md"
     },
     {
       "basename": "Ch02 解线性方程组",

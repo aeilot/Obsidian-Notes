@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a3c2ea0a5cfc0663",
+        "id": "fb3c0bc35da92726",
         "type": "tabs",
         "children": [
           {
-            "id": "e9b187220c623cff",
+            "id": "35160e035e158e46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "A Course in ML/Ch01 Decision Trees.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ch01 Decision Trees"
             }
           }
         ]
@@ -90,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -201,8 +206,12 @@
       "infio-copilot:Open infio copilot": false
     }
   },
-  "active": "e9b187220c623cff",
+  "active": "35160e035e158e46",
   "lastOpenFiles": [
+    "Pasted image 20250907180013.png",
+    "Linear Algebra/Ch03 四个基本子空间.md",
+    "Linear Algebra/Ch01 向量和矩阵.md",
+    "A Course in ML/Ch01 Decision Trees.md",
     "数学分析/映射与函数.md",
     "数学分析/集合.md",
     "Pasted image 20250907174233.png",
@@ -214,10 +223,8 @@
     "Pasted image 20250907172551.png",
     "A Course in ML",
     "Pasted image 20250905121029.png",
-    "Linear Algebra/Ch03 四个基本子空间.md",
     "Linear Algebra/MATLAB.md",
     "C++ 程序设计/教材知识拾遗.md",
-    "Linear Algebra/Ch01 向量和矩阵.md",
     "C++ 程序设计",
     "Untitled.canvas",
     "数学分析",
