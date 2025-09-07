@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch01 向量和矩阵",
-      "path": "Linear Algebra/Ch01 向量和矩阵.md"
+      "basename": "映射与函数",
+      "path": "数学分析/映射与函数.md"
+    },
+    {
+      "basename": "集合",
+      "path": "数学分析/集合.md"
+    },
+    {
+      "basename": "Pasted image 20250905121029",
+      "path": "Pasted image 20250905121029.png"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "Linear Algebra/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "MATLAB",
+      "path": "Linear Algebra/MATLAB.md"
     },
     {
       "basename": "教材知识拾遗",
       "path": "C++ 程序设计/教材知识拾遗.md"
     },
     {
-      "basename": "Ch03 四个基本子空间",
-      "path": "Linear Algebra/Ch03 四个基本子空间.md"
+      "basename": "Ch01 向量和矩阵",
+      "path": "Linear Algebra/Ch01 向量和矩阵.md"
     },
     {
       "basename": "Ch02 解线性方程组",
@@ -19,10 +35,6 @@
     {
       "basename": "Screenshot 2025-09-05 at 10.40.07 AM",
       "path": "Screenshot 2025-09-05 at 10.40.07 AM.png"
-    },
-    {
-      "basename": "MATLAB",
-      "path": "Linear Algebra/MATLAB.md"
     },
     {
       "basename": "Screenshot 2025-09-04 at 9.10.39 AM",

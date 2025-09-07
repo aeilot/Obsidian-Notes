@@ -10,4 +10,9 @@ C(2, 3)
 ```
 
 ## Chapter 1
+
 `rref(A)`: reduced row echelon form
+
+## Chapter 2
+
+`A'`: A transposed
