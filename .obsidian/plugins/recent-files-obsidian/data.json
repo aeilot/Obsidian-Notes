@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch02 解线性方程组",
-      "path": "Linear Algebra/Ch02 解线性方程组.md"
-    },
-    {
       "basename": "Ch01 向量和矩阵",
       "path": "Linear Algebra/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "教材知识拾遗",
+      "path": "C++ 程序设计/教材知识拾遗.md"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "Linear Algebra/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "Ch02 解线性方程组",
+      "path": "Linear Algebra/Ch02 解线性方程组.md"
     },
     {
       "basename": "Screenshot 2025-09-05 at 10.40.07 AM",
@@ -15,10 +23,6 @@
     {
       "basename": "MATLAB",
       "path": "Linear Algebra/MATLAB.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.canvas"
     },
     {
       "basename": "Screenshot 2025-09-04 at 9.10.39 AM",
