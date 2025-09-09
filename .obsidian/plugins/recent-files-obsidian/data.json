@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "排序算法",
-      "path": "MISC/排序算法.md"
+      "basename": "Ch02 解线性方程组",
+      "path": "Linear Algebra/Ch02 解线性方程组.md"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "Linear Algebra/Ch01 向量和矩阵.md"
     },
     {
       "basename": "复杂度",
       "path": "MISC/复杂度.md"
+    },
+    {
+      "basename": "排序算法",
+      "path": "MISC/排序算法.md"
     },
     {
       "basename": "Ch02 Limits of Learning",
@@ -19,10 +27,6 @@
     {
       "basename": "Ch03 四个基本子空间",
       "path": "Linear Algebra/Ch03 四个基本子空间.md"
-    },
-    {
-      "basename": "Ch01 向量和矩阵",
-      "path": "Linear Algebra/Ch01 向量和矩阵.md"
     },
     {
       "basename": "映射与函数",
@@ -43,10 +47,6 @@
     {
       "basename": "教材知识拾遗",
       "path": "C++ 程序设计/教材知识拾遗.md"
-    },
-    {
-      "basename": "Ch02 解线性方程组",
-      "path": "Linear Algebra/Ch02 解线性方程组.md"
     },
     {
       "basename": "Screenshot 2025-09-05 at 10.40.07 AM",
