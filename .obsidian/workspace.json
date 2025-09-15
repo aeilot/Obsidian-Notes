@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24d483987a1bc77d",
+        "id": "334c6b9ede7d6514",
         "type": "tabs",
         "children": [
           {
-            "id": "3dcc985386965ab5",
+            "id": "104d4b60d254e637",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,8 +201,26 @@
       "infio-copilot:Open infio copilot": false
     }
   },
-  "active": "3dcc985386965ab5",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
+    "数学分析/《数学分析》习题全解指南(第二版上册).pdf",
+    "数学分析/《数学分析》习题全解指南(第二版下册).pdf",
+    "数学分析/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/《数学分析》陈纪修 第三版 下.pdf",
+    "数学分析/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
+    "数学分析/谢惠民清晰版.  数学分析习题课讲义.下.  2004.pdf",
+    "Linear Algebra/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "Linear Algebra/Introduction to Linear Algebra.pdf",
+    "Linear Algebra/LADR4e.pdf",
+    "Linear Algebra/Ch01 向量和矩阵.md",
+    "Linear Algebra/The-Art-of-Linear-Algebra.pdf",
+    "Linear Algebra/LADR4eChinese.pdf",
+    "C++ 程序设计/教材知识拾遗.md",
+    "A Course in ML/Ch02 Limits of Learning.md",
+    "A Course in ML/Ch01 Decision Trees.md",
+    "Linear Algebra/Ch02 解线性方程组.md",
+    "Linear Algebra/Course9.15 线性代数.md",
+    "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
     "数学分析/集合.md",
     "Linear Algebra/数域.md",
     "Linear Algebra/求和符号.md",
@@ -213,30 +231,16 @@
     "Pasted image 20250915101255.png",
     "Pasted image 20250915101209.png",
     "数学分析/映射与函数.md",
-    "Linear Algebra/Course9.15 线性代数.md",
-    "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
     "Pasted image 20250915094112.png",
     "Pasted image 20250915093945.png",
     "Pasted image 20250915093937.png",
     "Pasted image 20250915093002.png",
-    "Neural Networks & Deep Learning",
-    "Linear Algebra/Ch02 解线性方程组.md",
     "Linear Algebra/Ch03 四个基本子空间.md",
-    "IMG_6111.heic",
-    "A Course in ML/Ch02 Limits of Learning.md",
-    "A Course in ML/Ch01 Decision Trees.md",
     "MISC/排序算法.md",
     "MISC/复杂度.md",
-    "Linear Algebra/Ch01 向量和矩阵.md",
-    "MISC",
-    "A Course in ML",
     "Linear Algebra/MATLAB.md",
-    "C++ 程序设计/教材知识拾遗.md",
-    "C++ 程序设计",
     "Untitled.canvas",
-    "数学分析",
     "Linear Algebra/Untitled.canvas",
-    "_infio_prompts",
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Simplify.md",
@@ -246,7 +250,6 @@
     "copilot-custom-prompts/Explain like I am 5.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts"
+    "copilot-custom-prompts/Generate table of contents.md"
   ]
 }

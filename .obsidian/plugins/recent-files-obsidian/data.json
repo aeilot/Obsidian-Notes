@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Introduction to Linear Algebra",
+      "path": "Linear Algebra/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "LADR4e",
+      "path": "Linear Algebra/LADR4e.pdf"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "Linear Algebra/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
+      "path": "C++ 程序设计/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
+    },
+    {
+      "basename": "教材知识拾遗",
+      "path": "C++ 程序设计/教材知识拾遗.md"
+    },
+    {
+      "basename": "ciml-v0_99-all",
+      "path": "A Course in ML/ciml-v0_99-all.pdf"
+    },
+    {
+      "basename": "Ch02 Limits of Learning",
+      "path": "A Course in ML/Ch02 Limits of Learning.md"
+    },
+    {
+      "basename": "Ch01 Decision Trees",
+      "path": "A Course in ML/Ch01 Decision Trees.md"
+    },
+    {
+      "basename": "Ch02 解线性方程组",
+      "path": "Linear Algebra/Ch02 解线性方程组.md"
+    },
+    {
+      "basename": "Course9.15 线性代数",
+      "path": "Linear Algebra/Course9.15 线性代数.md"
+    },
+    {
+      "basename": "Gradient Descent & Back Propagation",
+      "path": "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md"
+    },
+    {
       "basename": "集合",
       "path": "数学分析/集合.md"
     },
@@ -17,28 +61,8 @@
       "path": "数学分析/映射与函数.md"
     },
     {
-      "basename": "Course9.15 线性代数",
-      "path": "Linear Algebra/Course9.15 线性代数.md"
-    },
-    {
-      "basename": "Gradient Descent & Back Propagation",
-      "path": "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md"
-    },
-    {
-      "basename": "Ch02 解线性方程组",
-      "path": "Linear Algebra/Ch02 解线性方程组.md"
-    },
-    {
       "basename": "Ch03 四个基本子空间",
       "path": "Linear Algebra/Ch03 四个基本子空间.md"
-    },
-    {
-      "basename": "Ch02 Limits of Learning",
-      "path": "A Course in ML/Ch02 Limits of Learning.md"
-    },
-    {
-      "basename": "Ch01 Decision Trees",
-      "path": "A Course in ML/Ch01 Decision Trees.md"
     },
     {
       "basename": "排序算法",
@@ -49,20 +73,12 @@
       "path": "MISC/复杂度.md"
     },
     {
-      "basename": "Ch01 向量和矩阵",
-      "path": "Linear Algebra/Ch01 向量和矩阵.md"
-    },
-    {
       "basename": "Pasted image 20250905121029",
       "path": "Pasted image 20250905121029.png"
     },
     {
       "basename": "MATLAB",
       "path": "Linear Algebra/MATLAB.md"
-    },
-    {
-      "basename": "教材知识拾遗",
-      "path": "C++ 程序设计/教材知识拾遗.md"
     },
     {
       "basename": "Screenshot 2025-09-05 at 10.40.07 AM",
