@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad7d5631ce17f317",
+        "id": "d318692c9cae736e",
         "type": "tabs",
         "children": [
           {
-            "id": "e15b9af8107a4ae3",
+            "id": "bfff550c7f0ff54d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MISC/排序算法.md",
-                "mode": "source",
+                "file": "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "排序算法"
+              "title": "Gradient Descent & Back Propagation"
             }
           }
         ]
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -205,28 +206,33 @@
       "infio-copilot:Open infio copilot": false
     }
   },
-  "active": "e15b9af8107a4ae3",
+  "active": "bfff550c7f0ff54d",
   "lastOpenFiles": [
-    "MISC/排序算法.md",
-    "MISC/复杂度.md",
+    "Pasted image 20250915094112.png",
+    "Pasted image 20250915093945.png",
+    "Pasted image 20250915093937.png",
+    "Pasted image 20250915093002.png",
+    "Pasted image 20250915092933.png",
+    "Pasted image 20250915092926.png",
+    "Pasted image 20250915092912.png",
+    "Pasted image 20250915092702.png",
+    "Pasted image 20250915092648.png",
+    "Linear Algebra/Course9.15 线性代数.md",
+    "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
+    "Neural Networks & Deep Learning",
     "Linear Algebra/Ch02 解线性方程组.md",
-    "Pasted image 20250909173003.png",
-    "Linear Algebra/Ch01 向量和矩阵.md",
-    "Pasted image 20250907203956.png",
-    "Pasted image 20250907203951.png",
-    "Pasted image 20250907203938.png",
-    "MISC",
+    "Linear Algebra/Ch03 四个基本子空间.md",
+    "IMG_6111.png",
+    "IMG_6111.heic",
     "A Course in ML/Ch02 Limits of Learning.md",
     "A Course in ML/Ch01 Decision Trees.md",
-    "Pasted image 20250907194554.png",
-    "Pasted image 20250907194334.png",
-    "Pasted image 20250907193811.png",
-    "Pasted image 20250907193805.png",
-    "Pasted image 20250907180013.png",
-    "Linear Algebra/Ch03 四个基本子空间.md",
+    "MISC/排序算法.md",
+    "MISC/复杂度.md",
+    "Pasted image 20250909173003.png",
+    "Linear Algebra/Ch01 向量和矩阵.md",
+    "MISC",
     "数学分析/映射与函数.md",
     "数学分析/集合.md",
-    "Pasted image 20250907174233.png",
     "A Course in ML",
     "Linear Algebra/MATLAB.md",
     "C++ 程序设计/教材知识拾遗.md",
@@ -247,7 +253,6 @@
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts"
   ]
 }
