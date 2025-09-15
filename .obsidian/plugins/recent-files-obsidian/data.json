@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Gradient Descent & Back Propagation",
-      "path": "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md"
+      "basename": "集合",
+      "path": "数学分析/集合.md"
+    },
+    {
+      "basename": "数域",
+      "path": "Linear Algebra/数域.md"
+    },
+    {
+      "basename": "求和符号",
+      "path": "Linear Algebra/求和符号.md"
+    },
+    {
+      "basename": "映射与函数",
+      "path": "数学分析/映射与函数.md"
     },
     {
       "basename": "Course9.15 线性代数",
       "path": "Linear Algebra/Course9.15 线性代数.md"
+    },
+    {
+      "basename": "Gradient Descent & Back Propagation",
+      "path": "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md"
     },
     {
       "basename": "Ch02 解线性方程组",
@@ -35,14 +51,6 @@
     {
       "basename": "Ch01 向量和矩阵",
       "path": "Linear Algebra/Ch01 向量和矩阵.md"
-    },
-    {
-      "basename": "映射与函数",
-      "path": "数学分析/映射与函数.md"
-    },
-    {
-      "basename": "集合",
-      "path": "数学分析/集合.md"
     },
     {
       "basename": "Pasted image 20250905121029",

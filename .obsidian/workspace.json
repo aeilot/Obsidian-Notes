@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d318692c9cae736e",
+        "id": "24d483987a1bc77d",
         "type": "tabs",
         "children": [
           {
-            "id": "bfff550c7f0ff54d",
+            "id": "3dcc985386965ab5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Gradient Descent & Back Propagation"
+              "title": "New tab"
             }
           }
         ]
@@ -94,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -206,33 +201,34 @@
       "infio-copilot:Open infio copilot": false
     }
   },
-  "active": "bfff550c7f0ff54d",
+  "active": "3dcc985386965ab5",
   "lastOpenFiles": [
+    "数学分析/集合.md",
+    "Linear Algebra/数域.md",
+    "Linear Algebra/求和符号.md",
+    "Pasted image 20250915101529.png",
+    "Pasted image 20250915101448.png",
+    "Pasted image 20250915101404.png",
+    "Pasted image 20250915101354.png",
+    "Pasted image 20250915101255.png",
+    "Pasted image 20250915101209.png",
+    "数学分析/映射与函数.md",
+    "Linear Algebra/Course9.15 线性代数.md",
+    "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
     "Pasted image 20250915094112.png",
     "Pasted image 20250915093945.png",
     "Pasted image 20250915093937.png",
     "Pasted image 20250915093002.png",
-    "Pasted image 20250915092933.png",
-    "Pasted image 20250915092926.png",
-    "Pasted image 20250915092912.png",
-    "Pasted image 20250915092702.png",
-    "Pasted image 20250915092648.png",
-    "Linear Algebra/Course9.15 线性代数.md",
-    "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
     "Neural Networks & Deep Learning",
     "Linear Algebra/Ch02 解线性方程组.md",
     "Linear Algebra/Ch03 四个基本子空间.md",
-    "IMG_6111.png",
     "IMG_6111.heic",
     "A Course in ML/Ch02 Limits of Learning.md",
     "A Course in ML/Ch01 Decision Trees.md",
     "MISC/排序算法.md",
     "MISC/复杂度.md",
-    "Pasted image 20250909173003.png",
     "Linear Algebra/Ch01 向量和矩阵.md",
     "MISC",
-    "数学分析/映射与函数.md",
-    "数学分析/集合.md",
     "A Course in ML",
     "Linear Algebra/MATLAB.md",
     "C++ 程序设计/教材知识拾遗.md",
@@ -251,8 +247,6 @@
     "copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts"
   ]
 }
