@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "334c6b9ede7d6514",
+        "id": "1cc3b4829fe43b3d",
         "type": "tabs",
         "children": [
           {
-            "id": "104d4b60d254e637",
+            "id": "14fadb414fc49f65",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -203,6 +203,10 @@
   },
   "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
+    "C++ 程序设计/SW104.pdf",
+    "C++ 程序设计/C++.Primer.5th.Edition_2013.pdf",
+    "C++ 程序设计/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf",
+    "MISC/introduction-to-algorithm-fourth-edition.pdf",
     "数学分析/《数学分析》习题全解指南(第二版上册).pdf",
     "数学分析/《数学分析》习题全解指南(第二版下册).pdf",
     "数学分析/《数学分析》陈纪修 第三版 上.pdf",
@@ -210,11 +214,7 @@
     "数学分析/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
     "数学分析/谢惠民清晰版.  数学分析习题课讲义.下.  2004.pdf",
     "Linear Algebra/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "Linear Algebra/Introduction to Linear Algebra.pdf",
-    "Linear Algebra/LADR4e.pdf",
     "Linear Algebra/Ch01 向量和矩阵.md",
-    "Linear Algebra/The-Art-of-Linear-Algebra.pdf",
-    "Linear Algebra/LADR4eChinese.pdf",
     "C++ 程序设计/教材知识拾遗.md",
     "A Course in ML/Ch02 Limits of Learning.md",
     "A Course in ML/Ch01 Decision Trees.md",
