@@ -1,3 +1,7 @@
 {
-  "vimMode": true
+  "vimMode": true,
+  "attachmentFolderPath": "attachments",
+  "promptDelete": false,
+  "trashOption": "system",
+  "newFileLocation": "current"
 }

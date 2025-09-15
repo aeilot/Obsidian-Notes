@@ -103,7 +103,7 @@
     "useCustomUrl": false,
     "models": []
   },
-  "mcpEnabled": false,
+  "mcpEnabled": true,
   "collectedChatModels": [],
   "collectedInsightModels": [],
   "collectedApplyModels": [],

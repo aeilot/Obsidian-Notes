@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1cc3b4829fe43b3d",
+        "id": "85fd7df593afb9be",
         "type": "tabs",
         "children": [
           {
-            "id": "14fadb414fc49f65",
+            "id": "af0ecf6707defc2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数学分析/Course9.15 关于《数学分析》.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Course9.15 关于《数学分析》"
             }
           }
         ]
@@ -86,11 +90,13 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -106,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "数学分析/Course9.15 关于《数学分析》.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Course9.15 关于《数学分析》"
             }
           },
           {
@@ -124,11 +131,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "数学分析/Course9.15 关于《数学分析》.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Course9.15 关于《数学分析》"
             }
           },
           {
@@ -152,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "数学分析/Course9.15 关于《数学分析》.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Course9.15 关于《数学分析》"
             }
           },
           {
@@ -179,6 +188,32 @@
               "icon": "wand-sparkles",
               "title": "Infio chat"
             }
+          },
+          {
+            "id": "df21d7a8d059f62b",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "数学分析/Course9.15 关于《数学分析》.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "5fe49de970b544c9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 4
@@ -194,50 +229,58 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "command-palette:Open command palette": true,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-git:Open Git source control": true,
       "audio-recorder:Start/stop recording": false,
-      "infio-copilot:Open infio copilot": false
+      "infio-copilot:Open infio copilot": true,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "markdown-importer:Open format converter": true,
+      "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "af0ecf6707defc2f",
   "lastOpenFiles": [
-    "C++ 程序设计/SW104.pdf",
-    "C++ 程序设计/C++.Primer.5th.Edition_2013.pdf",
-    "C++ 程序设计/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf",
-    "MISC/introduction-to-algorithm-fourth-edition.pdf",
-    "数学分析/《数学分析》习题全解指南(第二版上册).pdf",
-    "数学分析/《数学分析》习题全解指南(第二版下册).pdf",
-    "数学分析/《数学分析》陈纪修 第三版 上.pdf",
-    "数学分析/《数学分析》陈纪修 第三版 下.pdf",
-    "数学分析/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
-    "数学分析/谢惠民清晰版.  数学分析习题课讲义.下.  2004.pdf",
-    "Linear Algebra/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "Linear Algebra/Ch01 向量和矩阵.md",
-    "C++ 程序设计/教材知识拾遗.md",
-    "A Course in ML/Ch02 Limits of Learning.md",
-    "A Course in ML/Ch01 Decision Trees.md",
-    "Linear Algebra/Ch02 解线性方程组.md",
-    "Linear Algebra/Course9.15 线性代数.md",
-    "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
+    "attachments/Pasted image 20250915223910.png",
+    "attachments/Weixin Image_20250915213524_2.jpg",
+    "attachments/Weixin Image_20250915213524_10.jpg",
+    "attachments/Weixin Image_20250915213524_9.jpg",
+    "attachments/Weixin Image_20250915213524_8.jpg",
+    "attachments/Weixin Image_20250915213524_7.jpg",
+    "attachments/Weixin Image_20250915213524_6.jpg",
+    "attachments/Weixin Image_20250915213524_5.jpg",
+    "attachments/Weixin Image_20250915213524_4.jpg",
+    "attachments/Weixin Image_20250915213524_3.jpg",
+    "attachments/Pasted image 20250915164841.png",
+    "数学分析/Course9.15 关于《数学分析》.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf",
+    "数学分析/映射与函数.md",
     "数学分析/集合.md",
+    "MISC/PDFs/introduction-to-algorithm-fourth-edition.pdf",
+    "MISC/PDFs",
+    "MISC/untitled folder",
+    "A Course in ML/PDFs/ciml-v0_99-all.pdf",
+    "A Course in ML/PDFs",
+    "A Course in ML/untitled folder",
+    "Linear Algebra/PDFs/The-Art-of-Linear-Algebra.pdf",
+    "Linear Algebra/PDFs/LADR4eChinese.pdf",
+    "Linear Algebra/PDFs/LADR4e.pdf",
+    "Linear Algebra/Ch02 解线性方程组.md",
+    "Linear Algebra/Ch01 向量和矩阵.md",
+    "_infio_prompts/ask/system_prompt.md",
     "Linear Algebra/数域.md",
     "Linear Algebra/求和符号.md",
-    "Pasted image 20250915101529.png",
-    "Pasted image 20250915101448.png",
-    "Pasted image 20250915101404.png",
-    "Pasted image 20250915101354.png",
-    "Pasted image 20250915101255.png",
-    "Pasted image 20250915101209.png",
-    "数学分析/映射与函数.md",
-    "Pasted image 20250915094112.png",
-    "Pasted image 20250915093945.png",
-    "Pasted image 20250915093937.png",
-    "Pasted image 20250915093002.png",
-    "Linear Algebra/Ch03 四个基本子空间.md",
-    "MISC/排序算法.md",
     "MISC/复杂度.md",
+    "MISC/排序算法.md",
+    "C++ 程序设计/教材知识拾遗.md",
+    "A Course in ML/Ch02 Limits of Learning.md",
+    "Linear Algebra/Ch03 四个基本子空间.md",
+    "A Course in ML/Ch01 Decision Trees.md",
+    "Untitled.md",
+    "Linear Algebra/Course9.15 线性代数.md",
+    "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
     "Linear Algebra/MATLAB.md",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas",
@@ -247,9 +290,6 @@
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Generate table of contents.md"
+    "copilot-custom-prompts/Explain like I am 5.md"
   ]
 }

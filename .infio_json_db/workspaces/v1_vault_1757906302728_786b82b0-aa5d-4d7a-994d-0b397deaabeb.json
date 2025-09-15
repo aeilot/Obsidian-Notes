@@ -7,12 +7,17 @@
       "content": "/"
     }
   ],
-  "chatHistory": [],
+  "chatHistory": [
+    {
+      "id": "3cdac864-728a-4d78-9e1c-9704465cf36e",
+      "title": "Hello"
+    }
+  ],
   "metadata": {
     "isDefault": true,
     "description": "all vault as workspace"
   },
   "createdAt": 1756950863105,
-  "updatedAt": 1756950863105,
+  "updatedAt": 1757906302728,
   "schemaVersion": 1
 }
