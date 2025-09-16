@@ -75,7 +75,7 @@ $A\subset B , B\subset A\implies A=B$
 
 交、并、差、补
 
-差 $A \setminus B$
+差 $A \setminus B$ （集合相减）
 
 补 $C_{X}A$ or $A^C$
 

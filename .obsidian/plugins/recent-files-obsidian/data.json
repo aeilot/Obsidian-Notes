@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "链式前向星",
+      "path": "MISC/链式前向星.md"
+    },
+    {
+      "basename": "排序算法",
+      "path": "MISC/排序算法.md"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "Linear Algebra/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "Introduction to Linear Algebra",
+      "path": "Linear Algebra/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "映射与函数",
+      "path": "数学分析/映射与函数.md"
+    },
+    {
+      "basename": "Ch02 解线性方程组",
+      "path": "Linear Algebra/Ch02 解线性方程组.md"
+    },
+    {
+      "basename": "数列极限",
+      "path": "数学分析/数列极限.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "《数学分析》习题全解指南(第二版下册)",
+      "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版下册).pdf"
+    },
+    {
       "basename": "Course9.15 关于《数学分析》",
       "path": "数学分析/Course9.15 关于《数学分析》.md"
     },
@@ -13,16 +49,8 @@
       "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf"
     },
     {
-      "basename": "映射与函数",
-      "path": "数学分析/映射与函数.md"
-    },
-    {
       "basename": "集合",
       "path": "数学分析/集合.md"
-    },
-    {
-      "basename": "Ch02 解线性方程组",
-      "path": "Linear Algebra/Ch02 解线性方程组.md"
     },
     {
       "basename": "Ch01 向量和矩阵",
@@ -41,10 +69,6 @@
       "path": "MISC/复杂度.md"
     },
     {
-      "basename": "排序算法",
-      "path": "MISC/排序算法.md"
-    },
-    {
       "basename": "教材知识拾遗",
       "path": "C++ 程序设计/教材知识拾遗.md"
     },
@@ -55,10 +79,6 @@
     {
       "basename": "C++.Primer.5th.Edition_2013",
       "path": "C++ 程序设计/PDFs/C++.Primer.5th.Edition_2013.pdf"
-    },
-    {
-      "basename": "Ch03 四个基本子空间",
-      "path": "Linear Algebra/Ch03 四个基本子空间.md"
     },
     {
       "basename": "Ch01 Decision Trees",

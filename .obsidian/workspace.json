@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "85fd7df593afb9be",
+        "id": "594c5418d6464d54",
         "type": "tabs",
         "children": [
           {
-            "id": "af0ecf6707defc2f",
+            "id": "661de5cbdf12864f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学分析/Course9.15 关于《数学分析》.md",
+                "file": "MISC/链式前向星.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Course9.15 关于《数学分析》"
+              "title": "链式前向星"
             }
           }
         ]
@@ -95,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -241,8 +240,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "af0ecf6707defc2f",
+  "active": "661de5cbdf12864f",
   "lastOpenFiles": [
+    "MISC/排序算法.md",
+    "MISC/链式前向星.md",
+    "Linear Algebra/Ch03 四个基本子空间.md",
+    "Linear Algebra/PDFs/Introduction to Linear Algebra.pdf",
+    "attachments/Pasted image 20250916145311.png",
+    "attachments/Pasted image 20250916144859.png",
+    "数学分析/映射与函数.md",
+    "Linear Algebra/Ch02 解线性方程组.md",
+    "数学分析/数列极限.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/PDFs/《数学分析》习题全解指南(第二版下册).pdf",
+    "数学分析/Course9.15 关于《数学分析》.md",
     "attachments/Pasted image 20250915223910.png",
     "attachments/Weixin Image_20250915213524_2.jpg",
     "attachments/Weixin Image_20250915213524_10.jpg",
@@ -251,12 +262,7 @@
     "attachments/Weixin Image_20250915213524_7.jpg",
     "attachments/Weixin Image_20250915213524_6.jpg",
     "attachments/Weixin Image_20250915213524_5.jpg",
-    "attachments/Weixin Image_20250915213524_4.jpg",
-    "attachments/Weixin Image_20250915213524_3.jpg",
-    "attachments/Pasted image 20250915164841.png",
-    "数学分析/Course9.15 关于《数学分析》.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf",
-    "数学分析/映射与函数.md",
     "数学分析/集合.md",
     "MISC/PDFs/introduction-to-algorithm-fourth-edition.pdf",
     "MISC/PDFs",
@@ -264,21 +270,14 @@
     "A Course in ML/PDFs/ciml-v0_99-all.pdf",
     "A Course in ML/PDFs",
     "A Course in ML/untitled folder",
-    "Linear Algebra/PDFs/The-Art-of-Linear-Algebra.pdf",
-    "Linear Algebra/PDFs/LADR4eChinese.pdf",
-    "Linear Algebra/PDFs/LADR4e.pdf",
-    "Linear Algebra/Ch02 解线性方程组.md",
     "Linear Algebra/Ch01 向量和矩阵.md",
     "_infio_prompts/ask/system_prompt.md",
     "Linear Algebra/数域.md",
     "Linear Algebra/求和符号.md",
     "MISC/复杂度.md",
-    "MISC/排序算法.md",
     "C++ 程序设计/教材知识拾遗.md",
     "A Course in ML/Ch02 Limits of Learning.md",
-    "Linear Algebra/Ch03 四个基本子空间.md",
     "A Course in ML/Ch01 Decision Trees.md",
-    "Untitled.md",
     "Linear Algebra/Course9.15 线性代数.md",
     "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
     "Linear Algebra/MATLAB.md",
@@ -289,7 +288,6 @@
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
     "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Explain like I am 5.md"
+    "copilot-custom-prompts/Generate glossary.md"
   ]
 }
