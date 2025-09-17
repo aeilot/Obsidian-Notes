@@ -4,51 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c34efe7a4bdd9331",
+        "id": "b6cd27cc08af0a70",
         "type": "tabs",
-        "dimension": 41.05642256902761,
         "children": [
           {
-            "id": "63905c156c6b5ff4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 23,
-                "left": 24,
-                "top": 343,
-                "zoom": 1.3
-              },
-              "icon": "lucide-file-text",
-              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
-            }
-          },
-          {
-            "id": "315f73a361bd0dc1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "线性代数/PDFs/Introduction to Linear Algebra.pdf",
-                "page": 107,
-                "left": -13,
-                "top": 647,
-                "zoom": 1.19493908153702
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to Linear Algebra"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0b2ee910e699c21f",
-        "type": "tabs",
-        "dimension": 58.9435774309724,
-        "children": [
-          {
-            "id": "1d8b36dd19ce984b",
+            "id": "e15e34b9de2f10b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -135,8 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -260,8 +219,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -282,11 +240,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1d8b36dd19ce984b",
+  "active": "e15e34b9de2f10b3",
   "lastOpenFiles": [
+    "线性代数/Ch03 四个基本子空间.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "线性代数/Course9.17 线性型与矩阵概念引入.md",
+    "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
     "线性代数/Course9.15 线性代数.md",
+    "线性代数/Course9.17 线性型与矩阵概念引入.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/PDFs/LADR4eChinese.pdf",
     "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
@@ -302,7 +262,6 @@
     "C++ 程序设计/PDFs/SW104.pdf",
     "MISC/链式前向星.md",
     "MISC/排序算法.md",
-    "线性代数/Ch03 四个基本子空间.md",
     "attachments/Pasted image 20250916145311.png",
     "attachments/Pasted image 20250916144859.png",
     "数学分析/映射与函数.md",
@@ -325,7 +284,6 @@
     "MISC/复杂度.md",
     "C++ 程序设计/教材知识拾遗.md",
     "A Course in ML/Ch01 Decision Trees.md",
-    "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
     "线性代数/MATLAB.md",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas",

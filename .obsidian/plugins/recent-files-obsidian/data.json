@@ -5,8 +5,16 @@
       "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
     },
     {
+      "basename": "Ch03 四个基本子空间",
+      "path": "线性代数/Ch03 四个基本子空间.md"
+    },
+    {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "Gradient Descent & Back Propagation",
+      "path": "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md"
     },
     {
       "basename": "Course9.15 线性代数",
@@ -71,10 +79,6 @@
     {
       "basename": "排序算法",
       "path": "MISC/排序算法.md"
-    },
-    {
-      "basename": "Ch03 四个基本子空间",
-      "path": "线性代数/Ch03 四个基本子空间.md"
     },
     {
       "basename": "映射与函数",
@@ -143,10 +147,6 @@
     {
       "basename": "Screenshot 2025-09-07 at 15.38.54",
       "path": "attachments/Screenshot 2025-09-07 at 15.38.54.png"
-    },
-    {
-      "basename": "Gradient Descent & Back Propagation",
-      "path": "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md"
     },
     {
       "basename": "Pasted image 20250905121029",
