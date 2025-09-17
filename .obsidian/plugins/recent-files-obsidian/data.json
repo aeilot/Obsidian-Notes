@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Course9.17 线性型与矩阵概念引入",
+      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
+    },
+    {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "Course9.15 线性代数",
+      "path": "线性代数/Course9.15 线性代数.md"
+    },
+    {
+      "basename": "Introduction to Linear Algebra",
+      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "LADR4eChinese",
+      "path": "线性代数/PDFs/LADR4eChinese.pdf"
+    },
+    {
+      "basename": "The-Art-of-Linear-Algebra",
+      "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
+    },
+    {
+      "basename": "LADR4e",
+      "path": "线性代数/PDFs/LADR4e.pdf"
     },
     {
       "basename": "Course9.15 关于《数学分析》",
@@ -51,10 +75,6 @@
     {
       "basename": "Ch03 四个基本子空间",
       "path": "线性代数/Ch03 四个基本子空间.md"
-    },
-    {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
       "basename": "映射与函数",
@@ -123,10 +143,6 @@
     {
       "basename": "Screenshot 2025-09-07 at 15.38.54",
       "path": "attachments/Screenshot 2025-09-07 at 15.38.54.png"
-    },
-    {
-      "basename": "Course9.15 线性代数",
-      "path": "线性代数/Course9.15 线性代数.md"
     },
     {
       "basename": "Gradient Descent & Back Propagation",
