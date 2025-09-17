@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Course9.17 线性型与矩阵概念引入",
-      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "Course9.15习题 集族证明题",
+      "path": "数学分析/Course9.15习题 集族证明题.md"
     },
     {
       "basename": "Ch03 四个基本子空间",
       "path": "线性代数/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "Introduction to Linear Algebra",
+      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "线性代数/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "Course9.15 线性代数",
+      "path": "线性代数/Course9.15 线性代数.md"
+    },
+    {
+      "basename": "Ch02 解线性方程组",
+      "path": "线性代数/Ch02 解线性方程组.md"
+    },
+    {
+      "basename": "The-Art-of-Linear-Algebra",
+      "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
+    },
+    {
+      "basename": "Course9.17 线性型与矩阵概念引入",
+      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
     },
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
@@ -17,20 +49,8 @@
       "path": "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md"
     },
     {
-      "basename": "Course9.15 线性代数",
-      "path": "线性代数/Course9.15 线性代数.md"
-    },
-    {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
-    },
-    {
       "basename": "LADR4eChinese",
       "path": "线性代数/PDFs/LADR4eChinese.pdf"
-    },
-    {
-      "basename": "The-Art-of-Linear-Algebra",
-      "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
     },
     {
       "basename": "LADR4e",
@@ -43,10 +63,6 @@
     {
       "basename": "Course9.15习题 补充题",
       "path": "数学分析/Course9.15习题 补充题.md"
-    },
-    {
-      "basename": "Course9.15习题 集族证明题",
-      "path": "数学分析/Course9.15习题 集族证明题.md"
     },
     {
       "basename": "Course9.15习题 对合函数",
@@ -85,16 +101,8 @@
       "path": "数学分析/映射与函数.md"
     },
     {
-      "basename": "Ch02 解线性方程组",
-      "path": "线性代数/Ch02 解线性方程组.md"
-    },
-    {
       "basename": "数列极限",
       "path": "数学分析/数列极限.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
       "basename": "《数学分析》习题全解指南(第二版下册)",
@@ -111,10 +119,6 @@
     {
       "basename": "集合",
       "path": "数学分析/集合.md"
-    },
-    {
-      "basename": "Ch01 向量和矩阵",
-      "path": "线性代数/Ch01 向量和矩阵.md"
     },
     {
       "basename": "数域",
