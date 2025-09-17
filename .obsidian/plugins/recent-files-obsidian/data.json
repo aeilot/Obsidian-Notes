@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "Course9.15 关于《数学分析》",
+      "path": "数学分析/Course9.15 关于《数学分析》.md"
+    },
+    {
+      "basename": "Course9.15习题 补充题",
+      "path": "数学分析/Course9.15习题 补充题.md"
+    },
+    {
+      "basename": "Course9.15习题 集族证明题",
+      "path": "数学分析/Course9.15习题 集族证明题.md"
+    },
+    {
+      "basename": "Course9.15习题 对合函数",
+      "path": "数学分析/Course9.15习题 对合函数.md"
+    },
+    {
+      "basename": "ciml-v0_99-all",
+      "path": "A Course in ML/PDFs/ciml-v0_99-all.pdf"
+    },
+    {
+      "basename": "Ch02 Limits of Learning",
+      "path": "A Course in ML/Ch02 Limits of Learning.md"
+    },
+    {
+      "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
+      "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
+    },
+    {
+      "basename": "Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir)",
+      "path": "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf"
+    },
+    {
+      "basename": "SW104",
+      "path": "C++ 程序设计/PDFs/SW104.pdf"
+    },
+    {
       "basename": "链式前向星",
       "path": "MISC/链式前向星.md"
     },
@@ -10,11 +50,11 @@
     },
     {
       "basename": "Ch03 四个基本子空间",
-      "path": "Linear Algebra/Ch03 四个基本子空间.md"
+      "path": "线性代数/Ch03 四个基本子空间.md"
     },
     {
       "basename": "Introduction to Linear Algebra",
-      "path": "Linear Algebra/PDFs/Introduction to Linear Algebra.pdf"
+      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
       "basename": "映射与函数",
@@ -22,7 +62,7 @@
     },
     {
       "basename": "Ch02 解线性方程组",
-      "path": "Linear Algebra/Ch02 解线性方程组.md"
+      "path": "线性代数/Ch02 解线性方程组.md"
     },
     {
       "basename": "数列极限",
@@ -35,10 +75,6 @@
     {
       "basename": "《数学分析》习题全解指南(第二版下册)",
       "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版下册).pdf"
-    },
-    {
-      "basename": "Course9.15 关于《数学分析》",
-      "path": "数学分析/Course9.15 关于《数学分析》.md"
     },
     {
       "basename": "Image",
@@ -54,15 +90,15 @@
     },
     {
       "basename": "Ch01 向量和矩阵",
-      "path": "Linear Algebra/Ch01 向量和矩阵.md"
+      "path": "线性代数/Ch01 向量和矩阵.md"
     },
     {
       "basename": "数域",
-      "path": "Linear Algebra/数域.md"
+      "path": "线性代数/数域.md"
     },
     {
       "basename": "求和符号",
-      "path": "Linear Algebra/求和符号.md"
+      "path": "线性代数/求和符号.md"
     },
     {
       "basename": "复杂度",
@@ -71,10 +107,6 @@
     {
       "basename": "教材知识拾遗",
       "path": "C++ 程序设计/教材知识拾遗.md"
-    },
-    {
-      "basename": "Ch02 Limits of Learning",
-      "path": "A Course in ML/Ch02 Limits of Learning.md"
     },
     {
       "basename": "C++.Primer.5th.Edition_2013",
@@ -93,20 +125,8 @@
       "path": "attachments/Screenshot 2025-09-07 at 15.38.54.png"
     },
     {
-      "basename": "Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir)",
-      "path": "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf"
-    },
-    {
-      "basename": "SW104",
-      "path": "C++ 程序设计/PDFs/SW104.pdf"
-    },
-    {
-      "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
-      "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
-    },
-    {
       "basename": "Course9.15 线性代数",
-      "path": "Linear Algebra/Course9.15 线性代数.md"
+      "path": "线性代数/Course9.15 线性代数.md"
     },
     {
       "basename": "Gradient Descent & Back Propagation",
@@ -118,7 +138,7 @@
     },
     {
       "basename": "MATLAB",
-      "path": "Linear Algebra/MATLAB.md"
+      "path": "线性代数/MATLAB.md"
     },
     {
       "basename": "Screenshot 2025-09-05 at 10.40.07 AM",

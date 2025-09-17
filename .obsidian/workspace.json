@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "594c5418d6464d54",
+        "id": "c34efe7a4bdd9331",
         "type": "tabs",
         "children": [
           {
-            "id": "661de5cbdf12864f",
+            "id": "63905c156c6b5ff4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "MISC/链式前向星.md",
-                "mode": "source",
-                "source": false
+                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+                "page": 22,
+                "left": -4,
+                "top": 635,
+                "zoom": 1.9
               },
-              "icon": "lucide-file",
-              "title": "链式前向星"
+              "icon": "lucide-file-text",
+              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
             }
           }
         ]
@@ -95,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -240,20 +243,29 @@
       "random-note:Open random note": false
     }
   },
-  "active": "661de5cbdf12864f",
+  "active": "63905c156c6b5ff4",
   "lastOpenFiles": [
-    "MISC/排序算法.md",
+    "数学分析/Course9.15 关于《数学分析》.md",
+    "数学分析/Course9.15习题 集族证明题.md",
+    "数学分析/Course9.15习题 补充题.md",
+    "数学分析/Course9.15习题 对合函数.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "A Course in ML/PDFs/ciml-v0_99-all.pdf",
+    "A Course in ML/Ch02 Limits of Learning.md",
+    "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
+    "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf",
+    "C++ 程序设计/PDFs/SW104.pdf",
     "MISC/链式前向星.md",
-    "Linear Algebra/Ch03 四个基本子空间.md",
-    "Linear Algebra/PDFs/Introduction to Linear Algebra.pdf",
+    "MISC/排序算法.md",
+    "线性代数/Ch03 四个基本子空间.md",
+    "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "attachments/Pasted image 20250916145311.png",
     "attachments/Pasted image 20250916144859.png",
     "数学分析/映射与函数.md",
-    "Linear Algebra/Ch02 解线性方程组.md",
+    "线性代数/Ch02 解线性方程组.md",
     "数学分析/数列极限.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/PDFs/《数学分析》习题全解指南(第二版下册).pdf",
-    "数学分析/Course9.15 关于《数学分析》.md",
     "attachments/Pasted image 20250915223910.png",
     "attachments/Weixin Image_20250915213524_2.jpg",
     "attachments/Weixin Image_20250915213524_10.jpg",
@@ -265,29 +277,21 @@
     "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf",
     "数学分析/集合.md",
     "MISC/PDFs/introduction-to-algorithm-fourth-edition.pdf",
-    "MISC/PDFs",
-    "MISC/untitled folder",
-    "A Course in ML/PDFs/ciml-v0_99-all.pdf",
-    "A Course in ML/PDFs",
-    "A Course in ML/untitled folder",
-    "Linear Algebra/Ch01 向量和矩阵.md",
+    "线性代数/Ch01 向量和矩阵.md",
     "_infio_prompts/ask/system_prompt.md",
-    "Linear Algebra/数域.md",
-    "Linear Algebra/求和符号.md",
+    "线性代数/数域.md",
+    "线性代数/求和符号.md",
     "MISC/复杂度.md",
     "C++ 程序设计/教材知识拾遗.md",
-    "A Course in ML/Ch02 Limits of Learning.md",
     "A Course in ML/Ch01 Decision Trees.md",
-    "Linear Algebra/Course9.15 线性代数.md",
+    "线性代数/Course9.15 线性代数.md",
     "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
-    "Linear Algebra/MATLAB.md",
+    "线性代数/MATLAB.md",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas",
     "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Generate glossary.md"
+    "copilot-custom-prompts/Rewrite as tweet.md"
   ]
 }
