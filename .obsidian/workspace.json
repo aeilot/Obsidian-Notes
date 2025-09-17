@@ -6,7 +6,7 @@
       {
         "id": "c34efe7a4bdd9331",
         "type": "tabs",
-        "dimension": 63.4453781512605,
+        "dimension": 41.05642256902761,
         "children": [
           {
             "id": "63905c156c6b5ff4",
@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 24,
-                "left": -1,
-                "top": 630,
+                "page": 23,
+                "left": 24,
+                "top": 343,
                 "zoom": 1.3
               },
               "icon": "lucide-file-text",
@@ -45,7 +45,7 @@
       {
         "id": "0b2ee910e699c21f",
         "type": "tabs",
-        "dimension": 36.554621848739494,
+        "dimension": 58.9435774309724,
         "children": [
           {
             "id": "1d8b36dd19ce984b",
@@ -260,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
