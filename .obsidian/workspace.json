@@ -4,45 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "ded3015de2f0b949",
+        "id": "20d7a78cb3107e52",
         "type": "tabs",
-        "dimension": 62.60504201680672,
+        "dimension": 63.02521008403361,
         "children": [
           {
-            "id": "73f5d47b7514bb41",
+            "id": "f8caa4e18efd2bc1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-                "page": 47,
-                "left": -22,
-                "top": 626,
-                "zoom": 1.5
+                "file": "A Course in ML/PDFs/ciml-v0_99-all.pdf",
+                "page": 27,
+                "left": -18,
+                "top": 176,
+                "zoom": 0.8774509803921569
               },
               "icon": "lucide-file-text",
-              "title": "《数学分析》陈纪修 第三版 上"
+              "title": "ciml-v0_99-all"
             }
           }
         ]
       },
       {
-        "id": "ca8d9ba8ad0754d7",
+        "id": "9ef1e2b9f7d875cf",
         "type": "tabs",
-        "dimension": 37.39495798319328,
+        "dimension": 36.97478991596639,
         "children": [
           {
-            "id": "b21ce94d7a262d26",
+            "id": "9f6c232b13a98ed1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学分析/Course9.15习题 集族证明题.md",
+                "file": "A Course in ML/Ch02 Limits of Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Course9.15习题 集族证明题"
+              "title": "Ch02 Limits of Learning"
             }
           }
         ]
@@ -265,13 +265,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b21ce94d7a262d26",
+  "active": "f8caa4e18efd2bc1",
   "lastOpenFiles": [
+    "A Course in ML/Ch02 Limits of Learning.md",
+    "A Course in ML/PDFs/ciml-v0_99-all.pdf",
     "数学分析/实数集与连续统.md",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/Course9.15习题 集族证明题.md",
-    "线性代数/Ch03 四个基本子空间.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/数列极限.md",
+    "线性代数/Ch03 四个基本子空间.md",
     "线性代数/Ch01 向量和矩阵.md",
     "线性代数/Course9.15 线性代数.md",
     "线性代数/Ch02 解线性方程组.md",
@@ -284,8 +287,6 @@
     "数学分析/Course9.15 关于《数学分析》.md",
     "数学分析/Course9.15习题 补充题.md",
     "数学分析/Course9.15习题 对合函数.md",
-    "A Course in ML/PDFs/ciml-v0_99-all.pdf",
-    "A Course in ML/Ch02 Limits of Learning.md",
     "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
     "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf",
     "C++ 程序设计/PDFs/SW104.pdf",
@@ -294,7 +295,6 @@
     "attachments/Pasted image 20250916145311.png",
     "attachments/Pasted image 20250916144859.png",
     "数学分析/映射与函数.md",
-    "数学分析/数列极限.md",
     "attachments/Pasted image 20250915223910.png",
     "attachments/Weixin Image_20250915213524_2.jpg",
     "attachments/Weixin Image_20250915213524_10.jpg",

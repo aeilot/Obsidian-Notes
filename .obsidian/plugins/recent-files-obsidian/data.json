@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Course9.15习题 集族证明题",
-      "path": "数学分析/Course9.15习题 集族证明题.md"
+      "basename": "ciml-v0_99-all",
+      "path": "A Course in ML/PDFs/ciml-v0_99-all.pdf"
+    },
+    {
+      "basename": "Ch02 Limits of Learning",
+      "path": "A Course in ML/Ch02 Limits of Learning.md"
     },
     {
       "basename": "实数集与连续统",
       "path": "数学分析/实数集与连续统.md"
     },
     {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
-      "basename": "Ch03 四个基本子空间",
-      "path": "线性代数/Ch03 四个基本子空间.md"
+      "basename": "Course9.15习题 集族证明题",
+      "path": "数学分析/Course9.15习题 集族证明题.md"
     },
     {
       "basename": "Introduction to Linear Algebra",
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "数列极限",
+      "path": "数学分析/数列极限.md"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "线性代数/Ch03 四个基本子空间.md"
     },
     {
       "basename": "Ch01 向量和矩阵",
@@ -69,14 +81,6 @@
       "path": "数学分析/Course9.15习题 对合函数.md"
     },
     {
-      "basename": "ciml-v0_99-all",
-      "path": "A Course in ML/PDFs/ciml-v0_99-all.pdf"
-    },
-    {
-      "basename": "Ch02 Limits of Learning",
-      "path": "A Course in ML/Ch02 Limits of Learning.md"
-    },
-    {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
       "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "映射与函数",
       "path": "数学分析/映射与函数.md"
-    },
-    {
-      "basename": "数列极限",
-      "path": "数学分析/数列极限.md"
     },
     {
       "basename": "《数学分析》习题全解指南(第二版下册)",
