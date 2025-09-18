@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Course9.17习题 证明无理数集具有连续统势",
-      "path": "数学分析/Course9.17习题 证明无理数集具有连续统势.md"
+      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
+      "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
     },
     {
-      "basename": "数列极限",
-      "path": "数学分析/数列极限.md"
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
+    },
+    {
+      "basename": "Course9.15习题 集族证明题",
+      "path": "数学分析/Course9.15习题 集族证明题.md"
     },
     {
       "basename": "《数学分析》陈纪修 第三版 上",
       "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
-      "basename": "introduction-to-algorithm-fourth-edition",
-      "path": "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf"
+      "basename": "Course9.15 关于《数学分析》",
+      "path": "数学分析/Course9.15 关于《数学分析》.md"
     },
     {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
+      "basename": "Course9.15习题 对合函数",
+      "path": "数学分析/Course9.15习题 对合函数.md"
+    },
+    {
+      "basename": "Course9.15习题 补充题",
+      "path": "数学分析/Course9.15习题 补充题.md"
+    },
+    {
+      "basename": "数列极限",
+      "path": "数学分析/数列极限.md"
+    },
+    {
+      "basename": "introduction-to-algorithm-fourth-edition",
+      "path": "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf"
     },
     {
       "basename": "ciml-v0_99-all",
@@ -27,10 +43,6 @@
     {
       "basename": "Ch02 Limits of Learning",
       "path": "A Course in ML/Ch02 Limits of Learning.md"
-    },
-    {
-      "basename": "Course9.15习题 集族证明题",
-      "path": "数学分析/Course9.15习题 集族证明题.md"
     },
     {
       "basename": "Introduction to Linear Algebra",
@@ -75,18 +87,6 @@
     {
       "basename": "LADR4e",
       "path": "线性代数/PDFs/LADR4e.pdf"
-    },
-    {
-      "basename": "Course9.15 关于《数学分析》",
-      "path": "数学分析/Course9.15 关于《数学分析》.md"
-    },
-    {
-      "basename": "Course9.15习题 补充题",
-      "path": "数学分析/Course9.15习题 补充题.md"
-    },
-    {
-      "basename": "Course9.15习题 对合函数",
-      "path": "数学分析/Course9.15习题 对合函数.md"
     },
     {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
