@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "数列极限",
+      "path": "数学分析/数列极限.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "introduction-to-algorithm-fourth-edition",
+      "path": "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf"
+    },
+    {
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
+    },
+    {
       "basename": "ciml-v0_99-all",
       "path": "A Course in ML/PDFs/ciml-v0_99-all.pdf"
     },
@@ -9,24 +25,12 @@
       "path": "A Course in ML/Ch02 Limits of Learning.md"
     },
     {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
-    },
-    {
       "basename": "Course9.15习题 集族证明题",
       "path": "数学分析/Course9.15习题 集族证明题.md"
     },
     {
       "basename": "Introduction to Linear Algebra",
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
-      "basename": "数列极限",
-      "path": "数学分析/数列极限.md"
     },
     {
       "basename": "Ch03 四个基本子空间",
