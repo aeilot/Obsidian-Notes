@@ -16,3 +16,7 @@ C(2, 3)
 ## Chapter 2
 
 `A'`: A transposed
+
+## Chapter 3
+
+![[Introduction to Linear Algebra.pdf#page=115&rect=55,108,458,148|Introduction to Linear Algebra, p.105]]
