@@ -17,7 +17,7 @@
                 "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
                 "page": 50,
                 "left": -15,
-                "top": 310,
+                "top": 220,
                 "zoom": 1.069023493153743
               },
               "icon": "lucide-file-text",
@@ -267,8 +267,8 @@
   },
   "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/数列极限.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/Ch03 四个基本子空间.md",
     "线性代数/Ch01 向量和矩阵.md",
