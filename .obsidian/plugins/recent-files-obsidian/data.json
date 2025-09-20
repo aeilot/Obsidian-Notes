@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "数列极限",
-      "path": "数学分析/数列极限.md"
-    },
-    {
       "basename": "《数学分析》陈纪修 第三版 上",
       "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "数列极限",
+      "path": "数学分析/数列极限.md"
+    },
+    {
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
     },
     {
       "basename": "Ch03 四个基本子空间",
       "path": "线性代数/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "Introduction to Linear Algebra",
+      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
       "basename": "Ch01 向量和矩阵",
@@ -23,10 +31,6 @@
     {
       "basename": "MATLAB",
       "path": "线性代数/MATLAB.md"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "Course9.19 矩阵的运算",
@@ -59,10 +63,6 @@
     {
       "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
       "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
-    },
-    {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
     },
     {
       "basename": "Course9.15习题 集族证明题",
