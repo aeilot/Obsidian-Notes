@@ -16,9 +16,9 @@
               "state": {
                 "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
                 "page": 49,
-                "left": -4,
-                "top": 324,
-                "zoom": 1.557944531934352
+                "left": -19,
+                "top": 340,
+                "zoom": 0.7970513397484524
               },
               "icon": "lucide-file-text",
               "title": "《数学分析》陈纪修 第三版 上"
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -265,12 +264,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "d5bb2b65c7ae1078",
+  "active": "c8906a1fcbaad135",
   "lastOpenFiles": [
+    "数学分析/Course9.19 有理数是无限十进循环小数.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/数列极限.md",
     "数学分析/Course9.15习题 对合函数.md",
     "数学分析/Course9.19 思考题：区间的条件.md",
-    "数学分析/数列极限.md",
     "数学分析/实数集与连续统.md",
     "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
@@ -305,7 +305,6 @@
     "MISC/排序算法.md",
     "attachments/Pasted image 20250916145311.png",
     "attachments/Pasted image 20250916144859.png",
-    "数学分析/映射与函数.md",
     "attachments/Pasted image 20250915223910.png",
     "attachments/Weixin Image_20250915213524_2.jpg",
     "attachments/Weixin Image_20250915213524_10.jpg",
