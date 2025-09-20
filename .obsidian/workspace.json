@@ -6,21 +6,43 @@
       {
         "id": "523423de73782d43",
         "type": "tabs",
+        "dimension": 61.77351707609346,
         "children": [
           {
-            "id": "d5bb2b65c7ae1078",
+            "id": "c8906a1fcbaad135",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-                "page": 52,
-                "left": -12,
-                "top": 303,
-                "zoom": 1.328418899580754
+                "page": 49,
+                "left": -4,
+                "top": 324,
+                "zoom": 1.557944531934352
               },
               "icon": "lucide-file-text",
               "title": "《数学分析》陈纪修 第三版 上"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c51d8e576ef39de3",
+        "type": "tabs",
+        "dimension": 38.22648292390653,
+        "children": [
+          {
+            "id": "d5bb2b65c7ae1078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学分析/数列极限.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "数列极限"
             }
           }
         ]
@@ -97,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 317.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -242,12 +265,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "db16830458a3c290",
+  "active": "d5bb2b65c7ae1078",
   "lastOpenFiles": [
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "数学分析/Course9.15习题 对合函数.md",
+    "数学分析/Course9.19 思考题：区间的条件.md",
     "数学分析/数列极限.md",
     "数学分析/实数集与连续统.md",
+    "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/Ch03 四个基本子空间.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/Ch01 向量和矩阵.md",
@@ -260,11 +286,9 @@
     "线性代数/数域.md",
     "线性代数/求和符号.md",
     "线性代数/Course9.15 线性代数.md",
-    "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
     "数学分析/Course9.15习题 集族证明题.md",
     "attachments/Pasted image 20250918235045.png",
     "数学分析/Course9.15 关于《数学分析》.md",
-    "数学分析/Course9.15习题 对合函数.md",
     "数学分析/Course9.15习题 补充题.md",
     "数学分析/Course9.17习题 证明无理数集具有连续统势.md",
     "MISC/Untitled.md",
@@ -288,7 +312,6 @@
     "attachments/Weixin Image_20250915213524_9.jpg",
     "attachments/Weixin Image_20250915213524_8.jpg",
     "attachments/Weixin Image_20250915213524_7.jpg",
-    "数学分析/集合.md",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
   ]
