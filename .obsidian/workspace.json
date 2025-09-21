@@ -17,8 +17,8 @@
                 "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
                 "page": 62,
                 "left": -14,
-                "top": 510,
-                "zoom": 1.089460706993447
+                "top": 108,
+                "zoom": 1.0894607069934468
               },
               "icon": "lucide-file-text",
               "title": "《数学分析》陈纪修 第三版 上"
@@ -265,10 +265,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "23ba76cb602edb08",
+  "active": "c8906a1fcbaad135",
   "lastOpenFiles": [
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/无穷大量.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/Course9.15习题 补充题.md",
     "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf",
     "数学分析/数列极限.md",
