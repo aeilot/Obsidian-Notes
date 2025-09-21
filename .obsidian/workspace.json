@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "线性代数/PDFs/Introduction to Linear Algebra.pdf",
-                "page": 150,
+                "page": 153,
                 "left": -15,
-                "top": 15,
-                "zoom": 1.014819587628866
+                "top": 584,
+                "zoom": 1.0148195876288661
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Linear Algebra"
@@ -269,6 +269,7 @@
   "lastOpenFiles": [
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/Ch03 四个基本子空间.md",
+    "MISC/复杂度.md",
     "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
     "线性代数/PDFs/LADR4eChinese.pdf",
     "数学分析/无穷大量.md",
@@ -307,7 +308,6 @@
     "A Course in ML/PDFs/ciml-v0_99-all.pdf",
     "A Course in ML/Ch02 Limits of Learning.md",
     "线性代数/Ch02 解线性方程组.md",
-    "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
     "attachments/Pasted image 20250916145311.png",
     "attachments/Pasted image 20250916144859.png",
     "attachments/Pasted image 20250915223910.png",

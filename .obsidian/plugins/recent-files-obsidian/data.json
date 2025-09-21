@@ -9,6 +9,10 @@
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
+      "basename": "复杂度",
+      "path": "MISC/复杂度.md"
+    },
+    {
       "basename": "The-Art-of-Linear-Algebra",
       "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
     },
@@ -167,10 +171,6 @@
     {
       "basename": "集合",
       "path": "数学分析/集合.md"
-    },
-    {
-      "basename": "复杂度",
-      "path": "MISC/复杂度.md"
     },
     {
       "basename": "教材知识拾遗",
