@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "反三角函数",
+      "path": "数学分析/反三角函数.md"
+    },
+    {
       "basename": "《数学分析》陈纪修 第三版 上",
       "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "Course9.15习题 补充题",
+      "path": "数学分析/Course9.15习题 补充题.md"
     },
     {
       "basename": "Course9.19 有理数是无限十进循环小数",
@@ -83,10 +91,6 @@
     {
       "basename": "Course9.15 关于《数学分析》",
       "path": "数学分析/Course9.15 关于《数学分析》.md"
-    },
-    {
-      "basename": "Course9.15习题 补充题",
-      "path": "数学分析/Course9.15习题 补充题.md"
     },
     {
       "basename": "introduction-to-algorithm-fourth-edition",
