@@ -6,7 +6,7 @@
       {
         "id": "523423de73782d43",
         "type": "tabs",
-        "dimension": 56.96278511404562,
+        "dimension": 61.104441776710686,
         "children": [
           {
             "id": "c8906a1fcbaad135",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-                "page": 50,
-                "left": -15,
-                "top": 705,
-                "zoom": 1.0108560383792011
+                "page": 62,
+                "left": -14,
+                "top": 510,
+                "zoom": 1.089460706993447
               },
               "icon": "lucide-file-text",
               "title": "《数学分析》陈纪修 第三版 上"
@@ -27,40 +27,25 @@
         ]
       },
       {
-        "id": "c51d8e576ef39de3",
+        "id": "d681d175b09debf2",
         "type": "tabs",
-        "dimension": 43.037214885954384,
+        "dimension": 38.895558223289314,
         "children": [
           {
-            "id": "d5bb2b65c7ae1078",
+            "id": "23ba76cb602edb08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学分析/数列极限.md",
+                "file": "数学分析/无穷大量.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数列极限"
-            }
-          },
-          {
-            "id": "2b792e93a677d701",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学分析/反三角函数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "反三角函数"
+              "title": "无穷大量"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,15 +265,19 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "23ba76cb602edb08",
   "lastOpenFiles": [
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/无穷大量.md",
+    "数学分析/Course9.15习题 补充题.md",
+    "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf",
+    "数学分析/数列极限.md",
+    "数学分析/反三角函数.md",
+    "attachments/Pasted image 20250921135251.png",
+    "attachments/Pasted image 20250921135245.png",
     "attachments/Pasted image 20250921123305.png",
     "attachments/Pasted image 20250921123242.png",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-    "数学分析/Course9.15习题 补充题.md",
-    "数学分析/反三角函数.md",
     "数学分析/Course9.19 有理数是无限十进循环小数.md",
-    "数学分析/数列极限.md",
     "数学分析/Course9.15习题 对合函数.md",
     "数学分析/Course9.19 思考题：区间的条件.md",
     "数学分析/实数集与连续统.md",
@@ -319,15 +308,10 @@
     "线性代数/Ch02 解线性方程组.md",
     "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
     "线性代数/PDFs/LADR4eChinese.pdf",
-    "线性代数/PDFs/LADR4e.pdf",
-    "MISC/链式前向星.md",
     "attachments/Pasted image 20250916145311.png",
     "attachments/Pasted image 20250916144859.png",
     "attachments/Pasted image 20250915223910.png",
     "attachments/Weixin Image_20250915213524_2.jpg",
-    "attachments/Weixin Image_20250915213524_10.jpg",
-    "attachments/Weixin Image_20250915213524_9.jpg",
-    "attachments/Weixin Image_20250915213524_8.jpg",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
   ]
