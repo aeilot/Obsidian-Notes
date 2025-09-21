@@ -9,19 +9,19 @@
         "dimension": 61.104441776710686,
         "children": [
           {
-            "id": "c8906a1fcbaad135",
+            "id": "4c9fe07f266cde5e",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-                "page": 62,
-                "left": -14,
-                "top": 108,
-                "zoom": 1.0894607069934468
+                "file": "线性代数/PDFs/Introduction to Linear Algebra.pdf",
+                "page": 146,
+                "left": -15,
+                "top": 692,
+                "zoom": 1.014819587628866
               },
               "icon": "lucide-file-text",
-              "title": "《数学分析》陈纪修 第三版 上"
+              "title": "Introduction to Linear Algebra"
             }
           }
         ]
@@ -32,17 +32,17 @@
         "dimension": 38.895558223289314,
         "children": [
           {
-            "id": "23ba76cb602edb08",
+            "id": "d45057fbcd7a3663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学分析/无穷大量.md",
+                "file": "线性代数/Ch03 四个基本子空间.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "无穷大量"
+              "title": "Ch03 四个基本子空间"
             }
           }
         ]
@@ -265,8 +265,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c8906a1fcbaad135",
+  "active": "d45057fbcd7a3663",
   "lastOpenFiles": [
+    "线性代数/PDFs/Introduction to Linear Algebra.pdf",
+    "线性代数/Ch03 四个基本子空间.md",
+    "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
+    "线性代数/PDFs/LADR4eChinese.pdf",
     "数学分析/无穷大量.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/Course9.15习题 补充题.md",
@@ -283,14 +287,11 @@
     "数学分析/实数集与连续统.md",
     "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "线性代数/Ch03 四个基本子空间.md",
-    "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/Ch01 向量和矩阵.md",
     "线性代数/MATLAB.md",
     "attachments/Pasted image 20250919132422.png",
     "线性代数/Course9.19 矩阵的运算.md",
     "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
-    "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
     "线性代数/Course9.17 线性型与矩阵概念引入.md",
     "线性代数/数域.md",
     "线性代数/求和符号.md",
@@ -307,7 +308,6 @@
     "A Course in ML/Ch02 Limits of Learning.md",
     "线性代数/Ch02 解线性方程组.md",
     "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md",
-    "线性代数/PDFs/LADR4eChinese.pdf",
     "attachments/Pasted image 20250916145311.png",
     "attachments/Pasted image 20250916144859.png",
     "attachments/Pasted image 20250915223910.png",
