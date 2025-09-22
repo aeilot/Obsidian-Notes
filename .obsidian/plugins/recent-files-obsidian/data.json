@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch03 四个基本子空间",
-      "path": "线性代数/Ch03 四个基本子空间.md"
+      "basename": "Ch04 正交性",
+      "path": "线性代数/Ch04 正交性.md"
     },
     {
       "basename": "Introduction to Linear Algebra",
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
-      "basename": "复杂度",
-      "path": "MISC/复杂度.md"
+      "basename": "方阵的幂、方阵多项式、方阵的迹",
+      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
+    },
+    {
+      "basename": "Course9.19 矩阵的运算",
+      "path": "线性代数/Course9.19 矩阵的运算.md"
+    },
+    {
+      "basename": "Ch02 解线性方程组",
+      "path": "线性代数/Ch02 解线性方程组.md"
     },
     {
       "basename": "The-Art-of-Linear-Algebra",
       "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "线性代数/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "线性代数/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "Course9.15 线性代数",
+      "path": "线性代数/Course9.15 线性代数.md"
+    },
+    {
+      "basename": "Course9.17 线性型与矩阵概念引入",
+      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
+    },
+    {
+      "basename": "求和符号",
+      "path": "线性代数/求和符号.md"
+    },
+    {
+      "basename": "复杂度",
+      "path": "MISC/复杂度.md"
     },
     {
       "basename": "LADR4eChinese",
@@ -69,36 +101,12 @@
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
-      "basename": "Ch01 向量和矩阵",
-      "path": "线性代数/Ch01 向量和矩阵.md"
-    },
-    {
       "basename": "MATLAB",
       "path": "线性代数/MATLAB.md"
     },
     {
-      "basename": "Course9.19 矩阵的运算",
-      "path": "线性代数/Course9.19 矩阵的运算.md"
-    },
-    {
-      "basename": "方阵的幂、方阵多项式、方阵的迹",
-      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
-    },
-    {
-      "basename": "Course9.17 线性型与矩阵概念引入",
-      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
-    },
-    {
       "basename": "数域",
       "path": "线性代数/数域.md"
-    },
-    {
-      "basename": "求和符号",
-      "path": "线性代数/求和符号.md"
-    },
-    {
-      "basename": "Course9.15 线性代数",
-      "path": "线性代数/Course9.15 线性代数.md"
     },
     {
       "basename": "Course9.15习题 集族证明题",
@@ -119,10 +127,6 @@
     {
       "basename": "Ch02 Limits of Learning",
       "path": "A Course in ML/Ch02 Limits of Learning.md"
-    },
-    {
-      "basename": "Ch02 解线性方程组",
-      "path": "线性代数/Ch02 解线性方程组.md"
     },
     {
       "basename": "Gradient Descent & Back Propagation",
@@ -195,10 +199,6 @@
     {
       "basename": "Pasted image 20250905121029",
       "path": "attachments/Pasted image 20250905121029.png"
-    },
-    {
-      "basename": "Screenshot 2025-09-05 at 10.40.07 AM",
-      "path": "attachments/Screenshot 2025-09-05 at 10.40.07 AM.png"
     }
   ],
   "omittedPaths": [],
