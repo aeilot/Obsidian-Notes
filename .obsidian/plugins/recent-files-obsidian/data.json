@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "数列极限",
+      "path": "数学分析/数列极限.md"
+    },
+    {
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
+    },
+    {
+      "basename": "无穷大量",
+      "path": "数学分析/无穷大量.md"
+    },
+    {
+      "basename": "Information_and_Entropy",
+      "path": "Information Theory/PDFs/Information_and_Entropy.pdf"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "线性代数/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "introduction-to-algorithm-fourth-edition",
+      "path": "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf"
+    },
+    {
       "basename": "ciml-v0_99-all",
       "path": "A Course in ML/PDFs/ciml-v0_99-all.pdf"
     },
@@ -57,10 +85,6 @@
       "path": "线性代数/Ch03 四个基本子空间.md"
     },
     {
-      "basename": "Ch01 向量和矩阵",
-      "path": "线性代数/Ch01 向量和矩阵.md"
-    },
-    {
       "basename": "Course9.15 线性代数",
       "path": "线性代数/Course9.15 线性代数.md"
     },
@@ -77,24 +101,12 @@
       "path": "线性代数/PDFs/LADR4eChinese.pdf"
     },
     {
-      "basename": "无穷大量",
-      "path": "数学分析/无穷大量.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
       "basename": "Course9.15习题 补充题",
       "path": "数学分析/Course9.15习题 补充题.md"
     },
     {
       "basename": "《数学分析》习题全解指南(第二版上册)",
       "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf"
-    },
-    {
-      "basename": "数列极限",
-      "path": "数学分析/数列极限.md"
     },
     {
       "basename": "反三角函数",
@@ -111,10 +123,6 @@
     {
       "basename": "Course9.19 思考题：区间的条件",
       "path": "数学分析/Course9.19 思考题：区间的条件.md"
-    },
-    {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
     },
     {
       "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
@@ -135,10 +143,6 @@
     {
       "basename": "Course9.15 关于《数学分析》",
       "path": "数学分析/Course9.15 关于《数学分析》.md"
-    },
-    {
-      "basename": "introduction-to-algorithm-fourth-edition",
-      "path": "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf"
     },
     {
       "basename": "Ch02 Limits of Learning",
@@ -195,10 +199,6 @@
     {
       "basename": "教材知识拾遗",
       "path": "C++ 程序设计/教材知识拾遗.md"
-    },
-    {
-      "basename": "C++.Primer.5th.Edition_2013",
-      "path": "C++ 程序设计/PDFs/C++.Primer.5th.Edition_2013.pdf"
     }
   ],
   "omittedPaths": [],

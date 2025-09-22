@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "523423de73782d43",
+        "id": "279709a797c3b724",
         "type": "tabs",
         "children": [
           {
-            "id": "5d29d2332789343b",
+            "id": "5d031711c30c873d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数学分析/数列极限.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "数列极限"
             }
           }
         ]
@@ -237,8 +241,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5d29d2332789343b",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
+    "数学分析/实数集与连续统.md",
+    "数学分析/数列极限.md",
+    "数学分析/无穷大量.md",
+    "Information Theory/PDFs/Information_and_Entropy.pdf",
+    "Information Theory/PDFs",
+    "Information Theory",
+    "线性代数/Ch01 向量和矩阵.md",
+    "数学分析/PDFs/Untitled.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf",
     "A Course in ML/PDFs/ciml-v0_99-all.pdf",
     "A Course in ML/Ch03 Geometry and Nearest Neighbors.md",
     "A Course in ML/Ch01 Decision Trees.md",
@@ -259,16 +273,10 @@
     "线性代数/Ch02 解线性方程组.md",
     "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
     "线性代数/Ch03 四个基本子空间.md",
-    "线性代数/Ch01 向量和矩阵.md",
     "线性代数/Course9.15 线性代数.md",
     "线性代数/Course9.17 线性型与矩阵概念引入.md",
     "MISC/复杂度.md",
-    "线性代数/PDFs/LADR4eChinese.pdf",
-    "数学分析/无穷大量.md",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/Course9.15习题 补充题.md",
-    "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf",
-    "数学分析/数列极限.md",
     "数学分析/反三角函数.md",
     "attachments/Pasted image 20250921135251.png",
     "attachments/Pasted image 20250921135245.png",
@@ -277,13 +285,9 @@
     "数学分析/Course9.19 有理数是无限十进循环小数.md",
     "数学分析/Course9.15习题 对合函数.md",
     "数学分析/Course9.19 思考题：区间的条件.md",
-    "数学分析/实数集与连续统.md",
     "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
-    "线性代数/MATLAB.md",
     "attachments/Pasted image 20250919132422.png",
     "attachments/Pasted image 20250918235045.png",
-    "算法导论/PDFs",
-    "算法导论",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
   ]
