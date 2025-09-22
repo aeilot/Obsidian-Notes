@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "行列式的基本性质",
+      "path": "线性代数/行列式的基本性质.md"
+    },
+    {
       "basename": "Ch04 正交性",
       "path": "线性代数/Ch04 正交性.md"
+    },
+    {
+      "basename": "方阵的行列式",
+      "path": "线性代数/方阵的行列式.md"
+    },
+    {
+      "basename": "求和符号",
+      "path": "线性代数/求和符号.md"
     },
     {
       "basename": "Introduction to Linear Algebra",
@@ -39,10 +55,6 @@
     {
       "basename": "Course9.17 线性型与矩阵概念引入",
       "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
-    },
-    {
-      "basename": "求和符号",
-      "path": "线性代数/求和符号.md"
     },
     {
       "basename": "复杂度",
@@ -95,10 +107,6 @@
     {
       "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
       "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "MATLAB",
@@ -191,14 +199,6 @@
     {
       "basename": "Pasted image 20250907180013",
       "path": "attachments/Pasted image 20250907180013.png"
-    },
-    {
-      "basename": "Screenshot 2025-09-07 at 15.38.54",
-      "path": "attachments/Screenshot 2025-09-07 at 15.38.54.png"
-    },
-    {
-      "basename": "Pasted image 20250905121029",
-      "path": "attachments/Pasted image 20250905121029.png"
     }
   ],
   "omittedPaths": [],
