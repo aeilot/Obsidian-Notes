@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ciml-v0_99-all",
+      "path": "A Course in ML/PDFs/ciml-v0_99-all.pdf"
+    },
+    {
+      "basename": "Ch03 Geometry and Nearest Neighbors",
+      "path": "A Course in ML/Ch03 Geometry and Nearest Neighbors.md"
+    },
+    {
+      "basename": "Ch01 Decision Trees",
+      "path": "A Course in ML/Ch01 Decision Trees.md"
+    },
+    {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
@@ -129,10 +141,6 @@
       "path": "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf"
     },
     {
-      "basename": "ciml-v0_99-all",
-      "path": "A Course in ML/PDFs/ciml-v0_99-all.pdf"
-    },
-    {
       "basename": "Ch02 Limits of Learning",
       "path": "A Course in ML/Ch02 Limits of Learning.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "C++.Primer.5th.Edition_2013",
       "path": "C++ 程序设计/PDFs/C++.Primer.5th.Edition_2013.pdf"
-    },
-    {
-      "basename": "Ch01 Decision Trees",
-      "path": "A Course in ML/Ch01 Decision Trees.md"
-    },
-    {
-      "basename": "Pasted image 20250907180013",
-      "path": "attachments/Pasted image 20250907180013.png"
     }
   ],
   "omittedPaths": [],

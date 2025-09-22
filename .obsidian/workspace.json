@@ -6,43 +6,15 @@
       {
         "id": "523423de73782d43",
         "type": "tabs",
-        "dimension": 63.80552220888356,
         "children": [
           {
-            "id": "e0f28ae948ab9730",
+            "id": "5d29d2332789343b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 53,
-                "left": -12,
-                "top": 68,
-                "zoom": 1.2888987890650985
-              },
-              "icon": "lucide-file-text",
-              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d8427887c7156448",
-        "type": "tabs",
-        "dimension": 36.19447779111645,
-        "children": [
-          {
-            "id": "d0eaacd28a8c186f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/行列式的基本性质.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "行列式的基本性质"
+              "title": "New tab"
             }
           }
         ]
@@ -265,10 +237,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e0f28ae948ab9730",
+  "active": "5d29d2332789343b",
   "lastOpenFiles": [
-    "线性代数/行列式的基本性质.md",
+    "A Course in ML/PDFs/ciml-v0_99-all.pdf",
+    "A Course in ML/Ch03 Geometry and Nearest Neighbors.md",
+    "A Course in ML/Ch01 Decision Trees.md",
+    "Untitled.md",
+    "CS231n Deep Learning for Computer Vision",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/行列式的基本性质.md",
     "线性代数/Ch04 正交性.md",
     "线性代数/方阵的行列式.md",
     "attachments/Pasted image 20250922104245.png",
@@ -304,14 +281,9 @@
     "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
     "线性代数/MATLAB.md",
     "attachments/Pasted image 20250919132422.png",
-    "线性代数/数域.md",
-    "数学分析/Course9.15习题 集族证明题.md",
     "attachments/Pasted image 20250918235045.png",
-    "数学分析/Course9.15 关于《数学分析》.md",
     "算法导论/PDFs",
     "算法导论",
-    "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf",
-    "A Course in ML/PDFs/ciml-v0_99-all.pdf",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
   ]
