@@ -1,36 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
-    },
-    {
-      "basename": "Ch04 正交性",
-      "path": "线性代数/Ch04 正交性.md"
+      "basename": "双阶乘",
+      "path": "数学分析/双阶乘.md"
     },
     {
       "basename": "无穷大量",
       "path": "数学分析/无穷大量.md"
     },
     {
-      "basename": "收敛准则",
-      "path": "数学分析/收敛准则.md"
-    },
-    {
       "basename": "数列极限",
       "path": "数学分析/数列极限.md"
     },
     {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
-    },
-    {
       "basename": "映射与函数",
       "path": "数学分析/映射与函数.md"
+    },
+    {
+      "basename": "行列式的基本性质",
+      "path": "线性代数/行列式的基本性质.md"
+    },
+    {
+      "basename": "Introduction to Linear Algebra",
+      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "Ch04 正交性",
+      "path": "线性代数/Ch04 正交性.md"
+    },
+    {
+      "basename": "收敛准则",
+      "path": "数学分析/收敛准则.md"
+    },
+    {
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
     },
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
@@ -43,10 +51,6 @@
     {
       "basename": "方阵的幂、方阵多项式、方阵的迹",
       "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
-    },
-    {
-      "basename": "行列式的基本性质",
-      "path": "线性代数/行列式的基本性质.md"
     },
     {
       "basename": "Course9.19 矩阵的运算",
@@ -195,10 +199,6 @@
     {
       "basename": "Image",
       "path": "attachments/Image.jpeg"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 下",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf"
     }
   ],
   "omittedPaths": [],
