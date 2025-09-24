@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "方阵的幂、方阵多项式、方阵的迹",
+      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
+    },
+    {
+      "basename": "行列式的基本性质",
+      "path": "线性代数/行列式的基本性质.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "Course9.17 线性型与矩阵概念引入",
+      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
+    },
+    {
+      "basename": "Course9.19 矩阵的运算",
+      "path": "线性代数/Course9.19 矩阵的运算.md"
+    },
+    {
+      "basename": "方阵的行列式",
+      "path": "线性代数/方阵的行列式.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "Ch04 正交性",
+      "path": "线性代数/Ch04 正交性.md"
+    },
+    {
+      "basename": "Introduction to Linear Algebra",
+      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
       "basename": "数列极限",
       "path": "数学分析/数列极限.md"
+    },
+    {
+      "basename": "Unit01 Bits",
+      "path": "Information Theory/Unit01 Bits.md"
+    },
+    {
+      "basename": "Information_and_Entropy",
+      "path": "Information Theory/PDFs/Information_and_Entropy.pdf"
     },
     {
       "basename": "实数集与连续统",
@@ -13,16 +57,8 @@
       "path": "数学分析/无穷大量.md"
     },
     {
-      "basename": "Information_and_Entropy",
-      "path": "Information Theory/PDFs/Information_and_Entropy.pdf"
-    },
-    {
       "basename": "Ch01 向量和矩阵",
       "path": "线性代数/Ch01 向量和矩阵.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
       "basename": "introduction-to-algorithm-fourth-edition",
@@ -41,36 +77,8 @@
       "path": "A Course in ML/Ch01 Decision Trees.md"
     },
     {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
-      "basename": "行列式的基本性质",
-      "path": "线性代数/行列式的基本性质.md"
-    },
-    {
-      "basename": "Ch04 正交性",
-      "path": "线性代数/Ch04 正交性.md"
-    },
-    {
-      "basename": "方阵的行列式",
-      "path": "线性代数/方阵的行列式.md"
-    },
-    {
       "basename": "求和符号",
       "path": "线性代数/求和符号.md"
-    },
-    {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
-    },
-    {
-      "basename": "方阵的幂、方阵多项式、方阵的迹",
-      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
-    },
-    {
-      "basename": "Course9.19 矩阵的运算",
-      "path": "线性代数/Course9.19 矩阵的运算.md"
     },
     {
       "basename": "Ch02 解线性方程组",
@@ -87,10 +95,6 @@
     {
       "basename": "Course9.15 线性代数",
       "path": "线性代数/Course9.15 线性代数.md"
-    },
-    {
-      "basename": "Course9.17 线性型与矩阵概念引入",
-      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
     },
     {
       "basename": "复杂度",
@@ -195,10 +199,6 @@
     {
       "basename": "集合",
       "path": "数学分析/集合.md"
-    },
-    {
-      "basename": "教材知识拾遗",
-      "path": "C++ 程序设计/教材知识拾遗.md"
     }
   ],
   "omittedPaths": [],

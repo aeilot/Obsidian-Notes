@@ -4,24 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "279709a797c3b724",
+        "id": "a2ee5ac4fc62e08a",
         "type": "tabs",
+        "dimension": 70.10804321728692,
         "children": [
           {
-            "id": "5d031711c30c873d",
+            "id": "2fa7f33e88978b0d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+                "page": 57,
+                "left": -15,
+                "top": 289,
+                "zoom": 1.009196412552438
+              },
+              "icon": "lucide-file-text",
+              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
+            }
+          }
+        ]
+      },
+      {
+        "id": "459b9680f24cb1d2",
+        "type": "tabs",
+        "dimension": 29.891956782713088,
+        "children": [
+          {
+            "id": "96f75a350b1817f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学分析/数列极限.md",
+                "file": "线性代数/行列式的基本性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "数列极限"
+              "title": "行列式的基本性质"
+            }
+          },
+          {
+            "id": "59f3c61401b8e5bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/Course9.17 线性型与矩阵概念引入.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Course9.17 线性型与矩阵概念引入"
+            }
+          },
+          {
+            "id": "b4748c01c268095a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "方阵的幂、方阵多项式、方阵的迹"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,40 +294,41 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5d031711c30c873d",
+  "active": "b4748c01c268095a",
   "lastOpenFiles": [
-    "数学分析/实数集与连续统.md",
+    "线性代数/行列式的基本性质.md",
+    "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/Course9.17 线性型与矩阵概念引入.md",
+    "线性代数/Course9.19 矩阵的运算.md",
+    "线性代数/方阵的行列式.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "线性代数/Ch04 正交性.md",
+    "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "数学分析/数列极限.md",
-    "数学分析/无穷大量.md",
+    "Information Theory/Unit01 Bits.md",
     "Information Theory/PDFs/Information_and_Entropy.pdf",
+    "数学分析/实数集与连续统.md",
+    "数学分析/无穷大量.md",
     "Information Theory/PDFs",
     "Information Theory",
     "线性代数/Ch01 向量和矩阵.md",
     "数学分析/PDFs/Untitled.md",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf",
     "A Course in ML/PDFs/ciml-v0_99-all.pdf",
     "A Course in ML/Ch03 Geometry and Nearest Neighbors.md",
     "A Course in ML/Ch01 Decision Trees.md",
     "Untitled.md",
     "CS231n Deep Learning for Computer Vision",
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "线性代数/行列式的基本性质.md",
-    "线性代数/Ch04 正交性.md",
-    "线性代数/方阵的行列式.md",
     "attachments/Pasted image 20250922104245.png",
     "attachments/Pasted image 20250922104239.png",
     "attachments/Pasted image 20250922104233.png",
     "线性代数/求和符号.md",
-    "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "attachments/Pasted image 20250922101732.png",
-    "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
-    "线性代数/Course9.19 矩阵的运算.md",
     "线性代数/Ch02 解线性方程组.md",
     "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
     "线性代数/Ch03 四个基本子空间.md",
     "线性代数/Course9.15 线性代数.md",
-    "线性代数/Course9.17 线性型与矩阵概念引入.md",
     "MISC/复杂度.md",
     "数学分析/Course9.15习题 补充题.md",
     "数学分析/反三角函数.md",
@@ -285,7 +339,6 @@
     "数学分析/Course9.19 有理数是无限十进循环小数.md",
     "数学分析/Course9.15习题 对合函数.md",
     "数学分析/Course9.19 思考题：区间的条件.md",
-    "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
     "attachments/Pasted image 20250919132422.png",
     "attachments/Pasted image 20250918235045.png",
     "Untitled.canvas",
