@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "双阶乘",
-      "path": "数学分析/双阶乘.md"
-    },
-    {
       "basename": "无穷大量",
       "path": "数学分析/无穷大量.md"
     },
     {
       "basename": "数列极限",
       "path": "数学分析/数列极限.md"
+    },
+    {
+      "basename": "常用不等式",
+      "path": "数学分析/常用不等式.md"
+    },
+    {
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
+    },
+    {
+      "basename": "双阶乘",
+      "path": "数学分析/双阶乘.md"
     },
     {
       "basename": "映射与函数",
@@ -35,10 +43,6 @@
     {
       "basename": "收敛准则",
       "path": "数学分析/收敛准则.md"
-    },
-    {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
     },
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
@@ -195,10 +199,6 @@
     {
       "basename": "《数学分析》习题全解指南(第二版下册)",
       "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版下册).pdf"
-    },
-    {
-      "basename": "Image",
-      "path": "attachments/Image.jpeg"
     }
   ],
   "omittedPaths": [],
