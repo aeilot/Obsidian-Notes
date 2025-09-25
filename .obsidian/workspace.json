@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77dee7b601f11903",
+            "id": "8829ae44061c01a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "Tensor"
             }
+          },
+          {
+            "id": "23d009a3768b9d8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS231n Deep Learning for Computer Vision/Tensor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tensor"
+            }
+          },
+          {
+            "id": "87e04a61bf1b316d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS231n Deep Learning for Computer Vision/Softmax Function.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Softmax Function"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,9 +271,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "77dee7b601f11903",
+  "active": "87e04a61bf1b316d",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250925175230.png",
     "CS231n Deep Learning for Computer Vision/Tensor.md",
+    "CS231n Deep Learning for Computer Vision/Softmax Function.md",
+    "CS231n Deep Learning for Computer Vision/Validation Set.md",
+    "attachments/Pasted image 20250925173001.png",
+    "CS231n Deep Learning for Computer Vision/L1, L2 距离.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/Ch04 正交性.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
@@ -270,12 +304,8 @@
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/Course9.17 线性型与矩阵概念引入.md",
     "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
-    "线性代数/Course9.19 矩阵的运算.md",
-    "线性代数/方阵的行列式.md",
     "Information Theory/PDFs",
     "Information Theory",
-    "线性代数/Ch01 向量和矩阵.md",
-    "数学分析/PDFs/Untitled.md",
     "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf",
     "A Course in ML/PDFs/ciml-v0_99-all.pdf",
     "CS231n Deep Learning for Computer Vision",
@@ -289,7 +319,6 @@
     "attachments/Pasted image 20250921123305.png",
     "attachments/Pasted image 20250921123242.png",
     "attachments/Pasted image 20250919132422.png",
-    "attachments/Pasted image 20250918235045.png",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
   ]

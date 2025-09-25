@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Softmax Function",
+      "path": "CS231n Deep Learning for Computer Vision/Softmax Function.md"
+    },
+    {
       "basename": "Tensor",
       "path": "CS231n Deep Learning for Computer Vision/Tensor.md"
+    },
+    {
+      "basename": "Validation Set",
+      "path": "CS231n Deep Learning for Computer Vision/Validation Set.md"
+    },
+    {
+      "basename": "L1, L2 距离",
+      "path": "CS231n Deep Learning for Computer Vision/L1, L2 距离.md"
     },
     {
       "basename": "Introduction to Linear Algebra",
@@ -187,18 +199,6 @@
     {
       "basename": "Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir)",
       "path": "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf"
-    },
-    {
-      "basename": "SW104",
-      "path": "C++ 程序设计/PDFs/SW104.pdf"
-    },
-    {
-      "basename": "链式前向星",
-      "path": "MISC/链式前向星.md"
-    },
-    {
-      "basename": "排序算法",
-      "path": "MISC/排序算法.md"
     }
   ],
   "omittedPaths": [],
