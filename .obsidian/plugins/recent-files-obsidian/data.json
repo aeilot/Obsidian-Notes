@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Information_and_Entropy",
-      "path": "Information Theory/PDFs/Information_and_Entropy.pdf"
+      "basename": "Ch04 正交性",
+      "path": "线性代数/Ch04 正交性.md"
     },
     {
       "basename": "Introduction to Linear Algebra",
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
-      "basename": "Ch04 正交性",
-      "path": "线性代数/Ch04 正交性.md"
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "数列极限",
+      "path": "数学分析/数列极限.md"
+    },
+    {
+      "basename": "无穷大量",
+      "path": "数学分析/无穷大量.md"
+    },
+    {
+      "basename": "收敛准则",
+      "path": "数学分析/收敛准则.md"
     },
     {
       "basename": "常用不等式",
       "path": "数学分析/常用不等式.md"
+    },
+    {
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
+    },
+    {
+      "basename": "反三角函数",
+      "path": "数学分析/反三角函数.md"
+    },
+    {
+      "basename": "Information_and_Entropy",
+      "path": "Information Theory/PDFs/Information_and_Entropy.pdf"
     },
     {
       "basename": "集合",
@@ -23,30 +47,6 @@
     {
       "basename": "映射与函数",
       "path": "数学分析/映射与函数.md"
-    },
-    {
-      "basename": "无穷大量",
-      "path": "数学分析/无穷大量.md"
-    },
-    {
-      "basename": "数列极限",
-      "path": "数学分析/数列极限.md"
-    },
-    {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
-      "basename": "收敛准则",
-      "path": "数学分析/收敛准则.md"
-    },
-    {
-      "basename": "反三角函数",
-      "path": "数学分析/反三角函数.md"
     },
     {
       "basename": "Course9.19 有理数是无限十进循环小数",

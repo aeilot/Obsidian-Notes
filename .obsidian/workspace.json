@@ -4,17 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "f2020376744a0ba8",
+        "id": "b7f346061e054d1a",
         "type": "tabs",
+        "dimension": 61.224489795918366,
         "children": [
           {
-            "id": "30b57820e60d7ae7",
+            "id": "de0de0a72663da69",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "线性代数/PDFs/Introduction to Linear Algebra.pdf",
+                "page": 173,
+                "left": -4,
+                "top": 716,
+                "zoom": 1.35
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to Linear Algebra"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5e75299aab47263b",
+        "type": "tabs",
+        "dimension": 38.775510204081634,
+        "children": [
+          {
+            "id": "8221b25367559c5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/Ch04 正交性.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ch04 正交性"
             }
           }
         ]
@@ -93,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -217,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,21 +267,21 @@
       "random-note:Open random note": false
     }
   },
-  "active": "30b57820e60d7ae7",
+  "active": "8221b25367559c5b",
   "lastOpenFiles": [
-    "Information Theory/PDFs/Information_and_Entropy.pdf",
-    "Information Theory/Unit01 Bits.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/Ch04 正交性.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/数列极限.md",
+    "数学分析/无穷大量.md",
+    "数学分析/收敛准则.md",
     "数学分析/常用不等式.md",
+    "数学分析/实数集与连续统.md",
+    "数学分析/反三角函数.md",
+    "Information Theory/PDFs/Information_and_Entropy.pdf",
+    "Information Theory/Unit01 Bits.md",
     "数学分析/集合.md",
     "数学分析/映射与函数.md",
-    "数学分析/无穷大量.md",
-    "数学分析/数列极限.md",
-    "数学分析/实数集与连续统.md",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-    "数学分析/收敛准则.md",
-    "数学分析/反三角函数.md",
     "数学分析/Course9.19 有理数是无限十进循环小数.md",
     "数学分析/Course9.19 思考题：区间的条件.md",
     "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
