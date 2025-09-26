@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "数列极限",
+      "path": "数学分析/数列极限.md"
+    },
+    {
       "basename": "收敛准则",
       "path": "数学分析/收敛准则.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "Ch04 正交性",
       "path": "线性代数/Ch04 正交性.md"
-    },
-    {
-      "basename": "数列极限",
-      "path": "数学分析/数列极限.md"
     },
     {
       "basename": "无穷大量",

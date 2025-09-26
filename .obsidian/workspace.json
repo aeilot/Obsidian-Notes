@@ -15,9 +15,9 @@
               "state": {
                 "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
                 "page": 67,
-                "left": -18,
-                "top": 5,
-                "zoom": 0.8803722884795531
+                "left": -24,
+                "top": 17,
+                "zoom": 0.6319815356585363
               },
               "icon": "lucide-file-text",
               "title": "《数学分析》陈纪修 第三版 上"
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学分析/收敛准则.md",
+                "file": "数学分析/数列极限.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "收敛准则"
+              "title": "数列极限"
             }
           }
         ]
@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5,
-    "collapsed": true
+    "width": 316.5
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -265,10 +264,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9174e5ba5ab6e891",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/收敛准则.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/行列式的基本性质.md",
     "线性代数/方阵的行列式.md",
