@@ -14,9 +14,9 @@
               "type": "pdf",
               "state": {
                 "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 40,
+                "page": 60,
                 "left": -21,
-                "top": 498,
+                "top": 178,
                 "zoom": 0.7055555443562612
               },
               "icon": "lucide-file-text",
@@ -29,20 +29,6 @@
         "id": "e2dc36c8fec785c2",
         "type": "tabs",
         "children": [
-          {
-            "id": "6f553532c262ed78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/方阵的行列式.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "方阵的行列式"
-            }
-          },
           {
             "id": "6af99fc5c444bdbb",
             "type": "leaf",
@@ -57,8 +43,7 @@
               "title": "行列式的基本性质"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,7 +265,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6af99fc5c444bdbb",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/行列式的基本性质.md",
