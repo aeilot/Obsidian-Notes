@@ -4,43 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "718ba8388d53e374",
+        "id": "16fe6df840fb91ef",
         "type": "tabs",
         "children": [
           {
-            "id": "12241ecea725f308",
+            "id": "b2ac8c7a92ad9df7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 60,
-                "left": -21,
-                "top": 178,
-                "zoom": 0.7055555443562612
+                "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+                "page": 67,
+                "left": -18,
+                "top": 5,
+                "zoom": 0.8803722884795531
               },
               "icon": "lucide-file-text",
-              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
+              "title": "《数学分析》陈纪修 第三版 上"
             }
           }
         ]
       },
       {
-        "id": "e2dc36c8fec785c2",
+        "id": "86f03bb28f3be79c",
         "type": "tabs",
         "children": [
           {
-            "id": "6af99fc5c444bdbb",
+            "id": "9174e5ba5ab6e891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/行列式的基本性质.md",
+                "file": "数学分析/收敛准则.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "行列式的基本性质"
+              "title": "收敛准则"
             }
           }
         ]
@@ -265,8 +265,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "9174e5ba5ab6e891",
   "lastOpenFiles": [
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/收敛准则.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/行列式的基本性质.md",
     "线性代数/方阵的行列式.md",
@@ -279,10 +281,8 @@
     "CS231n Deep Learning for Computer Vision/L1, L2 距离.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/Ch04 正交性.md",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/数列极限.md",
     "数学分析/无穷大量.md",
-    "数学分析/收敛准则.md",
     "数学分析/常用不等式.md",
     "数学分析/实数集与连续统.md",
     "数学分析/反三角函数.md",
