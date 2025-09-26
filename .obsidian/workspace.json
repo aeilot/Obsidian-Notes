@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b7f346061e054d1a",
+        "id": "718ba8388d53e374",
         "type": "tabs",
         "children": [
           {
-            "id": "8829ae44061c01a0",
+            "id": "12241ecea725f308",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CS231n Deep Learning for Computer Vision/Tensor.md",
-                "mode": "source",
-                "source": false
+                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+                "page": 38,
+                "left": -15,
+                "top": 285,
+                "zoom": 1.0621130783791575
               },
-              "icon": "lucide-file",
-              "title": "Tensor"
+              "icon": "lucide-file-text",
+              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
             }
           }
         ]
@@ -242,11 +244,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "db16830458a3c290",
+  "active": "12241ecea725f308",
   "lastOpenFiles": [
+    "CS231n Deep Learning for Computer Vision/Tensor.md",
+    "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
     "CS231n Deep Learning for Computer Vision/Softmax Function.md",
     "attachments/Pasted image 20250925175230.png",
-    "CS231n Deep Learning for Computer Vision/Tensor.md",
     "CS231n Deep Learning for Computer Vision/Validation Set.md",
     "attachments/Pasted image 20250925173001.png",
     "CS231n Deep Learning for Computer Vision/L1, L2 距离.md",
@@ -284,7 +287,6 @@
     "attachments/Pasted image 20250922104239.png",
     "attachments/Pasted image 20250922104233.png",
     "attachments/Pasted image 20250922101732.png",
-    "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
     "attachments/Pasted image 20250921135251.png",
     "attachments/Pasted image 20250921135245.png",
     "attachments/Pasted image 20250921123305.png",
