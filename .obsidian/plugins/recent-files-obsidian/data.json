@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Softmax Function",
-      "path": "CS231n Deep Learning for Computer Vision/Softmax Function.md"
-    },
-    {
       "basename": "Tensor",
       "path": "CS231n Deep Learning for Computer Vision/Tensor.md"
+    },
+    {
+      "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
+      "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
+    },
+    {
+      "basename": "Softmax Function",
+      "path": "CS231n Deep Learning for Computer Vision/Softmax Function.md"
     },
     {
       "basename": "Validation Set",
@@ -191,10 +195,6 @@
     {
       "basename": "LADR4e",
       "path": "线性代数/PDFs/LADR4e.pdf"
-    },
-    {
-      "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
-      "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
     },
     {
       "basename": "Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir)",
