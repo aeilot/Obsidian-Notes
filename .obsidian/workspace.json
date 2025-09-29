@@ -15,9 +15,9 @@
               "state": {
                 "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
                 "page": 58,
-                "left": -21,
-                "top": 797,
-                "zoom": 0.7055555443562612
+                "left": -15,
+                "top": 801,
+                "zoom": 0.9991170476330629
               },
               "icon": "lucide-file-text",
               "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
@@ -258,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,7 +280,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "7c8357bcc80c5f04",
   "lastOpenFiles": [
     "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
     "数学分析/Exam/摸底考 最后一题.md",
