@@ -1,28 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "行列式的基本性质",
-      "path": "线性代数/行列式的基本性质.md"
-    },
-    {
-      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
-      "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
-    },
-    {
-      "basename": "摸底考 最后一题",
-      "path": "数学分析/Exam/摸底考 最后一题.md"
-    },
-    {
-      "basename": "Course9.15习题 对合函数",
-      "path": "数学分析/Course9.15习题 对合函数.md"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
-      "basename": "常用不等式",
-      "path": "数学分析/常用不等式.md"
+      "basename": "收敛准则",
+      "path": "数学分析/收敛准则.md"
     },
     {
       "basename": "《数学分析》陈纪修 第三版 上",
@@ -33,12 +13,116 @@
       "path": "数学分析/数列极限.md"
     },
     {
-      "basename": "收敛准则",
-      "path": "数学分析/收敛准则.md"
+      "basename": "集合",
+      "path": "数学分析/集合.md"
+    },
+    {
+      "basename": "映射与函数",
+      "path": "数学分析/映射与函数.md"
+    },
+    {
+      "basename": "常用不等式",
+      "path": "数学分析/常用不等式.md"
+    },
+    {
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
+    },
+    {
+      "basename": "反三角函数",
+      "path": "数学分析/反三角函数.md"
+    },
+    {
+      "basename": "双阶乘",
+      "path": "数学分析/双阶乘.md"
+    },
+    {
+      "basename": "Course9.19 有理数是无限十进循环小数",
+      "path": "数学分析/Course9.19 有理数是无限十进循环小数.md"
+    },
+    {
+      "basename": "Course9.19 思考题：区间的条件",
+      "path": "数学分析/Course9.19 思考题：区间的条件.md"
+    },
+    {
+      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
+      "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
+    },
+    {
+      "basename": "Course9.15习题 集族证明题",
+      "path": "数学分析/Course9.15习题 集族证明题.md"
+    },
+    {
+      "basename": "Course9.15习题 补充题",
+      "path": "数学分析/Course9.15习题 补充题.md"
+    },
+    {
+      "basename": "Course9.15习题 对合函数",
+      "path": "数学分析/Course9.15习题 对合函数.md"
+    },
+    {
+      "basename": "Course9.15 关于《数学分析》",
+      "path": "数学分析/Course9.15 关于《数学分析》.md"
+    },
+    {
+      "basename": "求和符号",
+      "path": "线性代数/求和符号.md"
+    },
+    {
+      "basename": "行列式的基本性质",
+      "path": "线性代数/行列式的基本性质.md"
     },
     {
       "basename": "方阵的行列式",
       "path": "线性代数/方阵的行列式.md"
+    },
+    {
+      "basename": "方阵的幂、方阵多项式、方阵的迹",
+      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
+    },
+    {
+      "basename": "数域",
+      "path": "线性代数/数域.md"
+    },
+    {
+      "basename": "MATLAB",
+      "path": "线性代数/MATLAB.md"
+    },
+    {
+      "basename": "Course9.19 矩阵的运算",
+      "path": "线性代数/Course9.19 矩阵的运算.md"
+    },
+    {
+      "basename": "Course9.17 线性型与矩阵概念引入",
+      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
+    },
+    {
+      "basename": "Course9.15 线性代数",
+      "path": "线性代数/Course9.15 线性代数.md"
+    },
+    {
+      "basename": "Ch04 正交性",
+      "path": "线性代数/Ch04 正交性.md"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "线性代数/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "Ch02 解线性方程组",
+      "path": "线性代数/Ch02 解线性方程组.md"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "线性代数/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "摸底考 最后一题",
+      "path": "数学分析/Exam/摸底考 最后一题.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "Tensor",
@@ -65,72 +149,12 @@
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
-      "basename": "Ch04 正交性",
-      "path": "线性代数/Ch04 正交性.md"
-    },
-    {
       "basename": "无穷大量",
       "path": "数学分析/无穷大量.md"
     },
     {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
-    },
-    {
-      "basename": "反三角函数",
-      "path": "数学分析/反三角函数.md"
-    },
-    {
       "basename": "Information_and_Entropy",
       "path": "Information Theory/PDFs/Information_and_Entropy.pdf"
-    },
-    {
-      "basename": "集合",
-      "path": "数学分析/集合.md"
-    },
-    {
-      "basename": "映射与函数",
-      "path": "数学分析/映射与函数.md"
-    },
-    {
-      "basename": "Course9.19 有理数是无限十进循环小数",
-      "path": "数学分析/Course9.19 有理数是无限十进循环小数.md"
-    },
-    {
-      "basename": "Course9.19 思考题：区间的条件",
-      "path": "数学分析/Course9.19 思考题：区间的条件.md"
-    },
-    {
-      "basename": "Course9.15习题 集族证明题",
-      "path": "数学分析/Course9.15习题 集族证明题.md"
-    },
-    {
-      "basename": "Course9.15习题 补充题",
-      "path": "数学分析/Course9.15习题 补充题.md"
-    },
-    {
-      "basename": "Course9.15 关于《数学分析》",
-      "path": "数学分析/Course9.15 关于《数学分析》.md"
-    },
-    {
-      "basename": "双阶乘",
-      "path": "数学分析/双阶乘.md"
-    },
-    {
-      "basename": "Course9.17 线性型与矩阵概念引入",
-      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
-    },
-    {
-      "basename": "方阵的幂、方阵多项式、方阵的迹",
-      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
-    },
-    {
-      "basename": "Course9.19 矩阵的运算",
-      "path": "线性代数/Course9.19 矩阵的运算.md"
-    },
-    {
-      "basename": "Ch01 向量和矩阵",
-      "path": "线性代数/Ch01 向量和矩阵.md"
     },
     {
       "basename": "introduction-to-algorithm-fourth-edition",
@@ -149,24 +173,8 @@
       "path": "A Course in ML/Ch01 Decision Trees.md"
     },
     {
-      "basename": "求和符号",
-      "path": "线性代数/求和符号.md"
-    },
-    {
-      "basename": "Ch02 解线性方程组",
-      "path": "线性代数/Ch02 解线性方程组.md"
-    },
-    {
       "basename": "The-Art-of-Linear-Algebra",
       "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
-    },
-    {
-      "basename": "Ch03 四个基本子空间",
-      "path": "线性代数/Ch03 四个基本子空间.md"
-    },
-    {
-      "basename": "Course9.15 线性代数",
-      "path": "线性代数/Course9.15 线性代数.md"
     },
     {
       "basename": "复杂度",
@@ -179,14 +187,6 @@
     {
       "basename": "《数学分析》习题全解指南(第二版上册)",
       "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf"
-    },
-    {
-      "basename": "MATLAB",
-      "path": "线性代数/MATLAB.md"
-    },
-    {
-      "basename": "数域",
-      "path": "线性代数/数域.md"
     },
     {
       "basename": "Ch02 Limits of Learning",
