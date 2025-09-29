@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "行列式的基本性质",
+      "path": "线性代数/行列式的基本性质.md"
+    },
+    {
+      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
+      "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
+    },
+    {
+      "basename": "摸底考 最后一题",
+      "path": "数学分析/Exam/摸底考 最后一题.md"
+    },
+    {
+      "basename": "Course9.15习题 对合函数",
+      "path": "数学分析/Course9.15习题 对合函数.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
       "basename": "常用不等式",
       "path": "数学分析/常用不等式.md"
     },
@@ -15,14 +35,6 @@
     {
       "basename": "收敛准则",
       "path": "数学分析/收敛准则.md"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
-      "basename": "行列式的基本性质",
-      "path": "线性代数/行列式的基本性质.md"
     },
     {
       "basename": "方阵的行列式",
@@ -89,20 +101,12 @@
       "path": "数学分析/Course9.19 思考题：区间的条件.md"
     },
     {
-      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
-      "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
-    },
-    {
       "basename": "Course9.15习题 集族证明题",
       "path": "数学分析/Course9.15习题 集族证明题.md"
     },
     {
       "basename": "Course9.15习题 补充题",
       "path": "数学分析/Course9.15习题 补充题.md"
-    },
-    {
-      "basename": "Course9.15习题 对合函数",
-      "path": "数学分析/Course9.15习题 对合函数.md"
     },
     {
       "basename": "Course9.15 关于《数学分析》",
@@ -195,10 +199,6 @@
     {
       "basename": "LADR4e",
       "path": "线性代数/PDFs/LADR4e.pdf"
-    },
-    {
-      "basename": "Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir)",
-      "path": "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf"
     }
   ],
   "omittedPaths": [],
