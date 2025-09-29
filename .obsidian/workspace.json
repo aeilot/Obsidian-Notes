@@ -6,6 +6,7 @@
       {
         "id": "4135abf25d64b2b5",
         "type": "tabs",
+        "dimension": 59.30372148859544,
         "children": [
           {
             "id": "2db061888248df59",
@@ -14,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-                "page": 73,
-                "left": -13,
-                "top": 293,
-                "zoom": 1.2466700442219385
+                "page": 71,
+                "left": -15,
+                "top": 183,
+                "zoom": 1.0548746528031787
               },
               "icon": "lucide-file-text",
               "title": "《数学分析》陈纪修 第三版 上"
@@ -28,6 +29,7 @@
       {
         "id": "c1ceb2bc3c675de5",
         "type": "tabs",
+        "dimension": 40.69627851140456,
         "children": [
           {
             "id": "b7e2db4a009be189",
@@ -244,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,7 +267,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b7e2db4a009be189",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/收敛准则.md",
