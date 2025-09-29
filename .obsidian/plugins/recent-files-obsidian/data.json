@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
       "basename": "收敛准则",
       "path": "数学分析/收敛准则.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Gradient Descent & Back Propagation",
       "path": "Neural Networks & Deep Learning/Gradient Descent & Back Propagation.md"
-    },
-    {
-      "basename": "LADR4e",
-      "path": "线性代数/PDFs/LADR4e.pdf"
     }
   ],
   "omittedPaths": [],
