@@ -4,23 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0022fcfbcc021296",
+        "id": "e60808e069f902b6",
         "type": "tabs",
+        "dimension": 67.82713085234093,
         "children": [
           {
-            "id": "393ec67960597481",
+            "id": "741319763918460a",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 679,
-                "zoom": 1.2932621528662702
+                "page": 55,
+                "left": -4,
+                "top": 61,
+                "zoom": 1.6
               },
               "icon": "lucide-file-text",
               "title": "CSAPP-3th-ZH-OCR"
+            }
+          }
+        ]
+      },
+      {
+        "id": "741b68f759b6f9db",
+        "type": "tabs",
+        "dimension": 32.172869147659064,
+        "children": [
+          {
+            "id": "e9bb769736a1e44b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "算法导论/PDFs/算法导论 中文第三版.pdf",
+                "page": 1,
+                "left": -14,
+                "top": 354,
+                "zoom": 1.1010692464358451
+              },
+              "icon": "lucide-file-text",
+              "title": "算法导论 中文第三版"
             }
           }
         ]
@@ -99,7 +123,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 316.5
+    "width": 316.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -244,9 +269,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "393ec67960597481",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
+    "CSAPP/Ch01.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+    "attachments/Pasted image 20250930145159.png",
+    "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
+    "算法导论/PDFs/算法导论 中文第三版.pdf",
     "CSAPP",
     "数学分析/收敛准则.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
@@ -273,17 +302,13 @@
     "线性代数/Course9.19 矩阵的运算.md",
     "线性代数/Course9.17 线性型与矩阵概念引入.md",
     "线性代数/Course9.15 线性代数.md",
-    "线性代数/Ch04 正交性.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "数学分析/Exam",
-    "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
     "attachments/Pasted image 20250925175230.png",
     "attachments/Pasted image 20250925173001.png",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "Information Theory/PDFs/Information_and_Entropy.pdf",
     "Information Theory/PDFs",
-    "Information Theory",
-    "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf",
     "attachments/Pasted image 20250922104245.png",
     "attachments/Pasted image 20250922104239.png",
     "attachments/Pasted image 20250922104233.png",
@@ -291,7 +316,6 @@
     "attachments/Pasted image 20250921135251.png",
     "attachments/Pasted image 20250921135245.png",
     "attachments/Pasted image 20250921123305.png",
-    "attachments/Pasted image 20250921123242.png",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
   ]
