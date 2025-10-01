@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 55,
-                "left": -4,
-                "top": 61,
-                "zoom": 1.6
+                "page": 66,
+                "left": -12,
+                "top": 543,
+                "zoom": 1.2015648286140088
               },
               "icon": "lucide-file-text",
               "title": "CSAPP-3th-ZH-OCR"
@@ -27,24 +27,22 @@
         ]
       },
       {
-        "id": "741b68f759b6f9db",
+        "id": "fd1a2b2c8b04db14",
         "type": "tabs",
         "dimension": 32.172869147659064,
         "children": [
           {
-            "id": "e9bb769736a1e44b",
+            "id": "efa3cbe459e23409",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "算法导论/PDFs/算法导论 中文第三版.pdf",
-                "page": 1,
-                "left": -14,
-                "top": 354,
-                "zoom": 1.1010692464358451
+                "file": "CSAPP/Ch02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "算法导论 中文第三版"
+              "icon": "lucide-file",
+              "title": "Ch02"
             }
           }
         ]
@@ -269,13 +267,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "efa3cbe459e23409",
   "lastOpenFiles": [
-    "CSAPP/Ch01.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+    "CSAPP/Ch02.md",
+    "CSAPP/Ch01.md",
+    "算法导论/PDFs/算法导论 中文第三版.pdf",
     "attachments/Pasted image 20250930145159.png",
     "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
-    "算法导论/PDFs/算法导论 中文第三版.pdf",
     "CSAPP",
     "数学分析/收敛准则.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
@@ -301,7 +300,6 @@
     "线性代数/MATLAB.md",
     "线性代数/Course9.19 矩阵的运算.md",
     "线性代数/Course9.17 线性型与矩阵概念引入.md",
-    "线性代数/Course9.15 线性代数.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "数学分析/Exam",
     "attachments/Pasted image 20250925175230.png",

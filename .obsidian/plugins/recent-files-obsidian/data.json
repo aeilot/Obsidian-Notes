@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "算法导论 中文第三版",
-      "path": "算法导论/PDFs/算法导论 中文第三版.pdf"
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
       "basename": "Ch01",
       "path": "CSAPP/Ch01.md"
     },
     {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+      "basename": "算法导论 中文第三版",
+      "path": "算法导论/PDFs/算法导论 中文第三版.pdf"
     },
     {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
@@ -195,10 +199,6 @@
     {
       "basename": "LADR4eChinese",
       "path": "线性代数/PDFs/LADR4eChinese.pdf"
-    },
-    {
-      "basename": "《数学分析》习题全解指南(第二版上册)",
-      "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf"
     }
   ],
   "omittedPaths": [],
