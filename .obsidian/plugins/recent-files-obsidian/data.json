@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
       "basename": "Ch02",
       "path": "CSAPP/Ch02.md"
     },
     {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
+      "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
+    },
+    {
+      "basename": "Course9.15习题 补充题",
+      "path": "数学分析/Course9.15习题 补充题.md"
+    },
+    {
+      "basename": "Course9.15习题 对合函数",
+      "path": "数学分析/Course9.15习题 对合函数.md"
+    },
+    {
+      "basename": "Course9.15 关于《数学分析》",
+      "path": "数学分析/Course9.15 关于《数学分析》.md"
     },
     {
       "basename": "Ch01",
@@ -65,24 +81,8 @@
       "path": "数学分析/Course9.19 思考题：区间的条件.md"
     },
     {
-      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
-      "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
-    },
-    {
       "basename": "Course9.15习题 集族证明题",
       "path": "数学分析/Course9.15习题 集族证明题.md"
-    },
-    {
-      "basename": "Course9.15习题 补充题",
-      "path": "数学分析/Course9.15习题 补充题.md"
-    },
-    {
-      "basename": "Course9.15习题 对合函数",
-      "path": "数学分析/Course9.15习题 对合函数.md"
-    },
-    {
-      "basename": "Course9.15 关于《数学分析》",
-      "path": "数学分析/Course9.15 关于《数学分析》.md"
     },
     {
       "basename": "求和符号",

@@ -1,4 +1,6 @@
 {
-  "accentColor": "",
-  "cssTheme": ""
+  "accentColor": "#000000",
+  "cssTheme": "Baseline",
+  "textFontFamily": "Source Han Serif SC",
+  "monospaceFontFamily": "Source Code Pro"
 }

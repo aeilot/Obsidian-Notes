@@ -6,7 +6,7 @@
       {
         "id": "e60808e069f902b6",
         "type": "tabs",
-        "dimension": 67.82713085234093,
+        "dimension": 66.24548736462094,
         "children": [
           {
             "id": "741319763918460a",
@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 66,
-                "left": -12,
-                "top": 543,
-                "zoom": 1.2015648286140088
+                "page": 58,
+                "left": -13,
+                "top": 459,
+                "zoom": 1.1536573392243494
               },
               "icon": "lucide-file-text",
               "title": "CSAPP-3th-ZH-OCR"
@@ -27,12 +27,12 @@
         ]
       },
       {
-        "id": "fd1a2b2c8b04db14",
+        "id": "94c35ad8585a0ac8",
         "type": "tabs",
-        "dimension": 32.172869147659064,
+        "dimension": 33.754512635379065,
         "children": [
           {
-            "id": "efa3cbe459e23409",
+            "id": "760a39987f764e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -267,10 +267,14 @@
       "random-note:Open random note": false
     }
   },
-  "active": "efa3cbe459e23409",
+  "active": "741319763918460a",
   "lastOpenFiles": [
-    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch02.md",
+    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+    "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
+    "数学分析/Course9.15习题 补充题.md",
+    "数学分析/Course9.15习题 对合函数.md",
+    "数学分析/Course9.15 关于《数学分析》.md",
     "CSAPP/Ch01.md",
     "算法导论/PDFs/算法导论 中文第三版.pdf",
     "attachments/Pasted image 20250930145159.png",
@@ -287,11 +291,7 @@
     "数学分析/双阶乘.md",
     "数学分析/Course9.19 有理数是无限十进循环小数.md",
     "数学分析/Course9.19 思考题：区间的条件.md",
-    "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md",
     "数学分析/Course9.15习题 集族证明题.md",
-    "数学分析/Course9.15习题 补充题.md",
-    "数学分析/Course9.15习题 对合函数.md",
-    "数学分析/Course9.15 关于《数学分析》.md",
     "线性代数/求和符号.md",
     "线性代数/行列式的基本性质.md",
     "线性代数/方阵的行列式.md",
