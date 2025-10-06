@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.ext == "pdf"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.basename
+      - file.folder
+    sort:
+      - property: file.path
+        direction: ASC
+    columnSize:
+      file.basename: 1184

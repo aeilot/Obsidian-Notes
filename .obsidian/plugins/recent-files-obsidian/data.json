@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "PDFs",
+      "path": "PDFs.base"
+    },
+    {
+      "basename": "《数学分析》习题全解指南(第二版上册)",
+      "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf"
+    },
+    {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "The-Art-of-Linear-Algebra",
       "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
-    },
-    {
-      "basename": "复杂度",
-      "path": "MISC/复杂度.md"
-    },
-    {
-      "basename": "LADR4eChinese",
-      "path": "线性代数/PDFs/LADR4eChinese.pdf"
     }
   ],
   "omittedPaths": [],
