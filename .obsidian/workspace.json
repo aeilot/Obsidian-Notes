@@ -4,20 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "e60808e069f902b6",
+        "id": "395f3e32eaf3ab60",
         "type": "tabs",
         "children": [
           {
-            "id": "741319763918460a",
+            "id": "9c09d9e030106c30",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "pdf",
               "state": {
-                "file": "PDFs.base",
-                "viewName": "Table"
+                "file": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
+                "page": 47,
+                "left": -9,
+                "top": 265,
+                "zoom": 1.654605098053959
               },
-              "icon": "lucide-table",
-              "title": "PDFs"
+              "icon": "lucide-file-text",
+              "title": "C++程序设计：思想与方法 ideas and methods 慕课"
             }
           }
         ]
@@ -96,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -241,10 +245,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "db16830458a3c290",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf",
     "PDFs.base",
+    "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
+    "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf",
     "Untitled.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch02.md",
@@ -281,7 +286,6 @@
     "attachments/Pasted image 20250925175230.png",
     "attachments/Pasted image 20250925173001.png",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
-    "Information Theory/PDFs/Information_and_Entropy.pdf",
     "attachments/Pasted image 20250922104245.png",
     "attachments/Pasted image 20250922104239.png",
     "attachments/Pasted image 20250922104233.png",

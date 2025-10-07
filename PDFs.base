@@ -5,10 +5,14 @@ views:
   - type: table
     name: Table
     order:
-      - file.basename
+      - file.name
       - file.folder
     sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.basename
+        direction: DESC
       - property: file.path
         direction: ASC
     columnSize:
-      file.basename: 1184
+      file.name: 831

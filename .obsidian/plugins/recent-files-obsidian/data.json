@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
+      "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
+    },
+    {
       "basename": "PDFs",
       "path": "PDFs.base"
+    },
+    {
+      "basename": "谢慧民清晰版.  数学分析习题课讲义.上.  2003",
+      "path": "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf"
     },
     {
       "basename": "《数学分析》习题全解指南(第二版上册)",
@@ -39,10 +47,6 @@
     {
       "basename": "算法导论 中文第三版",
       "path": "算法导论/PDFs/算法导论 中文第三版.pdf"
-    },
-    {
-      "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
-      "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
     },
     {
       "basename": "收敛准则",
@@ -195,10 +199,6 @@
     {
       "basename": "Ch01 Decision Trees",
       "path": "A Course in ML/Ch01 Decision Trees.md"
-    },
-    {
-      "basename": "The-Art-of-Linear-Algebra",
-      "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
     }
   ],
   "omittedPaths": [],
