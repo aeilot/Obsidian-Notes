@@ -4,23 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "395f3e32eaf3ab60",
+        "id": "d7e9e39558eb72b6",
         "type": "tabs",
         "children": [
           {
-            "id": "9c09d9e030106c30",
+            "id": "3d150a1335a478a1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
-                "page": 47,
-                "left": -9,
-                "top": 265,
-                "zoom": 1.654605098053959
-              },
-              "icon": "lucide-file-text",
-              "title": "C++程序设计：思想与方法 ideas and methods 慕课"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
