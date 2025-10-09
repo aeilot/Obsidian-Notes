@@ -16,9 +16,9 @@
               "state": {
                 "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
                 "page": 85,
-                "left": -16,
-                "top": 508,
-                "zoom": 0.9462003818063431
+                "left": -18,
+                "top": 523,
+                "zoom": 0.8315476058484507
               },
               "icon": "lucide-file-text",
               "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/求解递推式：特征方程法与不动点法.md",
+                "file": "线性代数/求解递推式：特征方程法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "求解递推式：特征方程法与不动点法"
+              "title": "求解递推式：特征方程法"
             }
           }
         ]
@@ -121,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -245,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,7 +269,7 @@
   },
   "active": "0e9818996cca65b9",
   "lastOpenFiles": [
-    "线性代数/求解递推式：特征方程法与不动点法.md",
+    "线性代数/求解递推式：特征方程法.md",
     "线性代数/可逆矩阵.md",
     "线性代数/行列式的计算.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
