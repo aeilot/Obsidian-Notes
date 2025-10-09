@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 83,
+                "page": 85,
                 "left": -18,
-                "top": 509,
+                "top": 492,
                 "zoom": 0.8315476058484507
               },
               "icon": "lucide-file-text",
@@ -29,7 +29,7 @@
       {
         "id": "18ff6920f6007414",
         "type": "tabs",
-        "dimension": 41.45607701564381,
+        "dimension": 41.4560770156438,
         "children": [
           {
             "id": "c876e1aa668f0810",
@@ -267,10 +267,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c876e1aa668f0810",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/可逆矩阵.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/行列式的计算.md",
     "线性代数/方阵的行列式.md",
     "PDFs.base",
