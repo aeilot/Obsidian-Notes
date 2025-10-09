@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "可逆矩阵",
+      "path": "线性代数/可逆矩阵.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "行列式的计算",
+      "path": "线性代数/行列式的计算.md"
+    },
+    {
+      "basename": "方阵的行列式",
+      "path": "线性代数/方阵的行列式.md"
+    },
+    {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
       "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
     },
@@ -105,10 +121,6 @@
       "path": "线性代数/行列式的基本性质.md"
     },
     {
-      "basename": "方阵的行列式",
-      "path": "线性代数/方阵的行列式.md"
-    },
-    {
       "basename": "方阵的幂、方阵多项式、方阵的迹",
       "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
     },
@@ -153,10 +165,6 @@
       "path": "数学分析/Exam/摸底考 最后一题.md"
     },
     {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
       "basename": "Tensor",
       "path": "CS231n Deep Learning for Computer Vision/Tensor.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "ciml-v0_99-all",
       "path": "A Course in ML/PDFs/ciml-v0_99-all.pdf"
-    },
-    {
-      "basename": "Ch03 Geometry and Nearest Neighbors",
-      "path": "A Course in ML/Ch03 Geometry and Nearest Neighbors.md"
-    },
-    {
-      "basename": "Ch01 Decision Trees",
-      "path": "A Course in ML/Ch01 Decision Trees.md"
     }
   ],
   "omittedPaths": [],
