@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+      "basename": "求解递推式：特征方程法与不动点法",
+      "path": "线性代数/求解递推式：特征方程法与不动点法.md"
     },
     {
       "basename": "可逆矩阵",
@@ -11,6 +11,10 @@
     {
       "basename": "行列式的计算",
       "path": "线性代数/行列式的计算.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "方阵的行列式",
@@ -195,10 +199,6 @@
     {
       "basename": "introduction-to-algorithm-fourth-edition",
       "path": "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf"
-    },
-    {
-      "basename": "ciml-v0_99-all",
-      "path": "A Course in ML/PDFs/ciml-v0_99-all.pdf"
     }
   ],
   "omittedPaths": [],
