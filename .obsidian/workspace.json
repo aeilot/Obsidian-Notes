@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "线性代数/PDFs/Introduction to Linear Algebra.pdf",
-                "page": 206,
+                "page": 207,
                 "left": -4,
-                "top": 33,
+                "top": 670,
                 "zoom": 1.11
               },
               "icon": "lucide-file-text",
@@ -246,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,7 +268,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "4e7f5095575b3c8f",
   "lastOpenFiles": [
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/Ch04 正交性.md",
