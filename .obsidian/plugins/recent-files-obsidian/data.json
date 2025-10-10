@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "可逆矩阵",
+      "path": "线性代数/可逆矩阵.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
       "basename": "行列式的计算",
       "path": "线性代数/行列式的计算.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "MATLAB",
       "path": "线性代数/MATLAB.md"
-    },
-    {
-      "basename": "可逆矩阵",
-      "path": "线性代数/可逆矩阵.md"
     },
     {
       "basename": "Course9.19 矩阵的运算",
@@ -63,10 +67,6 @@
     {
       "basename": "Introduction to Linear Algebra",
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",

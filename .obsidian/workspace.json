@@ -4,21 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "f419c15304735b7e",
+        "id": "2c084db17bcee6ac",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc3e5cbe25a22ba",
+            "id": "6ac80286dc78c8b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/行列式的计算.md",
+                "file": "线性代数/可逆矩阵.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "行列式的计算"
+              "title": "可逆矩阵"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f419c15304735b7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51ee0016cc7163e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+                "page": 91,
+                "left": -21,
+                "top": 517,
+                "zoom": 0.7030357031264174
+              },
+              "icon": "lucide-file-text",
+              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
             }
           }
         ]
@@ -97,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 310.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -244,24 +267,24 @@
   },
   "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/可逆矩阵.md",
+    "线性代数/行列式的计算.md",
     "线性代数/行列式的基本性质.md",
     "线性代数/求解递推式：特征方程法.md",
     "线性代数/求和符号.md",
     "线性代数/方阵的行列式.md",
     "线性代数/数域.md",
     "线性代数/MATLAB.md",
-    "线性代数/可逆矩阵.md",
     "线性代数/Course9.19 矩阵的运算.md",
     "线性代数/Course9.17 线性型与矩阵概念引入.md",
     "线性代数/Course9.15 线性代数.md",
     "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
-    "线性代数/行列式的计算.md",
     "CSAPP/Ch02.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "attachments/江南：蒋经国传 (扫描版).pdf",
     "CSAPP/Ch01.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "PDFs.base",
     "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
     "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf",
@@ -280,7 +303,6 @@
     "数学分析/映射与函数.md",
     "数学分析/常用不等式.md",
     "数学分析/实数集与连续统.md",
-    "数学分析/反三角函数.md",
     "attachments/Pasted image 20250925175230.png",
     "attachments/Pasted image 20250925173001.png",
     "attachments/Pasted image 20250922104245.png",
