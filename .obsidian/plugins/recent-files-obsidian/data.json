@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
       "basename": "有限覆盖定理（Heine-Borel 定理）",
       "path": "数学分析/EXT/有限覆盖定理（Heine-Borel 定理）.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "确界原理",
       "path": "数学分析/确界原理.md"
-    },
-    {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
     },
     {
       "basename": "收敛准则",
