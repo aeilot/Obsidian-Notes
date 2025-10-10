@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "08e1449d844c85a1",
+        "id": "f419c15304735b7e",
         "type": "tabs",
         "children": [
           {
-            "id": "775e560358b247bb",
+            "id": "0fc3e5cbe25a22ba",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/可逆矩阵.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "可逆矩阵"
+              "title": "New tab"
             }
           }
         ]
