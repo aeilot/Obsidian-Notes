@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "有限覆盖定理（Heine-Borel 定理）",
+      "path": "数学分析/EXT/有限覆盖定理（Heine-Borel 定理）.md"
+    },
+    {
+      "basename": "摸底考 最后一题",
+      "path": "数学分析/Exam/摸底考 最后一题.md"
+    },
+    {
+      "basename": "确界原理",
+      "path": "数学分析/确界原理.md"
+    },
+    {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
       "basename": "收敛准则",
       "path": "数学分析/收敛准则.md"
     },
@@ -23,10 +39,6 @@
     {
       "basename": "Ch04 正交性",
       "path": "线性代数/Ch04 正交性.md"
-    },
-    {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
     },
     {
       "basename": "行列式的计算",
@@ -169,10 +181,6 @@
       "path": "数学分析/Course9.15习题 集族证明题.md"
     },
     {
-      "basename": "摸底考 最后一题",
-      "path": "数学分析/Exam/摸底考 最后一题.md"
-    },
-    {
       "basename": "Tensor",
       "path": "CS231n Deep Learning for Computer Vision/Tensor.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "无穷大量",
       "path": "数学分析/无穷大量.md"
-    },
-    {
-      "basename": "Information_and_Entropy",
-      "path": "Information Theory/PDFs/Information_and_Entropy.pdf"
-    },
-    {
-      "basename": "introduction-to-algorithm-fourth-edition",
-      "path": "算法导论/PDFs/introduction-to-algorithm-fourth-edition.pdf"
     }
   ],
   "omittedPaths": [],
