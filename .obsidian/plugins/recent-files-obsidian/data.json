@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "行列式的计算",
+      "path": "线性代数/行列式的计算.md"
+    },
+    {
+      "basename": "行列式的基本性质",
+      "path": "线性代数/行列式的基本性质.md"
+    },
+    {
+      "basename": "求解递推式：特征方程法",
+      "path": "线性代数/求解递推式：特征方程法.md"
+    },
+    {
+      "basename": "求和符号",
+      "path": "线性代数/求和符号.md"
+    },
+    {
+      "basename": "方阵的行列式",
+      "path": "线性代数/方阵的行列式.md"
+    },
+    {
+      "basename": "数域",
+      "path": "线性代数/数域.md"
+    },
+    {
+      "basename": "MATLAB",
+      "path": "线性代数/MATLAB.md"
+    },
+    {
       "basename": "可逆矩阵",
       "path": "线性代数/可逆矩阵.md"
+    },
+    {
+      "basename": "Course9.19 矩阵的运算",
+      "path": "线性代数/Course9.19 矩阵的运算.md"
+    },
+    {
+      "basename": "Course9.17 线性型与矩阵概念引入",
+      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
+    },
+    {
+      "basename": "Course9.15 线性代数",
+      "path": "线性代数/Course9.15 线性代数.md"
+    },
+    {
+      "basename": "方阵的幂、方阵多项式、方阵的迹",
+      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
     },
     {
       "basename": "Ch02",
@@ -23,18 +67,6 @@
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
-      "basename": "求解递推式：特征方程法",
-      "path": "线性代数/求解递推式：特征方程法.md"
-    },
-    {
-      "basename": "行列式的计算",
-      "path": "线性代数/行列式的计算.md"
-    },
-    {
-      "basename": "方阵的行列式",
-      "path": "线性代数/方阵的行列式.md"
     },
     {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
@@ -119,38 +151,6 @@
     {
       "basename": "Course9.15习题 集族证明题",
       "path": "数学分析/Course9.15习题 集族证明题.md"
-    },
-    {
-      "basename": "求和符号",
-      "path": "线性代数/求和符号.md"
-    },
-    {
-      "basename": "行列式的基本性质",
-      "path": "线性代数/行列式的基本性质.md"
-    },
-    {
-      "basename": "方阵的幂、方阵多项式、方阵的迹",
-      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
-    },
-    {
-      "basename": "数域",
-      "path": "线性代数/数域.md"
-    },
-    {
-      "basename": "MATLAB",
-      "path": "线性代数/MATLAB.md"
-    },
-    {
-      "basename": "Course9.19 矩阵的运算",
-      "path": "线性代数/Course9.19 矩阵的运算.md"
-    },
-    {
-      "basename": "Course9.17 线性型与矩阵概念引入",
-      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
-    },
-    {
-      "basename": "Course9.15 线性代数",
-      "path": "线性代数/Course9.15 线性代数.md"
     },
     {
       "basename": "Ch04 正交性",
