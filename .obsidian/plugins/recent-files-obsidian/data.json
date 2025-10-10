@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch04 正交性",
-      "path": "线性代数/Ch04 正交性.md"
+      "basename": "收敛准则",
+      "path": "数学分析/收敛准则.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
       "basename": "Introduction to Linear Algebra",
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "可逆矩阵",
+      "path": "线性代数/可逆矩阵.md"
+    },
+    {
+      "basename": "Ch04 正交性",
+      "path": "线性代数/Ch04 正交性.md"
     },
     {
       "basename": "Ch02",
@@ -27,14 +43,6 @@
     {
       "basename": "Ch01 向量和矩阵",
       "path": "线性代数/Ch01 向量和矩阵.md"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
-      "basename": "可逆矩阵",
-      "path": "线性代数/可逆矩阵.md"
     },
     {
       "basename": "行列式的基本性质",
@@ -119,14 +127,6 @@
     {
       "basename": "算法导论 中文第三版",
       "path": "算法导论/PDFs/算法导论 中文第三版.pdf"
-    },
-    {
-      "basename": "收敛准则",
-      "path": "数学分析/收敛准则.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
       "basename": "数列极限",
