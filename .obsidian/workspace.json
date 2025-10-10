@@ -4,43 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "2c084db17bcee6ac",
+        "id": "b203d8e56718257e",
         "type": "tabs",
         "children": [
           {
-            "id": "6ac80286dc78c8b3",
+            "id": "4e7f5095575b3c8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/可逆矩阵.md",
+                "file": "线性代数/Ch04 正交性.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "可逆矩阵"
+              "title": "Ch04 正交性"
             }
-          }
-        ]
-      },
-      {
-        "id": "f419c15304735b7e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "51ee0016cc7163e7",
+            "id": "77e5aab3ab56e7f3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 91,
-                "left": -21,
-                "top": 517,
-                "zoom": 0.7030357031264174
+                "file": "线性代数/PDFs/Introduction to Linear Algebra.pdf",
+                "page": 186,
+                "left": -7,
+                "top": 714,
+                "zoom": 2.086750234301781
               },
               "icon": "lucide-file-text",
-              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
+              "title": "Introduction to Linear Algebra"
             }
           }
         ]
@@ -267,9 +261,15 @@
   },
   "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
+    "线性代数/PDFs/Introduction to Linear Algebra.pdf",
+    "线性代数/Ch04 正交性.md",
+    "CSAPP/Ch02.md",
+    "线性代数/行列式的计算.md",
+    "线性代数/Ch03 四个基本子空间.md",
+    "线性代数/Ch02 解线性方程组.md",
+    "线性代数/Ch01 向量和矩阵.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/可逆矩阵.md",
-    "线性代数/行列式的计算.md",
     "线性代数/行列式的基本性质.md",
     "线性代数/求解递推式：特征方程法.md",
     "线性代数/求和符号.md",
@@ -280,11 +280,9 @@
     "线性代数/Course9.17 线性型与矩阵概念引入.md",
     "线性代数/Course9.15 线性代数.md",
     "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
-    "CSAPP/Ch02.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "attachments/江南：蒋经国传 (扫描版).pdf",
     "CSAPP/Ch01.md",
-    "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "PDFs.base",
     "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
     "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf",
@@ -299,10 +297,6 @@
     "CSAPP",
     "数学分析/收敛准则.md",
     "数学分析/数列极限.md",
-    "数学分析/集合.md",
-    "数学分析/映射与函数.md",
-    "数学分析/常用不等式.md",
-    "数学分析/实数集与连续统.md",
     "attachments/Pasted image 20250925175230.png",
     "attachments/Pasted image 20250925173001.png",
     "attachments/Pasted image 20250922104245.png",

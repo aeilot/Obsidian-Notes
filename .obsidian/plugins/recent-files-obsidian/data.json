@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "可逆矩阵",
-      "path": "线性代数/可逆矩阵.md"
+      "basename": "Ch04 正交性",
+      "path": "线性代数/Ch04 正交性.md"
+    },
+    {
+      "basename": "Introduction to Linear Algebra",
+      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
+      "basename": "行列式的计算",
+      "path": "线性代数/行列式的计算.md"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "线性代数/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "Ch02 解线性方程组",
+      "path": "线性代数/Ch02 解线性方程组.md"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "线性代数/Ch01 向量和矩阵.md"
     },
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
-      "basename": "行列式的计算",
-      "path": "线性代数/行列式的计算.md"
+      "basename": "可逆矩阵",
+      "path": "线性代数/可逆矩阵.md"
     },
     {
       "basename": "行列式的基本性质",
@@ -53,20 +77,12 @@
       "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
     },
     {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
-    },
-    {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
       "basename": "Ch01",
       "path": "CSAPP/Ch01.md"
-    },
-    {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
@@ -151,22 +167,6 @@
     {
       "basename": "Course9.15习题 集族证明题",
       "path": "数学分析/Course9.15习题 集族证明题.md"
-    },
-    {
-      "basename": "Ch04 正交性",
-      "path": "线性代数/Ch04 正交性.md"
-    },
-    {
-      "basename": "Ch03 四个基本子空间",
-      "path": "线性代数/Ch03 四个基本子空间.md"
-    },
-    {
-      "basename": "Ch02 解线性方程组",
-      "path": "线性代数/Ch02 解线性方程组.md"
-    },
-    {
-      "basename": "Ch01 向量和矩阵",
-      "path": "线性代数/Ch01 向量和矩阵.md"
     },
     {
       "basename": "摸底考 最后一题",
