@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "可逆矩阵",
+      "path": "线性代数/可逆矩阵.md"
+    },
+    {
       "basename": "Ch02",
       "path": "CSAPP/Ch02.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "求解递推式：特征方程法",
       "path": "线性代数/求解递推式：特征方程法.md"
-    },
-    {
-      "basename": "可逆矩阵",
-      "path": "线性代数/可逆矩阵.md"
     },
     {
       "basename": "行列式的计算",
