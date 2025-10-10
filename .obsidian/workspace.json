@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "线性代数/PDFs/Introduction to Linear Algebra.pdf",
-                "page": 203,
-                "left": -12,
-                "top": 339,
-                "zoom": 1.2696227741330837
+                "page": 206,
+                "left": -4,
+                "top": 33,
+                "zoom": 1.11
               },
               "icon": "lucide-file-text",
               "title": "Introduction to Linear Algebra"
@@ -246,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +267,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4e7f5095575b3c8f",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/Ch04 正交性.md",
