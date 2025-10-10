@@ -6,6 +6,30 @@
       {
         "id": "b203d8e56718257e",
         "type": "tabs",
+        "dimension": 54.57280385078219,
+        "children": [
+          {
+            "id": "77e5aab3ab56e7f3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "线性代数/PDFs/Introduction to Linear Algebra.pdf",
+                "page": 203,
+                "left": -12,
+                "top": 339,
+                "zoom": 1.2696227741330837
+              },
+              "icon": "lucide-file-text",
+              "title": "Introduction to Linear Algebra"
+            }
+          }
+        ]
+      },
+      {
+        "id": "bdaec35204c64c8d",
+        "type": "tabs",
+        "dimension": 45.42719614921781,
         "children": [
           {
             "id": "4e7f5095575b3c8f",
@@ -19,22 +43,6 @@
               },
               "icon": "lucide-file",
               "title": "Ch04 正交性"
-            }
-          },
-          {
-            "id": "77e5aab3ab56e7f3",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "线性代数/PDFs/Introduction to Linear Algebra.pdf",
-                "page": 186,
-                "left": -7,
-                "top": 714,
-                "zoom": 2.086750234301781
-              },
-              "icon": "lucide-file-text",
-              "title": "Introduction to Linear Algebra"
             }
           }
         ]
@@ -238,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,7 +268,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "4e7f5095575b3c8f",
   "lastOpenFiles": [
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/Ch04 正交性.md",
