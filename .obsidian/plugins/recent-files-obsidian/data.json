@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "矩阵的相抵标准型",
+      "path": "线性代数/矩阵的相抵标准型.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "分块矩阵",
+      "path": "线性代数/分块矩阵.md"
+    },
+    {
+      "basename": "Introduction to Linear Algebra",
+      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "收敛准则",
+      "path": "数学分析/收敛准则.md"
+    },
+    {
       "basename": "Ch02",
       "path": "CSAPP/Ch02.md"
     },
@@ -17,20 +37,8 @@
       "path": "数学分析/确界原理.md"
     },
     {
-      "basename": "收敛准则",
-      "path": "数学分析/收敛准则.md"
-    },
-    {
       "basename": "《数学分析》陈纪修 第三版 上",
       "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "可逆矩阵",
@@ -191,14 +199,6 @@
     {
       "basename": "Validation Set",
       "path": "CS231n Deep Learning for Computer Vision/Validation Set.md"
-    },
-    {
-      "basename": "L1, L2 距离",
-      "path": "CS231n Deep Learning for Computer Vision/L1, L2 距离.md"
-    },
-    {
-      "basename": "无穷大量",
-      "path": "数学分析/无穷大量.md"
     }
   ],
   "omittedPaths": [],
