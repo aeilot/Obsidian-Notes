@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,10 +252,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "数学分析/确界原理.md"
+                "file": "数学分析/函数的概念与性质.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 确界原理"
+              "title": "File properties for 函数的概念与性质"
             }
           }
         ],
@@ -263,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,8 +285,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "692e3408a12342ad",
   "lastOpenFiles": [
+    "数学分析/确界原理.md",
     "数学分析/函数的概念与性质.md",
     "数学分析/Course9.15 关于《数学分析》.md",
     "线性代数/Course 思维导图.canvas",
@@ -306,7 +308,6 @@
     "数学分析/反三角函数.md",
     "数学分析/Course9.19 有理数是无限十进循环小数.md",
     "数学分析/双阶乘.md",
-    "数学分析/确界原理.md",
     "线性代数/分块矩阵.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "数学分析/收敛准则.md",
