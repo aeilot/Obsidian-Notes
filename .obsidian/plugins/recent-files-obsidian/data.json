@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Lab",
+      "path": "CSAPP/Labs/Data Lab.md"
+    },
+    {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
+      "basename": "Course9.15 关于《数学分析》",
+      "path": "数学分析/Course9.15 关于《数学分析》.md"
+    },
+    {
       "basename": "函数的概念与性质",
       "path": "数学分析/函数的概念与性质.md"
     },
     {
       "basename": "确界原理",
       "path": "数学分析/确界原理.md"
-    },
-    {
-      "basename": "Course9.15 关于《数学分析》",
-      "path": "数学分析/Course9.15 关于《数学分析》.md"
     },
     {
       "basename": "Course 思维导图",
@@ -145,10 +153,6 @@
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
-    },
-    {
       "basename": "摸底考 最后一题",
       "path": "数学分析/Exam/摸底考 最后一题.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Course9.15习题 补充题",
       "path": "数学分析/Course9.15习题 补充题.md"
-    },
-    {
-      "basename": "Course9.15习题 对合函数",
-      "path": "数学分析/Course9.15习题 对合函数.md"
     }
   ],
   "omittedPaths": [],
