@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Data Lab",
-      "path": "CSAPP/Labs/Data Lab.md"
+      "basename": "教材知识拾遗",
+      "path": "C++ 程序设计/教材知识拾遗.md"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
+      "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
+    },
+    {
+      "basename": "C++.Primer.5th.Edition_2013",
+      "path": "C++ 程序设计/PDFs/C++.Primer.5th.Edition_2013.pdf"
     },
     {
       "basename": "Ch02",
       "path": "CSAPP/Ch02.md"
+    },
+    {
+      "basename": "Data Lab",
+      "path": "CSAPP/Labs/Data Lab.md"
+    },
+    {
+      "basename": "Course 思维导图",
+      "path": "线性代数/Course 思维导图.canvas"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "可逆矩阵",
+      "path": "线性代数/可逆矩阵.md"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "线性代数/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "分块矩阵",
+      "path": "线性代数/分块矩阵.md"
     },
     {
       "basename": "Course9.15 关于《数学分析》",
@@ -19,10 +55,6 @@
     {
       "basename": "确界原理",
       "path": "数学分析/确界原理.md"
-    },
-    {
-      "basename": "Course 思维导图",
-      "path": "线性代数/Course 思维导图.canvas"
     },
     {
       "basename": "数域",
@@ -43,10 +75,6 @@
     {
       "basename": "矩阵的相抵标准型",
       "path": "线性代数/矩阵的相抵标准型.md"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "Ch01 向量和矩阵",
@@ -75,14 +103,6 @@
     {
       "basename": "Course9.17 线性型与矩阵概念引入",
       "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
-    },
-    {
-      "basename": "分块矩阵",
-      "path": "线性代数/分块矩阵.md"
-    },
-    {
-      "basename": "可逆矩阵",
-      "path": "线性代数/可逆矩阵.md"
     },
     {
       "basename": "求和符号",
@@ -165,24 +185,12 @@
       "path": "线性代数/Ch04 正交性.md"
     },
     {
-      "basename": "Ch03 四个基本子空间",
-      "path": "线性代数/Ch03 四个基本子空间.md"
-    },
-    {
       "basename": "Course9.15 线性代数",
       "path": "线性代数/Course9.15 线性代数.md"
     },
     {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
       "basename": "Ch01",
       "path": "CSAPP/Ch01.md"
-    },
-    {
-      "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
-      "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
     },
     {
       "basename": "PDFs",
@@ -191,14 +199,6 @@
     {
       "basename": "谢慧民清晰版.  数学分析习题课讲义.上.  2003",
       "path": "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf"
-    },
-    {
-      "basename": "《数学分析》习题全解指南(第二版上册)",
-      "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf"
-    },
-    {
-      "basename": "Course9.15习题 补充题",
-      "path": "数学分析/Course9.15习题 补充题.md"
     }
   ],
   "omittedPaths": [],
