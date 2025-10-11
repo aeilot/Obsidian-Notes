@@ -4,46 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "6c9924102a599804",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9296245f7a3a78b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 124,
-                "left": -21,
-                "top": 656,
-                "zoom": 0.7030357031264174
-              },
-              "icon": "lucide-file-text",
-              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
-            }
-          }
-        ]
-      },
-      {
         "id": "0b7f3dd3e80b6687",
         "type": "tabs",
         "children": [
           {
-            "id": "83e43c4104fbedaa",
+            "id": "1b29adee3c44df41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/矩阵的相抵标准型.md",
+                "file": "数学分析/Course9.15 关于《数学分析》.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "矩阵的相抵标准型"
+              "title": "Course9.15 关于《数学分析》"
+            }
+          },
+          {
+            "id": "692e3408a12342ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学分析/函数的概念与性质.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "函数的概念与性质"
+            }
+          },
+          {
+            "id": "92ee766f61fe49fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数学分析/确界原理.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "确界原理"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 485.5,
+    "width": 325.5,
     "collapsed": true
   },
   "right": {
@@ -238,6 +245,18 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
+          },
+          {
+            "id": "4494d19e7a0a3e46",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "数学分析/确界原理.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 确界原理"
+            }
           }
         ],
         "currentTab": 4
@@ -265,42 +284,44 @@
       "random-note:Open random note": false
     }
   },
-  "active": "83e43c4104fbedaa",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "数学分析/函数的概念与性质.md",
+    "数学分析/Course9.15 关于《数学分析》.md",
+    "线性代数/Course 思维导图.canvas",
     "线性代数/矩阵的相抵标准型.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/Ch01 向量和矩阵.md",
+    "线性代数/Course9.19 矩阵的运算.md",
+    "线性代数/Course9.17 线性型与矩阵概念引入.md",
+    "线性代数/行列式的计算.md",
+    "线性代数/方阵的行列式.md",
+    "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
+    "线性代数/数域.md",
+    "数学分析/Course 思维导图.canvas",
+    "数学分析/EXT/有限覆盖定理（Heine-Borel 定理）.md",
+    "数学分析/Course9.19 思考题：区间的条件.md",
+    "数学分析/集合.md",
+    "数学分析/Untitled.md",
+    "数学分析/反三角函数.md",
+    "数学分析/Course9.19 有理数是无限十进循环小数.md",
+    "数学分析/双阶乘.md",
+    "数学分析/确界原理.md",
     "线性代数/分块矩阵.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "数学分析/收敛准则.md",
     "CSAPP/Ch02.md",
-    "数学分析/EXT/有限覆盖定理（Heine-Borel 定理）.md",
     "数学分析/Exam/摸底考 最后一题.md",
-    "数学分析/确界原理.md",
     "数学分析/EXT",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "线性代数/可逆矩阵.md",
     "线性代数/Ch04 正交性.md",
-    "线性代数/行列式的计算.md",
     "线性代数/Ch03 四个基本子空间.md",
-    "线性代数/Ch02 解线性方程组.md",
-    "线性代数/Ch01 向量和矩阵.md",
-    "线性代数/行列式的基本性质.md",
-    "线性代数/求解递推式：特征方程法.md",
-    "线性代数/求和符号.md",
-    "线性代数/方阵的行列式.md",
-    "线性代数/数域.md",
-    "线性代数/MATLAB.md",
-    "线性代数/Course9.19 矩阵的运算.md",
-    "线性代数/Course9.17 线性型与矩阵概念引入.md",
-    "线性代数/Course9.15 线性代数.md",
-    "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "attachments/江南：蒋经国传 (扫描版).pdf",
-    "CSAPP/Ch01.md",
     "PDFs.base",
     "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
     "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf",
-    "Untitled.md",
     "算法导论/PDFs/算法导论 中文第三版.pdf",
     "attachments/Pasted image 20250930145159.png",
     "attachments/Pasted image 20250925175230.png",
