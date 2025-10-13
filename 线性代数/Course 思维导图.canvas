@@ -54,7 +54,8 @@
 		{"id":"1ff1832018122c16","type":"file","file":"线性代数/求和符号.md","x":1100,"y":1050,"width":400,"height":400},
 		{"id":"4140760927cf3e8c","type":"file","file":"线性代数/MATLAB.md","x":180,"y":1730,"width":400,"height":400},
 		{"id":"de20b42545e649d2","type":"file","file":"线性代数/求解递推式：特征方程法.md","x":980,"y":1730,"width":400,"height":400},
-		{"id":"f7ab26f5b1aa0693","type":"file","file":"线性代数/数域.md","x":260,"y":720,"width":400,"height":400}
+		{"id":"f7ab26f5b1aa0693","type":"file","file":"线性代数/数域.md","x":260,"y":720,"width":400,"height":400},
+		{"id":"adc05e59587a0798","type":"file","file":"线性代数/Ch05 行列式.md","x":-1500,"y":2020,"width":400,"height":400}
 	],
 	"edges":[
 		{
@@ -191,6 +192,15 @@
 			"fromSide":"top",
 			"toNode":"f7ab26f5b1aa0693",
 			"toSide":"bottom"
+		},
+		{
+			"id":"b9e82ee008ed72e6",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d638f22d0ce8c5a7",
+			"fromSide":"bottom",
+			"toNode":"adc05e59587a0798",
+			"toSide":"top"
 		}
 	],
 	"metadata":{
