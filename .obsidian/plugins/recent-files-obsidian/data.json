@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "函数极限的性质",
-      "path": "数学分析/函数极限的性质.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+      "basename": "Course 思维导图",
+      "path": "数学分析/Course 思维导图.canvas"
     },
     {
       "basename": "函数极限的定义",
       "path": "数学分析/函数极限的定义.md"
     },
     {
-      "basename": "Course 思维导图",
-      "path": "数学分析/Course 思维导图.canvas"
+      "basename": "函数极限的性质",
+      "path": "数学分析/函数极限的性质.md"
+    },
+    {
+      "basename": "Ch01",
+      "path": "CSAPP/Ch01.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
       "basename": "函数的运算",
@@ -195,10 +199,6 @@
     {
       "basename": "集合",
       "path": "数学分析/集合.md"
-    },
-    {
-      "basename": "Pasted image 20250921123242",
-      "path": "attachments/Pasted image 20250921123242.png"
     }
   ],
   "omittedPaths": [],

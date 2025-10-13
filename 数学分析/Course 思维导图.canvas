@@ -56,10 +56,12 @@
 			"width":400,
 			"height":600
 		},
-		{"id":"ff6c7f111afffbdb","type":"file","file":"数学分析/函数的运算.md","x":-302,"y":-360,"width":400,"height":400}
+		{"id":"ff6c7f111afffbdb","type":"file","file":"数学分析/函数的运算.md","x":-302,"y":-360,"width":400,"height":400},
+		{"id":"ffe48998479a5703","type":"file","file":"数学分析/函数极限的性质.md","x":2140,"y":-440,"width":400,"height":400},
+		{"id":"19a961f4e0645dde","type":"file","file":"数学分析/函数极限的定义.md","x":2400,"y":120,"width":400,"height":400}
 	],
 	"edges":[
-		{"id":"00956a390b3c958e","fromNode":"85928c7f559f70da","fromSide":"right","toNode":"467afb5ed360fca3","toSide":"left"},
+		{"id":"00956a390b3c958e","toFloating":false,"fromNode":"85928c7f559f70da","fromSide":"right","toNode":"467afb5ed360fca3","toSide":"left"},
 		{"id":"53f9ebf289bc7487","fromNode":"85928c7f559f70da","fromSide":"right","toNode":"72dabd8bc79497f8","toSide":"left"},
 		{"id":"6944538c7d79ad96","fromNode":"85928c7f559f70da","fromSide":"bottom","toNode":"1b002f90356faf01","toSide":"top"},
 		{"id":"60f7ab26bff9678f","toFloating":false,"fromFloating":false,"fromNode":"450b3176ce6cc611","fromSide":"top","toNode":"4377447058157773","toSide":"left"},
@@ -153,6 +155,24 @@
 			"fromSide":"bottom",
 			"toNode":"ff6c7f111afffbdb",
 			"toSide":"top"
+		},
+		{
+			"id":"d08ce18380e532e9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"55cc7472de59f350",
+			"fromSide":"top",
+			"toNode":"ffe48998479a5703",
+			"toSide":"bottom"
+		},
+		{
+			"id":"095c14f2be01ea68",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"55cc7472de59f350",
+			"fromSide":"right",
+			"toNode":"19a961f4e0645dde",
+			"toSide":"left"
 		}
 	],
 	"metadata":{
