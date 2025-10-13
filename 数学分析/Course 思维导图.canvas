@@ -3,18 +3,6 @@
 		{"id":"4377447058157773","type":"file","file":"数学分析/反三角函数.md","x":-400,"y":-1455,"width":400,"height":600},
 		{"id":"687e9227bd485365","type":"file","file":"数学分析/映射与函数.md","x":-1520,"y":-680,"width":400,"height":400},
 		{"id":"d20582545a2b3509","type":"file","file":"数学分析/常用不等式.md","x":-1520,"y":-1400,"width":400,"height":400},
-		{
-			"id":"8fba267816ca928e",
-			"type":"file",
-			"file":"数学分析/双阶乘.md",
-			"styleAttributes":{
-				"border":null
-			},
-			"x":-400,
-			"y":-720,
-			"width":400,
-			"height":600
-		},
 		{"id":"467afb5ed360fca3","type":"file","file":"数学分析/确界原理.md","x":-302,"y":200,"width":400,"height":400},
 		{"id":"72dabd8bc79497f8","type":"file","file":"数学分析/收敛准则.md","x":-302,"y":685,"width":400,"height":400},
 		{
@@ -45,17 +33,30 @@
 			"height":50
 		},
 		{"id":"cc2e2dc9acced08d","type":"file","file":"数学分析/EXT/有限覆盖定理（Heine-Borel 定理）.md","x":-960,"y":880,"width":400,"height":400},
-		{"id":"e666f8fc9c85129e","type":"file","file":"数学分析/函数的概念与性质.md","x":1120,"y":80,"width":400,"height":400},
 		{
 			"id":"55cc7472de59f350",
 			"type":"text",
-			"text":"# 函数",
+			"text":"# 函数极限",
 			"styleAttributes":{"textAlign":"center"},
-			"x":1840,
+			"x":1880,
 			"y":220,
 			"width":260,
 			"height":60
-		}
+		},
+		{"id":"e666f8fc9c85129e","type":"file","file":"数学分析/函数的概念与性质.md","x":400,"y":-360,"width":400,"height":400},
+		{
+			"id":"8fba267816ca928e",
+			"type":"file",
+			"file":"数学分析/双阶乘.md",
+			"styleAttributes":{
+				"border":null
+			},
+			"x":-825,
+			"y":-460,
+			"width":400,
+			"height":600
+		},
+		{"id":"ff6c7f111afffbdb","type":"file","file":"数学分析/函数的运算.md","x":-302,"y":-360,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"00956a390b3c958e","fromNode":"85928c7f559f70da","fromSide":"right","toNode":"467afb5ed360fca3","toSide":"left"},
@@ -136,13 +137,22 @@
 			"toSide":"top"
 		},
 		{
-			"id":"efba7adbdacc0a12",
+			"id":"f6a3038dc508fc7a",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"55cc7472de59f350",
-			"fromSide":"top",
+			"fromNode":"450b3176ce6cc611",
+			"fromSide":"bottom",
 			"toNode":"e666f8fc9c85129e",
-			"toSide":"right"
+			"toSide":"left"
+		},
+		{
+			"id":"8fb12d430e9494c7",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"450b3176ce6cc611",
+			"fromSide":"bottom",
+			"toNode":"ff6c7f111afffbdb",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "函数极限的定义",
+      "path": "数学分析/函数极限的定义.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "Course 思维导图",
+      "path": "数学分析/Course 思维导图.canvas"
+    },
+    {
+      "basename": "函数的运算",
+      "path": "数学分析/函数的运算.md"
+    },
+    {
+      "basename": "双阶乘",
+      "path": "数学分析/双阶乘.md"
+    },
+    {
+      "basename": "函数的概念与性质",
+      "path": "数学分析/函数的概念与性质.md"
+    },
+    {
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
+    },
+    {
+      "basename": "常用不等式",
+      "path": "数学分析/常用不等式.md"
+    },
+    {
+      "basename": "收敛准则",
+      "path": "数学分析/收敛准则.md"
+    },
+    {
+      "basename": "数列极限",
+      "path": "数学分析/数列极限.md"
+    },
+    {
+      "basename": "无穷大量",
+      "path": "数学分析/无穷大量.md"
+    },
+    {
+      "basename": "确界原理",
+      "path": "数学分析/确界原理.md"
+    },
+    {
+      "basename": "反三角函数",
+      "path": "数学分析/反三角函数.md"
+    },
+    {
+      "basename": "映射与函数",
+      "path": "数学分析/映射与函数.md"
+    },
+    {
+      "basename": "Introduction to Linear Algebra",
+      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "LADR4eChinese",
+      "path": "线性代数/PDFs/LADR4eChinese.pdf"
+    },
+    {
+      "basename": "LADR4e",
+      "path": "线性代数/PDFs/LADR4e.pdf"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
       "basename": "Course 思维导图",
       "path": "线性代数/Course 思维导图.canvas"
     },
@@ -29,10 +105,6 @@
       "path": "线性代数/行列式的计算.md"
     },
     {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
-    },
-    {
       "basename": "Ch02 解线性方程组",
       "path": "线性代数/Ch02 解线性方程组.md"
     },
@@ -41,20 +113,12 @@
       "path": "C++ 程序设计/教材知识拾遗.md"
     },
     {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
       "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
     },
     {
       "basename": "C++.Primer.5th.Edition_2013",
       "path": "C++ 程序设计/PDFs/C++.Primer.5th.Edition_2013.pdf"
-    },
-    {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
     },
     {
       "basename": "Data Lab",
@@ -75,14 +139,6 @@
     {
       "basename": "Course9.15 关于《数学分析》",
       "path": "数学分析/Course9.15 关于《数学分析》.md"
-    },
-    {
-      "basename": "函数的概念与性质",
-      "path": "数学分析/函数的概念与性质.md"
-    },
-    {
-      "basename": "确界原理",
-      "path": "数学分析/确界原理.md"
     },
     {
       "basename": "数域",
@@ -121,14 +177,6 @@
       "path": "线性代数/求和符号.md"
     },
     {
-      "basename": "Course 思维导图",
-      "path": "数学分析/Course 思维导图.canvas"
-    },
-    {
-      "basename": "数列极限",
-      "path": "数学分析/数列极限.md"
-    },
-    {
       "basename": "有限覆盖定理（Heine-Borel 定理）",
       "path": "数学分析/EXT/有限覆盖定理（Heine-Borel 定理）.md"
     },
@@ -141,64 +189,16 @@
       "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
     },
     {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
-    },
-    {
       "basename": "集合",
       "path": "数学分析/集合.md"
-    },
-    {
-      "basename": "无穷大量",
-      "path": "数学分析/无穷大量.md"
-    },
-    {
-      "basename": "双阶乘",
-      "path": "数学分析/双阶乘.md"
-    },
-    {
-      "basename": "常用不等式",
-      "path": "数学分析/常用不等式.md"
-    },
-    {
-      "basename": "映射与函数",
-      "path": "数学分析/映射与函数.md"
-    },
-    {
-      "basename": "反三角函数",
-      "path": "数学分析/反三角函数.md"
     },
     {
       "basename": "Pasted image 20250921123242",
       "path": "attachments/Pasted image 20250921123242.png"
     },
     {
-      "basename": "收敛准则",
-      "path": "数学分析/收敛准则.md"
-    },
-    {
       "basename": "Course9.19 有理数是无限十进循环小数",
       "path": "数学分析/Course9.19 有理数是无限十进循环小数.md"
-    },
-    {
-      "basename": "摸底考 最后一题",
-      "path": "数学分析/Exam/摸底考 最后一题.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
-      "basename": "Ch04 正交性",
-      "path": "线性代数/Ch04 正交性.md"
-    },
-    {
-      "basename": "Course9.15 线性代数",
-      "path": "线性代数/Course9.15 线性代数.md"
-    },
-    {
-      "basename": "Ch01",
-      "path": "CSAPP/Ch01.md"
     }
   ],
   "omittedPaths": [],
