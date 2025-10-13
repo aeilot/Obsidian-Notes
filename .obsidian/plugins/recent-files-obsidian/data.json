@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "谢慧民清晰版.  数学分析习题课讲义.上.  2003",
+      "path": "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "谢惠民清晰版.  数学分析习题课讲义.下.  2004",
+      "path": "数学分析/PDFs/谢惠民清晰版.  数学分析习题课讲义.下.  2004.pdf"
+    },
+    {
+      "basename": "《数学分析》习题全解指南(第二版上册)",
+      "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf"
+    },
+    {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
       "basename": "Course 思维导图",
       "path": "数学分析/Course 思维导图.canvas"
     },
@@ -75,14 +95,6 @@
     {
       "basename": "LADR4e",
       "path": "线性代数/PDFs/LADR4e.pdf"
-    },
-    {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
     },
     {
       "basename": "Course 思维导图",
@@ -187,18 +199,6 @@
     {
       "basename": "有限覆盖定理（Heine-Borel 定理）",
       "path": "数学分析/EXT/有限覆盖定理（Heine-Borel 定理）.md"
-    },
-    {
-      "basename": "Course9.19 思考题：区间的条件",
-      "path": "数学分析/Course9.19 思考题：区间的条件.md"
-    },
-    {
-      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
-      "path": "数学分析/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
-    },
-    {
-      "basename": "集合",
-      "path": "数学分析/集合.md"
     }
   ],
   "omittedPaths": [],
