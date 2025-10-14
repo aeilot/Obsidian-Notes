@@ -4,17 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "d1fa4546fef3bfe4",
+        "id": "78f6b41ce68f47ec",
         "type": "tabs",
+        "dimension": 60.048134777376646,
         "children": [
           {
-            "id": "0a44bdb9c9efa2ac",
+            "id": "3bc9b6d648b997ed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "pdf",
+              "state": {
+                "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+                "page": 99,
+                "left": -4,
+                "top": 454,
+                "zoom": 1.487208150122554
+              },
+              "icon": "lucide-file-text",
+              "title": "CSAPP-3th-ZH-OCR"
+            }
+          },
+          {
+            "id": "29c6cff70248cf2a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数学分析/PDFs/数学分析新讲 第一册.pdf",
+                "page": 21,
+                "left": -19,
+                "top": 587,
+                "zoom": 0.7915965056140328
+              },
+              "icon": "lucide-file-text",
+              "title": "数学分析新讲 第一册"
+            }
+          }
+        ]
+      },
+      {
+        "id": "90ad952549cad98b",
+        "type": "tabs",
+        "dimension": 39.95186522262335,
+        "children": [
+          {
+            "id": "dcf568af7d8b3d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CSAPP/Ch02.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ch02"
             }
           }
         ]
@@ -93,7 +137,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -250,23 +295,23 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0a44bdb9c9efa2ac",
+  "active": "dcf568af7d8b3d20",
   "lastOpenFiles": [
+    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+    "CSAPP/Ch02.md",
     "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "CSAPP/Ch01.md",
+    "数学分析/实数集与连续统.md",
     "数学分析/PDFs/数学分析新讲 第三册.pdf",
     "数学分析/PDFs/数学分析新讲 第二册.pdf",
     "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
-    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "数学分析/PDFs/谢惠民清晰版.  数学分析习题课讲义.下.  2004.pdf",
     "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf",
-    "CSAPP/Ch02.md",
     "数学分析/Course 思维导图.canvas",
-    "CSAPP/Ch01.md",
     "数学分析/函数极限的性质.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/函数极限的定义.md",
     "数学分析/函数的运算.md",
-    "数学分析/实数集与连续统.md",
     "数学分析/常用不等式.md",
     "数学分析/收敛准则.md",
     "数学分析/数列极限.md",
@@ -278,7 +323,6 @@
     "数学分析/映射与函数.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
     "线性代数/PDFs/LADR4eChinese.pdf",
-    "线性代数/PDFs/LADR4e.pdf",
     "Notes.md",
     "线性代数/Course 思维导图.canvas",
     "线性代数/矩阵的秩.md",
