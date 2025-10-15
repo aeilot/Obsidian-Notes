@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
+      "basename": "数学分析新讲 第一册",
+      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+    },
+    {
+      "basename": "可逆矩阵",
+      "path": "线性代数/可逆矩阵.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "分块矩阵",
+      "path": "线性代数/分块矩阵.md"
+    },
+    {
+      "basename": "The-Art-of-Linear-Algebra",
+      "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
+    },
+    {
+      "basename": "LADR4eChinese",
+      "path": "线性代数/PDFs/LADR4eChinese.pdf"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "线性代数/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "LADR4e",
+      "path": "线性代数/PDFs/LADR4e.pdf"
     },
     {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
-      "basename": "数学分析新讲 第一册",
-      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
     },
     {
       "basename": "Ch01",
@@ -93,24 +121,12 @@
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
-      "basename": "LADR4eChinese",
-      "path": "线性代数/PDFs/LADR4eChinese.pdf"
-    },
-    {
-      "basename": "LADR4e",
-      "path": "线性代数/PDFs/LADR4e.pdf"
-    },
-    {
       "basename": "Course 思维导图",
       "path": "线性代数/Course 思维导图.canvas"
     },
     {
       "basename": "矩阵的秩",
       "path": "线性代数/矩阵的秩.md"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "Ch05 行列式",
@@ -149,16 +165,8 @@
       "path": "CSAPP/Labs/Data Lab.md"
     },
     {
-      "basename": "可逆矩阵",
-      "path": "线性代数/可逆矩阵.md"
-    },
-    {
       "basename": "Ch03 四个基本子空间",
       "path": "线性代数/Ch03 四个基本子空间.md"
-    },
-    {
-      "basename": "分块矩阵",
-      "path": "线性代数/分块矩阵.md"
     },
     {
       "basename": "Course9.15 关于《数学分析》",
@@ -177,10 +185,6 @@
       "path": "线性代数/MATLAB.md"
     },
     {
-      "basename": "Ch01 向量和矩阵",
-      "path": "线性代数/Ch01 向量和矩阵.md"
-    },
-    {
       "basename": "方阵的行列式",
       "path": "线性代数/方阵的行列式.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Course9.17 线性型与矩阵概念引入",
       "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
-    },
-    {
-      "basename": "求和符号",
-      "path": "线性代数/求和符号.md"
     }
   ],
   "omittedPaths": [],
