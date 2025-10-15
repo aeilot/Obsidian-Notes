@@ -4,47 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "4a614139497108ad",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8b0f7e996ce1a4a7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 143,
-                "left": -21,
-                "top": 837,
-                "zoom": 0.7030357031264174
-              },
-              "icon": "lucide-file-text",
-              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
-            }
-          }
-        ]
-      },
-      {
         "id": "78f6b41ce68f47ec",
         "type": "tabs",
+        "dimension": 53.00842358604091,
         "children": [
-          {
-            "id": "d84e648389d2e8d1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "线性代数/PDFs/LADR4eChinese.pdf",
-                "page": 26,
-                "left": -6,
-                "top": 33,
-                "zoom": 2.4383644016837045
-              },
-              "icon": "lucide-file-text",
-              "title": "LADR4eChinese"
-            }
-          },
           {
             "id": "4b010f5174ea75e7",
             "type": "leaf",
@@ -52,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "数学分析/PDFs/数学分析新讲 第一册.pdf",
-                "page": 22,
+                "page": 32,
                 "left": -4,
-                "top": 579,
+                "top": 43,
                 "zoom": 2.0445374715063074
               },
               "icon": "lucide-file-text",
@@ -62,21 +25,44 @@
             }
           },
           {
-            "id": "9e91b27daa02a4c4",
+            "id": "8c994f453bdbc43b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+                "page": 84,
+                "left": -16,
+                "top": 617,
+                "zoom": 0.9338234631372402
+              },
+              "icon": "lucide-file-text",
+              "title": "《数学分析》陈纪修 第三版 上"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1eb9809f44401299",
+        "type": "tabs",
+        "dimension": 46.99157641395909,
+        "children": [
+          {
+            "id": "8dd08b31de2f24cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/分块矩阵的初等变换.md",
+                "file": "数学分析/重要极限.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "分块矩阵的初等变换"
+              "title": "重要极限"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,14 +298,19 @@
   },
   "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "线性代数/分块矩阵的初等变换.md",
-    "线性代数/矩阵的相抵标准型.md",
+    "数学分析/函数极限的性质.md",
+    "数学分析/重要极限.md",
+    "数学分析/函数极限的定义.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/函数极限的存在性.md",
     "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "线性代数/PDFs/LADR4eChinese.pdf",
+    "线性代数/分块矩阵的初等变换.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/矩阵的相抵标准型.md",
     "线性代数/可逆矩阵.md",
     "线性代数/分块矩阵.md",
     "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
-    "线性代数/PDFs/LADR4eChinese.pdf",
     "线性代数/Ch01 向量和矩阵.md",
     "线性代数/PDFs/LADR4e.pdf",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
@@ -329,10 +320,7 @@
     "数学分析/PDFs/数学分析新讲 第三册.pdf",
     "数学分析/PDFs/数学分析新讲 第二册.pdf",
     "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
-    "数学分析/PDFs/谢惠民清晰版.  数学分析习题课讲义.下.  2004.pdf",
     "数学分析/Course 思维导图.canvas",
-    "数学分析/函数极限的性质.md",
-    "数学分析/函数极限的定义.md",
     "数学分析/函数的运算.md",
     "数学分析/常用不等式.md",
     "数学分析/收敛准则.md",
@@ -352,7 +340,6 @@
     "attachments/Pasted image 20251013103510.png",
     "线性代数/行列式的基本性质.md",
     "线性代数/行列式的计算.md",
-    "线性代数/Ch05 行列式.md",
     "attachments/Pasted image 20251012000620.png",
     "attachments/Pasted image 20251012000605.png",
     "attachments/Pasted image 20250930145159.png",

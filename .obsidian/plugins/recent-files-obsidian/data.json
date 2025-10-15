@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "重要极限",
+      "path": "数学分析/重要极限.md"
+    },
+    {
+      "basename": "函数极限的性质",
+      "path": "数学分析/函数极限的性质.md"
+    },
+    {
+      "basename": "函数极限的定义",
+      "path": "数学分析/函数极限的定义.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "函数极限的存在性",
+      "path": "数学分析/函数极限的存在性.md"
+    },
+    {
+      "basename": "数学分析新讲 第一册",
+      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+    },
+    {
+      "basename": "LADR4eChinese",
+      "path": "线性代数/PDFs/LADR4eChinese.pdf"
+    },
+    {
       "basename": "分块矩阵的初等变换",
       "path": "线性代数/分块矩阵的初等变换.md"
     },
@@ -13,10 +41,6 @@
       "path": "线性代数/矩阵的相抵标准型.md"
     },
     {
-      "basename": "数学分析新讲 第一册",
-      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
-    },
-    {
       "basename": "可逆矩阵",
       "path": "线性代数/可逆矩阵.md"
     },
@@ -27,10 +51,6 @@
     {
       "basename": "The-Art-of-Linear-Algebra",
       "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
-    },
-    {
-      "basename": "LADR4eChinese",
-      "path": "线性代数/PDFs/LADR4eChinese.pdf"
     },
     {
       "basename": "Ch01 向量和矩阵",
@@ -71,18 +91,6 @@
     {
       "basename": "Course 思维导图",
       "path": "数学分析/Course 思维导图.canvas"
-    },
-    {
-      "basename": "函数极限的定义",
-      "path": "数学分析/函数极限的定义.md"
-    },
-    {
-      "basename": "函数极限的性质",
-      "path": "数学分析/函数极限的性质.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
       "basename": "函数的运算",
@@ -191,14 +199,6 @@
     {
       "basename": "方阵的行列式",
       "path": "线性代数/方阵的行列式.md"
-    },
-    {
-      "basename": "Course9.19 矩阵的运算",
-      "path": "线性代数/Course9.19 矩阵的运算.md"
-    },
-    {
-      "basename": "方阵的幂、方阵多项式、方阵的迹",
-      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
     }
   ],
   "omittedPaths": [],
