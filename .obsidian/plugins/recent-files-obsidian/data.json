@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "数学分析新讲 第一册",
@@ -47,10 +51,6 @@
     {
       "basename": "分块矩阵的初等变换",
       "path": "线性代数/分块矩阵的初等变换.md"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "矩阵的相抵标准型",
