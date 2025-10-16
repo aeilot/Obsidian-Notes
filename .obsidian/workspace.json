@@ -6,7 +6,6 @@
       {
         "id": "78f6b41ce68f47ec",
         "type": "tabs",
-        "dimension": 58.724428399518644,
         "children": [
           {
             "id": "4b010f5174ea75e7",
@@ -15,67 +14,33 @@
               "type": "pdf",
               "state": {
                 "file": "数学分析/PDFs/数学分析新讲 第一册.pdf",
-                "page": 37,
-                "left": -210,
-                "top": 657,
-                "zoom": 1.23
+                "page": 44,
+                "left": -14,
+                "top": 207,
+                "zoom": 1
               },
               "icon": "lucide-file-text",
               "title": "数学分析新讲 第一册"
             }
-          },
-          {
-            "id": "a44cd742c45b8349",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
-                "page": 19,
-                "left": -12,
-                "top": 1125,
-                "zoom": 1.2165
-              },
-              "icon": "lucide-file-text",
-              "title": "谢慧民清晰版.  数学分析习题课讲义.上.  2003"
-            }
-          },
-          {
-            "id": "8b4cea681359bdcd",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 110,
-                "left": -14,
-                "top": 19,
-                "zoom": 1.0276949826130155
-              },
-              "icon": "lucide-file-text",
-              "title": "CSAPP-3th-ZH-OCR"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "aea008932c461cb1",
+        "id": "296e9c7cd2953e9f",
         "type": "tabs",
-        "dimension": 41.275571600481356,
         "children": [
           {
-            "id": "f442dc2755ac2482",
+            "id": "73dd3dbbc76e0422",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSAPP/Ch02.md",
+                "file": "数学分析/实数集与连续统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch02"
+              "title": "实数集与连续统"
             }
           }
         ]
@@ -291,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,14 +278,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f442dc2755ac2482",
+  "active": "73dd3dbbc76e0422",
   "lastOpenFiles": [
+    "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "数学分析/实数集与连续统.md",
+    "线性代数/求和符号.md",
+    "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch02.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "attachments/Pasted image 20251015185246.png",
-    "数学分析/PDFs/数学分析新讲 第一册.pdf",
-    "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
     "数学分析/PDFs/谢惠民清晰版.  数学分析习题课讲义.下.  2004.pdf",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/重要极限.md",
@@ -335,7 +303,6 @@
     "线性代数/Ch01 向量和矩阵.md",
     "线性代数/PDFs/LADR4e.pdf",
     "CSAPP/Ch01.md",
-    "数学分析/实数集与连续统.md",
     "数学分析/PDFs/数学分析新讲 第三册.pdf",
     "数学分析/Course 思维导图.canvas",
     "数学分析/函数的运算.md",
@@ -355,7 +322,6 @@
     "attachments/Pasted image 20251013103940.png",
     "attachments/Pasted image 20251013103924.png",
     "attachments/Pasted image 20251013103510.png",
-    "线性代数/行列式的基本性质.md",
     "attachments/Pasted image 20251012000620.png",
     "attachments/Pasted image 20251012000605.png",
     "attachments/Pasted image 20250930145159.png",

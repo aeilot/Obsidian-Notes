@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
-    },
-    {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+      "basename": "实数集与连续统",
+      "path": "数学分析/实数集与连续统.md"
     },
     {
       "basename": "数学分析新讲 第一册",
       "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
     },
     {
+      "basename": "求和符号",
+      "path": "线性代数/求和符号.md"
+    },
+    {
       "basename": "谢慧民清晰版.  数学分析习题课讲义.上.  2003",
       "path": "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "谢惠民清晰版.  数学分析习题课讲义.下.  2004",
@@ -79,10 +87,6 @@
     {
       "basename": "Ch01",
       "path": "CSAPP/Ch01.md"
-    },
-    {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
     },
     {
       "basename": "《数学分析》习题全解指南(第二版上册)",
@@ -195,10 +199,6 @@
     {
       "basename": "MATLAB",
       "path": "线性代数/MATLAB.md"
-    },
-    {
-      "basename": "方阵的行列式",
-      "path": "线性代数/方阵的行列式.md"
     }
   ],
   "omittedPaths": [],
