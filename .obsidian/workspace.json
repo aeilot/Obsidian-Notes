@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "78f6b41ce68f47ec",
+        "id": "d44b7dc48b1e8fb3",
         "type": "tabs",
         "children": [
           {
-            "id": "4b010f5174ea75e7",
+            "id": "1eefbd417e18c5f9",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "数学分析/PDFs/数学分析新讲 第一册.pdf",
-                "page": 50,
-                "left": -151,
-                "top": 604,
-                "zoom": 1
+                "page": 40,
+                "left": -62,
+                "top": 272,
+                "zoom": 1.25
               },
               "icon": "lucide-file-text",
               "title": "数学分析新讲 第一册"
@@ -259,9 +259,9 @@
   },
   "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "数学分析/常用不等式.md",
-    "数学分析/PDFs/数学分析新讲 第一册.pdf",
     "数学分析/实数集与连续统.md",
+    "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "数学分析/常用不等式.md",
     "线性代数/求和符号.md",
     "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
