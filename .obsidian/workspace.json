@@ -15,10 +15,10 @@
               "type": "pdf",
               "state": {
                 "file": "数学分析/PDFs/数学分析新讲 第一册.pdf",
-                "page": 62,
-                "left": -15,
-                "top": 765,
-                "zoom": 1.0008401679260224
+                "page": 57,
+                "left": -21,
+                "top": 669,
+                "zoom": 0.7058822343055069
               },
               "icon": "lucide-file-text",
               "title": "数学分析新讲 第一册"
@@ -258,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,7 +279,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f23f219aefb50e59",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
     "数学分析/PDFs/数学分析新讲 第一册.pdf",
     "数学分析/数列极限.md",
