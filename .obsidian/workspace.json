@@ -4,26 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "d44b7dc48b1e8fb3",
+        "id": "6f17b0ec0d474994",
         "type": "tabs",
         "children": [
           {
-            "id": "1eefbd417e18c5f9",
+            "id": "9a5a8c15026b5a36",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "数学分析/PDFs/数学分析新讲 第一册.pdf",
-                "page": 40,
-                "left": -62,
-                "top": 272,
-                "zoom": 1.25
+                "page": 20,
+                "left": -8,
+                "top": 801,
+                "zoom": 2.044537471506308
               },
               "icon": "lucide-file-text",
               "title": "数学分析新讲 第一册"
             }
+          },
+          {
+            "id": "2d43a1ad462ab8d3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+                "page": 168,
+                "left": -8,
+                "top": 377,
+                "zoom": 2.043591237403314
+              },
+              "icon": "lucide-file-text",
+              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,16 +274,24 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "2d43a1ad462ab8d3",
   "lastOpenFiles": [
-    "数学分析/实数集与连续统.md",
+    "线性代数/向量组的秩.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "attachments/Pasted image 20251017122109.png",
+    "attachments/Pasted image 20251017121551.png",
+    "attachments/Pasted image 20251017121505.png",
+    "线性代数/向量空间.md",
+    "线性代数/消元法解线性方程组.md",
+    "线性代数/Ch02 解线性方程组.md",
+    "线性代数/矩阵的秩.md",
     "数学分析/PDFs/数学分析新讲 第一册.pdf",
-    "数学分析/常用不等式.md",
     "线性代数/求和符号.md",
+    "数学分析/实数集与连续统.md",
+    "数学分析/常用不等式.md",
     "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch02.md",
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "attachments/Pasted image 20251015185246.png",
     "数学分析/PDFs/谢惠民清晰版.  数学分析习题课讲义.下.  2004.pdf",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
@@ -291,21 +316,13 @@
     "数学分析/无穷大量.md",
     "数学分析/确界原理.md",
     "数学分析/函数的概念与性质.md",
-    "数学分析/双阶乘.md",
-    "数学分析/反三角函数.md",
-    "数学分析/映射与函数.md",
-    "Notes.md",
     "线性代数/Course 思维导图.canvas",
-    "线性代数/矩阵的秩.md",
     "attachments/Pasted image 20251013103947.png",
     "attachments/Pasted image 20251013103940.png",
     "attachments/Pasted image 20251013103924.png",
     "attachments/Pasted image 20251013103510.png",
     "attachments/Pasted image 20251012000620.png",
     "attachments/Pasted image 20251012000605.png",
-    "attachments/Pasted image 20250930145159.png",
-    "attachments/Pasted image 20250925175230.png",
-    "attachments/Pasted image 20250925173001.png",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
   ]
