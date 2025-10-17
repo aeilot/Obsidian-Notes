@@ -6,6 +6,7 @@
       {
         "id": "6f17b0ec0d474994",
         "type": "tabs",
+        "dimension": 64.01925391095065,
         "children": [
           {
             "id": "9a5a8c15026b5a36",
@@ -14,33 +15,37 @@
               "type": "pdf",
               "state": {
                 "file": "数学分析/PDFs/数学分析新讲 第一册.pdf",
-                "page": 20,
-                "left": -8,
-                "top": 801,
-                "zoom": 2.044537471506308
+                "page": 56,
+                "left": -12,
+                "top": 115,
+                "zoom": 1.2907560855872127
               },
               "icon": "lucide-file-text",
               "title": "数学分析新讲 第一册"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "17604242cba6b896",
+        "type": "tabs",
+        "dimension": 35.98074608904934,
+        "children": [
           {
-            "id": "2d43a1ad462ab8d3",
+            "id": "f23f219aefb50e59",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 168,
-                "left": -8,
-                "top": 377,
-                "zoom": 2.043591237403314
+                "file": "数学分析/数列极限.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
+              "icon": "lucide-file",
+              "title": "数列极限"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,10 +279,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "2d43a1ad462ab8d3",
+  "active": "f23f219aefb50e59",
   "lastOpenFiles": [
-    "线性代数/向量组的秩.md",
+    "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "数学分析/数列极限.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/向量组的秩.md",
     "attachments/Pasted image 20251017122109.png",
     "attachments/Pasted image 20251017121551.png",
     "attachments/Pasted image 20251017121505.png",
@@ -285,7 +292,6 @@
     "线性代数/消元法解线性方程组.md",
     "线性代数/Ch02 解线性方程组.md",
     "线性代数/矩阵的秩.md",
-    "数学分析/PDFs/数学分析新讲 第一册.pdf",
     "线性代数/求和符号.md",
     "数学分析/实数集与连续统.md",
     "数学分析/常用不等式.md",
@@ -312,7 +318,6 @@
     "数学分析/Course 思维导图.canvas",
     "数学分析/函数的运算.md",
     "数学分析/收敛准则.md",
-    "数学分析/数列极限.md",
     "数学分析/无穷大量.md",
     "数学分析/确界原理.md",
     "数学分析/函数的概念与性质.md",
