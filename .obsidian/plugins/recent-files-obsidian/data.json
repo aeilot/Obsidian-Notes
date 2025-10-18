@@ -9,6 +9,10 @@
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
+      "basename": "Ch01",
+      "path": "CSAPP/Ch01.md"
+    },
+    {
       "basename": "数学分析新讲 第一册",
       "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
     },
@@ -115,10 +119,6 @@
     {
       "basename": "LADR4e",
       "path": "线性代数/PDFs/LADR4e.pdf"
-    },
-    {
-      "basename": "Ch01",
-      "path": "CSAPP/Ch01.md"
     },
     {
       "basename": "《数学分析》习题全解指南(第二版上册)",

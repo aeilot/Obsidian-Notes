@@ -4,11 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "6b3774763aadd32b",
+        "id": "0848e5dae2d97ad3",
         "type": "tabs",
         "children": [
           {
-            "id": "2caded778f193c06",
+            "id": "f9547146a2f9f569",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+                "page": 115,
+                "left": -4,
+                "top": 482,
+                "zoom": 1.2279557772151368
+              },
+              "icon": "lucide-file-text",
+              "title": "CSAPP-3th-ZH-OCR"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b96c7ecc5458b3c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e61e5a7a96465116",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -255,9 +277,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "e61e5a7a96465116",
   "lastOpenFiles": [
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+    "CSAPP/Ch02.md",
+    "CSAPP/CSAPP-3th-ZH-OCR.pdf.sb-deaf8904-QrOpbC",
+    "CSAPP/Ch01.md",
     "数学分析/PDFs/数学分析新讲 第一册.pdf",
     "数学分析/无穷小量与无穷大量的比较.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
@@ -277,7 +302,6 @@
     "数学分析/实数集与连续统.md",
     "数学分析/常用不等式.md",
     "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf",
-    "CSAPP/Ch02.md",
     "attachments/Pasted image 20251015185246.png",
     "数学分析/PDFs/谢惠民清晰版.  数学分析习题课讲义.下.  2004.pdf",
     "数学分析/函数极限的性质.md",
@@ -290,8 +314,6 @@
     "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
     "线性代数/Ch01 向量和矩阵.md",
     "线性代数/PDFs/LADR4e.pdf",
-    "CSAPP/Ch01.md",
-    "数学分析/PDFs/数学分析新讲 第三册.pdf",
     "数学分析/Course 思维导图.canvas",
     "数学分析/函数的运算.md",
     "数学分析/收敛准则.md",
