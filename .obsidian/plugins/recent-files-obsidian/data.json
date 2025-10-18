@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "数学分析新讲 第一册",
+      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+    },
+    {
       "basename": "无穷小量与无穷大量的比较",
       "path": "数学分析/无穷小量与无穷大量的比较.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "重要极限",
       "path": "数学分析/重要极限.md"
-    },
-    {
-      "basename": "数学分析新讲 第一册",
-      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
     },
     {
       "basename": "数列极限",
@@ -63,14 +71,6 @@
     {
       "basename": "谢慧民清晰版.  数学分析习题课讲义.上.  2003",
       "path": "数学分析/PDFs/谢慧民清晰版.  数学分析习题课讲义.上.  2003.pdf"
-    },
-    {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
     },
     {
       "basename": "谢惠民清晰版.  数学分析习题课讲义.下.  2004",
