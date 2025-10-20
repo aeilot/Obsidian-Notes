@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0848e5dae2d97ad3",
+        "id": "ff148f685d3cb9e3",
         "type": "tabs",
+        "dimension": 64.25992779783394,
         "children": [
           {
-            "id": "f9547146a2f9f569",
+            "id": "3adc3f0c8f7fe5d3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 115,
+                "page": 123,
                 "left": -4,
-                "top": 484,
-                "zoom": 1.2279557772151368
+                "top": 363,
+                "zoom": 1.55
               },
               "icon": "lucide-file-text",
               "title": "CSAPP-3th-ZH-OCR"
@@ -26,11 +27,12 @@
         ]
       },
       {
-        "id": "b96c7ecc5458b3c8",
+        "id": "22feb4a5013d0155",
         "type": "tabs",
+        "dimension": 35.74007220216607,
         "children": [
           {
-            "id": "e61e5a7a96465116",
+            "id": "22518080a1791599",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -277,27 +279,38 @@
       "random-note:Open random note": false
     }
   },
-  "active": "e61e5a7a96465116",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch02.md",
+    "线性代数/Ch04 正交性.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/向量组的秩.md",
+    "attachments/Pasted image 20251020085314.png",
+    "attachments/Pasted image 20251020085214.png",
+    "attachments/Pasted image 20251020085136.png",
+    "attachments/Pasted image 20251020085104.png",
+    "attachments/Pasted image 20251020085041.png",
+    "线性代数/Ch05 行列式.md",
+    "线性代数/矩阵的秩.md",
+    "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
+    "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf",
+    "线性代数/向量空间.md",
+    "线性代数/求解递推式：特征方程法.md",
+    "线性代数/消元法解线性方程组.md",
+    "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "数学分析/无穷大量.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf.sb-deaf8904-QrOpbC",
     "CSAPP/Ch01.md",
-    "数学分析/PDFs/数学分析新讲 第一册.pdf",
     "数学分析/无穷小量与无穷大量的比较.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/函数极限的存在性.md",
     "数学分析/重要极限.md",
     "数学分析/数列极限.md",
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "线性代数/向量组的秩.md",
     "attachments/Pasted image 20251017122109.png",
     "attachments/Pasted image 20251017121551.png",
     "attachments/Pasted image 20251017121505.png",
-    "线性代数/向量空间.md",
-    "线性代数/消元法解线性方程组.md",
     "线性代数/Ch02 解线性方程组.md",
-    "线性代数/矩阵的秩.md",
     "线性代数/求和符号.md",
     "数学分析/实数集与连续统.md",
     "数学分析/常用不等式.md",
@@ -311,21 +324,10 @@
     "线性代数/矩阵的相抵标准型.md",
     "线性代数/可逆矩阵.md",
     "线性代数/分块矩阵.md",
-    "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
     "线性代数/Ch01 向量和矩阵.md",
-    "线性代数/PDFs/LADR4e.pdf",
     "数学分析/Course 思维导图.canvas",
-    "数学分析/函数的运算.md",
-    "数学分析/收敛准则.md",
-    "数学分析/无穷大量.md",
-    "数学分析/确界原理.md",
     "线性代数/Course 思维导图.canvas",
     "attachments/Pasted image 20251013103947.png",
-    "attachments/Pasted image 20251013103940.png",
-    "attachments/Pasted image 20251013103924.png",
-    "attachments/Pasted image 20251013103510.png",
-    "attachments/Pasted image 20251012000620.png",
-    "attachments/Pasted image 20251012000605.png",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
   ]
