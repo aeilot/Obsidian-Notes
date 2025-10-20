@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
+      "basename": "函数的连续性",
+      "path": "数学分析/函数的连续性.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "重要极限",
+      "path": "数学分析/重要极限.md"
+    },
+    {
+      "basename": "无穷小量与无穷大量的比较",
+      "path": "数学分析/无穷小量与无穷大量的比较.md"
+    },
+    {
+      "basename": "Ch03",
+      "path": "CSAPP/Ch03.md"
     },
     {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
     },
     {
       "basename": "Ch04 正交性",
@@ -61,20 +81,8 @@
       "path": "CSAPP/Ch01.md"
     },
     {
-      "basename": "无穷小量与无穷大量的比较",
-      "path": "数学分析/无穷小量与无穷大量的比较.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
       "basename": "函数极限的存在性",
       "path": "数学分析/函数极限的存在性.md"
-    },
-    {
-      "basename": "重要极限",
-      "path": "数学分析/重要极限.md"
     },
     {
       "basename": "数列极限",
@@ -191,14 +199,6 @@
     {
       "basename": "行列式的基本性质",
       "path": "线性代数/行列式的基本性质.md"
-    },
-    {
-      "basename": "行列式的计算",
-      "path": "线性代数/行列式的计算.md"
-    },
-    {
-      "basename": "教材知识拾遗",
-      "path": "C++ 程序设计/教材知识拾遗.md"
     }
   ],
   "omittedPaths": [],
