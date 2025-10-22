@@ -39,7 +39,6 @@
 			"width":260,
 			"height":60
 		},
-		{"id":"7dd6f6f91e6f2ae0","type":"file","file":"线性代数/矩阵的相抵标准型.md","x":700,"y":-980,"width":400,"height":400},
 		{"id":"6c56754badae9b9e","type":"file","file":"线性代数/Ch02 解线性方程组.md","x":700,"y":-400,"width":400,"height":400},
 		{
 			"id":"f89bd421fdf58cbc",
@@ -56,7 +55,10 @@
 		{"id":"de20b42545e649d2","type":"file","file":"线性代数/求解递推式：特征方程法.md","x":980,"y":1730,"width":400,"height":400},
 		{"id":"f7ab26f5b1aa0693","type":"file","file":"线性代数/数域.md","x":260,"y":720,"width":400,"height":400},
 		{"id":"adc05e59587a0798","type":"file","file":"线性代数/Ch05 行列式.md","x":-1500,"y":2020,"width":400,"height":400},
-		{"id":"ef7a2964bdc9bdbc","type":"file","file":"线性代数/矩阵的秩.md","x":160,"y":80,"width":400,"height":400}
+		{"id":"ef7a2964bdc9bdbc","type":"file","file":"线性代数/矩阵的秩.md","x":160,"y":80,"width":400,"height":400},
+		{"id":"6c0c0239f9c0dd36","type":"file","file":"线性代数/向量空间.md","x":-140,"y":-1080,"width":400,"height":400},
+		{"id":"7dd6f6f91e6f2ae0","type":"file","file":"线性代数/矩阵的相抵标准型.md","x":1000,"y":-960,"width":400,"height":400},
+		{"id":"72c3d06d37df0fee","type":"file","file":"线性代数/向量组的秩.md","x":430,"y":-1160,"width":400,"height":400}
 	],
 	"edges":[
 		{
@@ -211,6 +213,24 @@
 			"fromSide":"bottom",
 			"toNode":"ef7a2964bdc9bdbc",
 			"toSide":"top"
+		},
+		{
+			"id":"acb22641a4365c1d",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"28300d37ba71ef3e",
+			"fromSide":"top",
+			"toNode":"72c3d06d37df0fee",
+			"toSide":"bottom"
+		},
+		{
+			"id":"47945eb383f79427",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"28300d37ba71ef3e",
+			"fromSide":"top",
+			"toNode":"6c0c0239f9c0dd36",
+			"toSide":"bottom"
 		}
 	],
 	"metadata":{

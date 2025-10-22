@@ -1,0 +1,11 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.ext == "md"
+    sort:
+      - property: file.ctime
+        direction: ASC
+    image: file.file
+    imageFit: ""

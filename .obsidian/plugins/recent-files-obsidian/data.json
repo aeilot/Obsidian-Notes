@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "TOC",
+      "path": "线性代数/TOC.base"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "线性代数/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "Course 思维导图",
+      "path": "线性代数/Course 思维导图.canvas"
+    },
+    {
+      "basename": "向量组的秩",
+      "path": "线性代数/向量组的秩.md"
+    },
+    {
+      "basename": "矩阵的相抵标准型",
+      "path": "线性代数/矩阵的相抵标准型.md"
+    },
+    {
+      "basename": "向量空间",
+      "path": "线性代数/向量空间.md"
+    },
+    {
+      "basename": "行列式的计算",
+      "path": "线性代数/行列式的计算.md"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "汇编语言王爽着",
+      "path": "CSAPP/汇编语言王爽着.pdf"
+    },
+    {
+      "basename": "数学分析新讲 第一册",
+      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+    },
+    {
+      "basename": "Ch02",
+      "path": "CSAPP/Ch02.md"
+    },
+    {
       "basename": "函数的连续性",
       "path": "数学分析/函数的连续性.md"
     },
@@ -21,24 +65,12 @@
       "path": "CSAPP/Ch03.md"
     },
     {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
-      "basename": "Ch02",
-      "path": "CSAPP/Ch02.md"
-    },
-    {
       "basename": "Ch04 正交性",
       "path": "线性代数/Ch04 正交性.md"
     },
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
-      "basename": "向量组的秩",
-      "path": "线性代数/向量组的秩.md"
     },
     {
       "basename": "Ch05 行列式",
@@ -57,20 +89,12 @@
       "path": "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf"
     },
     {
-      "basename": "向量空间",
-      "path": "线性代数/向量空间.md"
-    },
-    {
       "basename": "求解递推式：特征方程法",
       "path": "线性代数/求解递推式：特征方程法.md"
     },
     {
       "basename": "消元法解线性方程组",
       "path": "线性代数/消元法解线性方程组.md"
-    },
-    {
-      "basename": "数学分析新讲 第一册",
-      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
     },
     {
       "basename": "无穷大量",
@@ -129,10 +153,6 @@
       "path": "线性代数/分块矩阵的初等变换.md"
     },
     {
-      "basename": "矩阵的相抵标准型",
-      "path": "线性代数/矩阵的相抵标准型.md"
-    },
-    {
       "basename": "可逆矩阵",
       "path": "线性代数/可逆矩阵.md"
     },
@@ -143,10 +163,6 @@
     {
       "basename": "The-Art-of-Linear-Algebra",
       "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
-    },
-    {
-      "basename": "Ch01 向量和矩阵",
-      "path": "线性代数/Ch01 向量和矩阵.md"
     },
     {
       "basename": "LADR4e",
@@ -183,22 +199,6 @@
     {
       "basename": "反三角函数",
       "path": "数学分析/反三角函数.md"
-    },
-    {
-      "basename": "映射与函数",
-      "path": "数学分析/映射与函数.md"
-    },
-    {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
-    },
-    {
-      "basename": "Course 思维导图",
-      "path": "线性代数/Course 思维导图.canvas"
-    },
-    {
-      "basename": "行列式的基本性质",
-      "path": "线性代数/行列式的基本性质.md"
     }
   ],
   "omittedPaths": [],
