@@ -6,56 +6,8 @@
       {
         "id": "50bdd86cb78139f9",
         "type": "tabs",
-        "dimension": 19.0734055354994,
+        "dimension": 23.886883273164862,
         "children": [
-          {
-            "id": "2d8f6273962f1e7b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数学分析/PDFs/数学分析新讲 第一册.pdf",
-                "page": 74,
-                "left": -10,
-                "top": 681,
-                "zoom": 1.6348736748111472
-              },
-              "icon": "lucide-file-text",
-              "title": "数学分析新讲 第一册"
-            }
-          },
-          {
-            "id": "833b20e0acc48d26",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CSAPP/汇编语言王爽着.pdf",
-                "page": 11,
-                "left": -21,
-                "top": 2298,
-                "zoom": 0.7496164108378573
-              },
-              "icon": "lucide-file-text",
-              "title": "汇编语言王爽着"
-            }
-          },
-          {
-            "id": "43e2e3422828a9d5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 144,
-                "left": -6,
-                "top": 21,
-                "zoom": 2.518007948335817
-              },
-              "icon": "lucide-file-text",
-              "title": "CSAPP-3th-ZH-OCR"
-            }
-          },
           {
             "id": "0ddbd8c645d28680",
             "type": "leaf",
@@ -69,29 +21,80 @@
               "title": "TOC"
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "841fdefe4d0c4468",
+        "type": "tabs",
+        "dimension": 38.05655836341757,
+        "children": [
+          {
+            "id": "b8d1f26d918695fb",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+                "page": 36,
+                "left": -29,
+                "top": 574,
+                "zoom": 0.5228670551925865
+              },
+              "icon": "lucide-file-text",
+              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
+            }
+          }
+        ]
       },
       {
         "id": "cfec93676404753b",
         "type": "tabs",
-        "dimension": 80.9265944645006,
+        "dimension": 38.05655836341757,
         "children": [
           {
-            "id": "52f4913b90fec848",
+            "id": "d7c4f60bd34f491b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/Ch01 向量和矩阵.md",
+                "file": "线性代数/行列式的基本性质.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch01 向量和矩阵"
+              "title": "行列式的基本性质"
+            }
+          },
+          {
+            "id": "b983a44b8198a01e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/分块矩阵的初等变换.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "分块矩阵的初等变换"
+            }
+          },
+          {
+            "id": "05a2bdc4f06cae02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/矩阵的秩.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵的秩"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -304,8 +307,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -326,17 +328,30 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0ddbd8c645d28680",
+  "active": "05a2bdc4f06cae02",
   "lastOpenFiles": [
-    "线性代数/Ch01 向量和矩阵.md",
+    "attachments/Pasted image 20251022113704.png",
     "线性代数/TOC.base",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/分块矩阵的初等变换.md",
+    "线性代数/矩阵的秩.md",
+    "线性代数/行列式的基本性质.md",
+    "线性代数/方阵的行列式.md",
+    "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
+    "线性代数/Course9.19 矩阵的运算.md",
+    "线性代数/Course9.17 线性型与矩阵概念引入.md",
+    "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "CSAPP/汇编语言王爽着.pdf",
+    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+    "线性代数/求和符号.md",
+    "线性代数/数域.md",
+    "线性代数/Course9.15 线性代数.md",
+    "线性代数/Ch02 解线性方程组.md",
+    "线性代数/Ch01 向量和矩阵.md",
     "算法导论/PDFs/算法导论 中文第三版.pdf.zip",
     "线性代数/Course 思维导图.canvas",
     "线性代数/向量组的秩.md",
     "线性代数/向量空间.md",
-    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-    "CSAPP/汇编语言王爽着.pdf",
-    "数学分析/PDFs/数学分析新讲 第一册.pdf",
     "CSAPP/Ch02.md",
     "数学分析/函数的连续性.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
@@ -344,14 +359,12 @@
     "数学分析/无穷小量与无穷大量的比较.md",
     "CSAPP/Ch03.md",
     "线性代数/Ch04 正交性.md",
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "attachments/Pasted image 20251020085314.png",
     "attachments/Pasted image 20251020085214.png",
     "attachments/Pasted image 20251020085136.png",
     "attachments/Pasted image 20251020085104.png",
     "attachments/Pasted image 20251020085041.png",
     "线性代数/Ch05 行列式.md",
-    "线性代数/矩阵的秩.md",
     "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
     "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf",
     "线性代数/求解递推式：特征方程法.md",
@@ -359,20 +372,10 @@
     "数学分析/无穷大量.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf.sb-deaf8904-QrOpbC",
     "CSAPP/Ch01.md",
-    "数学分析/函数极限的存在性.md",
-    "数学分析/数列极限.md",
     "attachments/Pasted image 20251017122109.png",
     "attachments/Pasted image 20251017121551.png",
     "attachments/Pasted image 20251017121505.png",
-    "线性代数/Ch02 解线性方程组.md",
-    "线性代数/求和符号.md",
-    "数学分析/实数集与连续统.md",
-    "数学分析/常用不等式.md",
     "attachments/Pasted image 20251015185246.png",
-    "数学分析/函数极限的性质.md",
-    "数学分析/函数极限的定义.md",
-    "线性代数/分块矩阵的初等变换.md",
-    "线性代数/矩阵的相抵标准型.md",
     "数学分析/Course 思维导图.canvas",
     "attachments/Pasted image 20251013103947.png",
     "Untitled.canvas",

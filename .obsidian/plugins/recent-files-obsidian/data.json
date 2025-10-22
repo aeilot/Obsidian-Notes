@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "矩阵的秩",
+      "path": "线性代数/矩阵的秩.md"
+    },
+    {
       "basename": "TOC",
       "path": "线性代数/TOC.base"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "分块矩阵的初等变换",
+      "path": "线性代数/分块矩阵的初等变换.md"
+    },
+    {
+      "basename": "行列式的基本性质",
+      "path": "线性代数/行列式的基本性质.md"
+    },
+    {
+      "basename": "方阵的行列式",
+      "path": "线性代数/方阵的行列式.md"
+    },
+    {
+      "basename": "方阵的幂、方阵多项式、方阵的迹",
+      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
+    },
+    {
+      "basename": "Course9.19 矩阵的运算",
+      "path": "线性代数/Course9.19 矩阵的运算.md"
+    },
+    {
+      "basename": "Course9.17 线性型与矩阵概念引入",
+      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
+    },
+    {
+      "basename": "数学分析新讲 第一册",
+      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+    },
+    {
+      "basename": "汇编语言王爽着",
+      "path": "CSAPP/汇编语言王爽着.pdf"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "求和符号",
+      "path": "线性代数/求和符号.md"
+    },
+    {
+      "basename": "数域",
+      "path": "线性代数/数域.md"
+    },
+    {
+      "basename": "Course9.15 线性代数",
+      "path": "线性代数/Course9.15 线性代数.md"
+    },
+    {
+      "basename": "Ch02 解线性方程组",
+      "path": "线性代数/Ch02 解线性方程组.md"
     },
     {
       "basename": "Ch01 向量和矩阵",
@@ -27,18 +87,6 @@
     {
       "basename": "行列式的计算",
       "path": "线性代数/行列式的计算.md"
-    },
-    {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
-      "basename": "汇编语言王爽着",
-      "path": "CSAPP/汇编语言王爽着.pdf"
-    },
-    {
-      "basename": "数学分析新讲 第一册",
-      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
     },
     {
       "basename": "Ch02",
@@ -69,16 +117,8 @@
       "path": "线性代数/Ch04 正交性.md"
     },
     {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
       "basename": "Ch05 行列式",
       "path": "线性代数/Ch05 行列式.md"
-    },
-    {
-      "basename": "矩阵的秩",
-      "path": "线性代数/矩阵的秩.md"
     },
     {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
@@ -113,14 +153,6 @@
       "path": "数学分析/数列极限.md"
     },
     {
-      "basename": "Ch02 解线性方程组",
-      "path": "线性代数/Ch02 解线性方程组.md"
-    },
-    {
-      "basename": "求和符号",
-      "path": "线性代数/求和符号.md"
-    },
-    {
       "basename": "实数集与连续统",
       "path": "数学分析/实数集与连续统.md"
     },
@@ -149,10 +181,6 @@
       "path": "线性代数/PDFs/LADR4eChinese.pdf"
     },
     {
-      "basename": "分块矩阵的初等变换",
-      "path": "线性代数/分块矩阵的初等变换.md"
-    },
-    {
       "basename": "可逆矩阵",
       "path": "线性代数/可逆矩阵.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "《数学分析》习题全解指南(第二版上册)",
       "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf"
-    },
-    {
-      "basename": "Course 思维导图",
-      "path": "数学分析/Course 思维导图.canvas"
-    },
-    {
-      "basename": "函数的运算",
-      "path": "数学分析/函数的运算.md"
-    },
-    {
-      "basename": "双阶乘",
-      "path": "数学分析/双阶乘.md"
-    },
-    {
-      "basename": "函数的概念与性质",
-      "path": "数学分析/函数的概念与性质.md"
-    },
-    {
-      "basename": "收敛准则",
-      "path": "数学分析/收敛准则.md"
-    },
-    {
-      "basename": "确界原理",
-      "path": "数学分析/确界原理.md"
-    },
-    {
-      "basename": "反三角函数",
-      "path": "数学分析/反三角函数.md"
     }
   ],
   "omittedPaths": [],
