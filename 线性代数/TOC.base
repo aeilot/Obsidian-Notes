@@ -4,6 +4,7 @@ views:
     filters:
       and:
         - file.ext == "md"
+        - file.folder == "线性代数"
     sort:
       - property: file.ctime
         direction: ASC
