@@ -13,6 +13,22 @@
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
+      "basename": "重要极限",
+      "path": "数学分析/重要极限.md"
+    },
+    {
+      "basename": "LADR4eChinese",
+      "path": "线性代数/PDFs/LADR4eChinese.pdf"
+    },
+    {
+      "basename": "矩阵的秩",
+      "path": "线性代数/矩阵的秩.md"
+    },
+    {
+      "basename": "方阵的幂、方阵多项式、方阵的迹",
+      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
+    },
+    {
       "basename": "可逆矩阵",
       "path": "线性代数/可逆矩阵.md"
     },
@@ -41,10 +57,6 @@
       "path": "线性代数/方阵的行列式.md"
     },
     {
-      "basename": "矩阵的秩",
-      "path": "线性代数/矩阵的秩.md"
-    },
-    {
       "basename": "向量组的秩",
       "path": "线性代数/向量组的秩.md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "求解递推式：特征方程法",
       "path": "线性代数/求解递推式：特征方程法.md"
-    },
-    {
-      "basename": "方阵的幂、方阵多项式、方阵的迹",
-      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
     },
     {
       "basename": "《数学分析》陈纪修 第三版 上",
@@ -129,10 +137,6 @@
       "path": "CSAPP/Ch02.md"
     },
     {
-      "basename": "重要极限",
-      "path": "数学分析/重要极限.md"
-    },
-    {
       "basename": "无穷小量与无穷大量的比较",
       "path": "数学分析/无穷小量与无穷大量的比较.md"
     },
@@ -191,10 +195,6 @@
     {
       "basename": "函数极限的定义",
       "path": "数学分析/函数极限的定义.md"
-    },
-    {
-      "basename": "LADR4eChinese",
-      "path": "线性代数/PDFs/LADR4eChinese.pdf"
     },
     {
       "basename": "The-Art-of-Linear-Algebra",
