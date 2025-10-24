@@ -1,28 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Course10.22 习题课",
-      "path": "线性代数/Course10.22 习题课.md"
+      "basename": "LADR4eChinese",
+      "path": "线性代数/PDFs/LADR4eChinese.pdf"
     },
     {
-      "basename": "分块矩阵的初等变换",
-      "path": "线性代数/分块矩阵的初等变换.md"
+      "basename": "LADR01 向量空间",
+      "path": "线性代数/LADR01 向量空间.md"
     },
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
-      "basename": "重要极限",
-      "path": "数学分析/重要极限.md"
+      "basename": "LADR4e",
+      "path": "线性代数/PDFs/LADR4e.pdf"
     },
     {
-      "basename": "LADR4eChinese",
-      "path": "线性代数/PDFs/LADR4eChinese.pdf"
+      "basename": "Ch01 向量和矩阵",
+      "path": "线性代数/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "Course10.22 习题课",
+      "path": "线性代数/Course10.22 习题课.md"
+    },
+    {
+      "basename": "行列式的基本性质",
+      "path": "线性代数/行列式的基本性质.md"
     },
     {
       "basename": "矩阵的秩",
       "path": "线性代数/矩阵的秩.md"
+    },
+    {
+      "basename": "Course9.15 线性代数",
+      "path": "线性代数/Course9.15 线性代数.md"
+    },
+    {
+      "basename": "数学分析新讲 第一册",
+      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+    },
+    {
+      "basename": "分块矩阵的初等变换",
+      "path": "线性代数/分块矩阵的初等变换.md"
+    },
+    {
+      "basename": "重要极限",
+      "path": "数学分析/重要极限.md"
     },
     {
       "basename": "方阵的幂、方阵多项式、方阵的迹",
@@ -43,10 +67,6 @@
     {
       "basename": "矩阵的相抵标准型",
       "path": "线性代数/矩阵的相抵标准型.md"
-    },
-    {
-      "basename": "行列式的基本性质",
-      "path": "线性代数/行列式的基本性质.md"
     },
     {
       "basename": "行列式的计算",
@@ -93,10 +113,6 @@
       "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
     },
     {
-      "basename": "数学分析新讲 第一册",
-      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
-    },
-    {
       "basename": "汇编语言王爽着",
       "path": "CSAPP/汇编语言王爽着.pdf"
     },
@@ -113,16 +129,8 @@
       "path": "线性代数/数域.md"
     },
     {
-      "basename": "Course9.15 线性代数",
-      "path": "线性代数/Course9.15 线性代数.md"
-    },
-    {
       "basename": "Ch02 解线性方程组",
       "path": "线性代数/Ch02 解线性方程组.md"
-    },
-    {
-      "basename": "Ch01 向量和矩阵",
-      "path": "线性代数/Ch01 向量和矩阵.md"
     },
     {
       "basename": "Course 思维导图",
@@ -191,14 +199,6 @@
     {
       "basename": "函数极限的性质",
       "path": "数学分析/函数极限的性质.md"
-    },
-    {
-      "basename": "函数极限的定义",
-      "path": "数学分析/函数极限的定义.md"
-    },
-    {
-      "basename": "The-Art-of-Linear-Algebra",
-      "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
     }
   ],
   "omittedPaths": [],

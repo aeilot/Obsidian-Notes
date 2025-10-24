@@ -4,55 +4,48 @@
     "type": "split",
     "children": [
       {
-        "id": "d6875dc898432cc0",
+        "id": "21e60453d5cdb0e6",
         "type": "tabs",
+        "dimension": 66.24548736462094,
         "children": [
           {
-            "id": "f40ac182eeaee6c5",
+            "id": "00f71664699e521b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 141,
-                "left": -9,
-                "top": 800,
-                "zoom": 1.6341170375536977
+                "file": "线性代数/PDFs/LADR4eChinese.pdf",
+                "page": 33,
+                "left": -10,
+                "top": 498,
+                "zoom": 1.5950090198436564
               },
               "icon": "lucide-file-text",
-              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
-            }
-          },
-          {
-            "id": "81389550cb86fb06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/分块矩阵的初等变换.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "分块矩阵的初等变换"
-            }
-          },
-          {
-            "id": "93495a9cae824188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "线性代数/Course10.22 习题课.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Course10.22 习题课"
+              "title": "LADR4eChinese"
             }
           }
-        ],
-        "currentTab": 2
+        ]
+      },
+      {
+        "id": "f5bc336b7894b4ca",
+        "type": "tabs",
+        "dimension": 33.754512635379065,
+        "children": [
+          {
+            "id": "6a668efa85709219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/LADR01 向量空间.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LADR01 向量空间"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -264,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,19 +279,25 @@
       "random-note:Open random note": false
     }
   },
-  "active": "93495a9cae824188",
+  "active": "00f71664699e521b",
   "lastOpenFiles": [
-    "线性代数/分块矩阵的初等变换.md",
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "数学分析/重要极限.md",
+    "线性代数/LADR01 向量空间.md",
     "线性代数/PDFs/LADR4eChinese.pdf",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/PDFs/LADR4e.pdf",
+    "线性代数/Ch01 向量和矩阵.md",
+    "线性代数/Course10.22 习题课.md",
+    "线性代数/行列式的基本性质.md",
     "线性代数/矩阵的秩.md",
+    "线性代数/Course9.15 线性代数.md",
+    "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "线性代数/分块矩阵的初等变换.md",
+    "数学分析/重要极限.md",
     "attachments/3e121f2dfdcdd243000949523196cd75.png",
     "attachments/Pasted image 20251022215320.png",
     "attachments/Pasted image 20251022215310.png",
     "attachments/Pasted image 20251022215254.png",
     "线性代数/方阵的幂、方阵多项式、方阵的迹.md",
-    "线性代数/Course10.22 习题课.md",
     "attachments/Pasted image 20251022210509.png",
     "attachments/Pasted image 20251022205010.png",
     "attachments/Pasted image 20251022204014.png",
@@ -306,7 +305,6 @@
     "线性代数/分块矩阵.md",
     "线性代数/Ch05 行列式.md",
     "线性代数/矩阵的相抵标准型.md",
-    "线性代数/行列式的基本性质.md",
     "线性代数/行列式的计算.md",
     "线性代数/方阵的行列式.md",
     "attachments/Pasted image 20251022201159.png",
@@ -321,19 +319,14 @@
     "attachments/Pasted image 20251022113704.png",
     "线性代数/Course9.19 矩阵的运算.md",
     "线性代数/Course9.17 线性型与矩阵概念引入.md",
-    "数学分析/PDFs/数学分析新讲 第一册.pdf",
     "CSAPP/汇编语言王爽着.pdf",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "线性代数/求和符号.md",
     "线性代数/数域.md",
-    "线性代数/Course9.15 线性代数.md",
     "线性代数/Ch02 解线性方程组.md",
-    "线性代数/Ch01 向量和矩阵.md",
     "算法导论/PDFs/算法导论 中文第三版.pdf.zip",
     "线性代数/Course 思维导图.canvas",
-    "线性代数/向量空间.md",
     "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
-    "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf",
     "数学分析/Course 思维导图.canvas",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
