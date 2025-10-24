@@ -4,45 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "21e60453d5cdb0e6",
+        "id": "664cd81959c19f55",
         "type": "tabs",
-        "dimension": 66.24548736462094,
         "children": [
           {
-            "id": "00f71664699e521b",
+            "id": "1464e9a05f6719f7",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "线性代数/PDFs/LADR4eChinese.pdf",
-                "page": 33,
-                "left": -10,
-                "top": 498,
-                "zoom": 1.5950090198436564
+                "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+                "page": 116,
+                "left": -17,
+                "top": 85,
+                "zoom": 0.8772281017349832
               },
               "icon": "lucide-file-text",
-              "title": "LADR4eChinese"
+              "title": "《数学分析》陈纪修 第三版 上"
             }
           }
         ]
       },
       {
-        "id": "f5bc336b7894b4ca",
+        "id": "c63904706beade45",
         "type": "tabs",
-        "dimension": 33.754512635379065,
         "children": [
           {
-            "id": "6a668efa85709219",
+            "id": "351aabb82a3404f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/LADR01 向量空间.md",
+                "file": "数学分析/闭区间上的连续函数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LADR01 向量空间"
+              "title": "闭区间上的连续函数"
             }
           }
         ]
@@ -279,17 +277,29 @@
       "random-note:Open random note": false
     }
   },
-  "active": "00f71664699e521b",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "线性代数/LADR01 向量空间.md",
-    "线性代数/PDFs/LADR4eChinese.pdf",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/闭区间上的连续函数.md",
+    "数学分析/无穷小量与无穷大量的比较.md",
+    "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf",
+    "线性代数/PDFs/高等代数（上册）.pdf",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "线性代数/PDFs/LADR4e.pdf",
+    "线性代数/TOC.base",
+    "线性代数/Course9.19 矩阵的运算.md",
+    "线性代数/Course9.17 线性型与矩阵概念引入.md",
+    "线性代数/数域.md",
+    "线性代数/Course9.15 线性代数.md",
+    "线性代数/Ch03 四个基本子空间.md",
+    "线性代数/Ch02 解线性方程组.md",
     "线性代数/Ch01 向量和矩阵.md",
+    "线性代数/PDFs/高等代数（下册）.pdf",
+    "线性代数/PDFs/LADR4eChinese.pdf",
+    "线性代数/LADR01 向量空间.md",
+    "线性代数/PDFs/LADR4e.pdf",
     "线性代数/Course10.22 习题课.md",
     "线性代数/行列式的基本性质.md",
     "线性代数/矩阵的秩.md",
-    "线性代数/Course9.15 线性代数.md",
     "数学分析/PDFs/数学分析新讲 第一册.pdf",
     "线性代数/分块矩阵的初等变换.md",
     "数学分析/重要极限.md",
@@ -310,23 +320,11 @@
     "attachments/Pasted image 20251022201159.png",
     "attachments/Pasted image 20251022195741.png",
     "线性代数/向量组的秩.md",
-    "线性代数/TOC.base",
     "线性代数/消元法解线性方程组.md",
     "线性代数/求解递推式：特征方程法.md",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-    "数学分析/函数的连续性.md",
-    "数学分析/闭区间上的连续函数.md",
     "attachments/Pasted image 20251022113704.png",
-    "线性代数/Course9.19 矩阵的运算.md",
-    "线性代数/Course9.17 线性型与矩阵概念引入.md",
     "CSAPP/汇编语言王爽着.pdf",
-    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-    "线性代数/求和符号.md",
-    "线性代数/数域.md",
-    "线性代数/Ch02 解线性方程组.md",
-    "算法导论/PDFs/算法导论 中文第三版.pdf.zip",
     "线性代数/Course 思维导图.canvas",
-    "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf",
     "数学分析/Course 思维导图.canvas",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
