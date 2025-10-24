@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "闭区间上的连续函数",
-      "path": "数学分析/闭区间上的连续函数.md"
+      "basename": "函数极限的存在性",
+      "path": "数学分析/函数极限的存在性.md"
+    },
+    {
+      "basename": "数学分析新讲 第一册",
+      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+    },
+    {
+      "basename": "函数极限的性质",
+      "path": "数学分析/函数极限的性质.md"
+    },
+    {
+      "basename": "函数极限的定义",
+      "path": "数学分析/函数极限的定义.md"
+    },
+    {
+      "basename": "无穷大量",
+      "path": "数学分析/无穷大量.md"
+    },
+    {
+      "basename": "收敛准则",
+      "path": "数学分析/收敛准则.md"
     },
     {
       "basename": "《数学分析》陈纪修 第三版 上",
       "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "闭区间上的连续函数",
+      "path": "数学分析/闭区间上的连续函数.md"
     },
     {
       "basename": "无穷小量与无穷大量的比较",
@@ -79,10 +103,6 @@
     {
       "basename": "矩阵的秩",
       "path": "线性代数/矩阵的秩.md"
-    },
-    {
-      "basename": "数学分析新讲 第一册",
-      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
     },
     {
       "basename": "分块矩阵的初等变换",
@@ -177,28 +197,8 @@
       "path": "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf"
     },
     {
-      "basename": "无穷大量",
-      "path": "数学分析/无穷大量.md"
-    },
-    {
       "basename": "Ch01",
       "path": "CSAPP/Ch01.md"
-    },
-    {
-      "basename": "函数极限的存在性",
-      "path": "数学分析/函数极限的存在性.md"
-    },
-    {
-      "basename": "数列极限",
-      "path": "数学分析/数列极限.md"
-    },
-    {
-      "basename": "实数集与连续统",
-      "path": "数学分析/实数集与连续统.md"
-    },
-    {
-      "basename": "常用不等式",
-      "path": "数学分析/常用不等式.md"
     }
   ],
   "omittedPaths": [],
