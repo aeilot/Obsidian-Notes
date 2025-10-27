@@ -1,12 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "矩阵的相抵标准型",
-      "path": "线性代数/矩阵的相抵标准型.md"
+      "basename": "导数的计算",
+      "path": "数学分析/导数的计算.md"
+    },
+    {
+      "basename": "导数与微分",
+      "path": "数学分析/导数与微分.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "函数极限的存在性",
+      "path": "数学分析/函数极限的存在性.md"
+    },
+    {
+      "basename": "数学分析新讲 第一册",
+      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+    },
+    {
+      "basename": "高等代数（上册）",
+      "path": "线性代数/PDFs/高等代数（上册）.pdf"
     },
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "向量组的秩",
+      "path": "线性代数/向量组的秩.md"
+    },
+    {
+      "basename": "矩阵的秩",
+      "path": "线性代数/矩阵的秩.md"
+    },
+    {
+      "basename": "矩阵的相抵标准型",
+      "path": "线性代数/矩阵的相抵标准型.md"
     },
     {
       "basename": "分块矩阵",
@@ -33,20 +65,8 @@
       "path": "线性代数/消元法解线性方程组.md"
     },
     {
-      "basename": "矩阵的秩",
-      "path": "线性代数/矩阵的秩.md"
-    },
-    {
       "basename": "行列式的计算",
       "path": "线性代数/行列式的计算.md"
-    },
-    {
-      "basename": "高等代数（上册）",
-      "path": "线性代数/PDFs/高等代数（上册）.pdf"
-    },
-    {
-      "basename": "数学分析新讲 第一册",
-      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
     },
     {
       "basename": "LADR4eChinese",
@@ -59,10 +79,6 @@
     {
       "basename": "函数的连续性",
       "path": "数学分析/函数的连续性.md"
-    },
-    {
-      "basename": "函数极限的存在性",
-      "path": "数学分析/函数极限的存在性.md"
     },
     {
       "basename": "函数极限的性质",
@@ -79,10 +95,6 @@
     {
       "basename": "收敛准则",
       "path": "数学分析/收敛准则.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
       "basename": "无穷小量与无穷大量的比较",
@@ -153,10 +165,6 @@
       "path": "线性代数/Ch05 行列式.md"
     },
     {
-      "basename": "向量组的秩",
-      "path": "线性代数/向量组的秩.md"
-    },
-    {
       "basename": "汇编语言王爽着",
       "path": "CSAPP/汇编语言王爽着.pdf"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
       "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
-    },
-    {
-      "basename": "Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir)",
-      "path": "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf"
-    },
-    {
-      "basename": "Ch01",
-      "path": "CSAPP/Ch01.md"
     }
   ],
   "omittedPaths": [],
