@@ -4,21 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "8c06524bf4af6111",
+        "id": "0fe0bf26cf6181ec",
         "type": "tabs",
+        "dimension": 58.664259927797836,
         "children": [
           {
-            "id": "af4579f9a6e0ede2",
+            "id": "88a6d27c72f9be51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+                "page": 145,
+                "left": -6,
+                "top": 549,
+                "zoom": 2.5180079483358173
+              },
+              "icon": "lucide-file-text",
+              "title": "CSAPP-3th-ZH-OCR"
+            }
+          },
+          {
+            "id": "3ac4fa82590ed066",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CSAPP/汇编语言王爽著.pdf",
+                "page": 15,
+                "left": -52,
+                "top": 1858,
+                "zoom": 0.3054848628630233
+              },
+              "icon": "lucide-file-text",
+              "title": "汇编语言王爽著"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "cbdf497d50530c16",
+        "type": "tabs",
+        "dimension": 41.335740072202164,
+        "children": [
+          {
+            "id": "28bf84afa4b4b139",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数学分析/06-导数与微分/高阶导数.md",
+                "file": "CSAPP/汇编语言.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "高阶导数"
+              "title": "汇编语言"
             }
           }
         ]
@@ -230,7 +271,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -255,11 +296,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "af4579f9a6e0ede2",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-    "数学分析/06-导数与微分/高阶导数.md",
+    "CSAPP/汇编语言王爽著.pdf",
+    "CSAPP/汇编语言.md",
+    "线性代数/PDFs/高等代数（上册）.pdf",
+    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "数学分析/06-导数与微分/特殊函数求导.md",
+    "数学分析/06-导数与微分/高阶导数.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/06-导数与微分/导数的计算.md",
     "attachments/Pasted image 20251029161222.png",
     "数学分析/05-函数连续性/闭区间上的连续函数.md",
@@ -290,11 +335,7 @@
     "线性代数/08-方阵理论",
     "线性代数/06-行列式/行列式的计算.md",
     "线性代数/06-行列式/行列式的基本性质.md",
-    "线性代数/06-行列式/方阵的行列式.md",
     "线性代数/06-行列式",
-    "线性代数/05-正交性",
-    "线性代数/04-线性空间",
-    "线性代数/03-线性方程组",
     "attachments/Pasted image 20251027204203.png",
     "attachments/Pasted image 20251027204141.png",
     "attachments/Pasted image 20251027204119.png",

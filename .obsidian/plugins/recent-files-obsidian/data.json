@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "汇编语言",
+      "path": "CSAPP/汇编语言.md"
+    },
+    {
+      "basename": "汇编语言王爽著",
+      "path": "CSAPP/汇编语言王爽著.pdf"
+    },
+    {
+      "basename": "高等代数（上册）",
+      "path": "线性代数/PDFs/高等代数（上册）.pdf"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "特殊函数求导",
+      "path": "数学分析/06-导数与微分/特殊函数求导.md"
+    },
+    {
       "basename": "高阶导数",
       "path": "数学分析/06-导数与微分/高阶导数.md"
     },
     {
       "basename": "《数学分析》陈纪修 第三版 上",
       "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
-      "basename": "特殊函数求导",
-      "path": "数学分析/06-导数与微分/特殊函数求导.md"
     },
     {
       "basename": "导数的计算",
@@ -69,10 +85,6 @@
       "path": "数学分析/辅助工具/常用不等式.md"
     },
     {
-      "basename": "高等代数（上册）",
-      "path": "线性代数/PDFs/高等代数（上册）.pdf"
-    },
-    {
       "basename": "高等代数（下册）",
       "path": "线性代数/PDFs/高等代数（下册）.pdf"
     },
@@ -111,14 +123,6 @@
     {
       "basename": "LADR4e",
       "path": "线性代数/PDFs/LADR4e.pdf"
-    },
-    {
-      "basename": "汇编语言王爽着",
-      "path": "CSAPP/汇编语言王爽着.pdf"
-    },
-    {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     }
   ],
   "omittedPaths": [],
