@@ -225,9 +225,12 @@ class ObsidianNotesOrganizer:
         lines.append("## 📁 其他资源")
         lines.append("")
         
+        # 只排除系统文件和INDEX.md，但保留PDFs等资源文件夹
+        index_exclude = ['.obsidian', '.DS_Store', 'INDEX.md', '.canvas', 'TOC.base']
+        
         existing_folders = []
         for item in directory.iterdir():
-            if item.is_dir() and not self.should_exclude(item.name) and item.name not in categories:
+            if item.is_dir() and not any(pattern in item.name for pattern in index_exclude) and item.name not in categories:
                 existing_folders.append(item.name)
         
         if existing_folders:
