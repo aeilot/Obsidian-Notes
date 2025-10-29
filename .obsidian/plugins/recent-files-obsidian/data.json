@@ -2,6 +2,14 @@
   "recentFiles": [
     {
       "basename": "INDEX",
+      "path": "数学分析/INDEX.md"
+    },
+    {
+      "basename": "极坐标系",
+      "path": "数学分析/辅助工具/极坐标系.md"
+    },
+    {
+      "basename": "INDEX",
       "path": "线性代数/INDEX.md"
     },
     {
@@ -19,10 +27,6 @@
     {
       "basename": "ORGANIZATION_SUMMARY",
       "path": "ORGANIZATION_SUMMARY.md"
-    },
-    {
-      "basename": "INDEX",
-      "path": "数学分析/INDEX.md"
     },
     {
       "basename": "无穷小量与无穷大量的比较",
