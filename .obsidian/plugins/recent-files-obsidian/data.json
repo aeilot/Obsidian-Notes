@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "闭区间上的连续函数",
-      "path": "数学分析/闭区间上的连续函数.md"
+      "basename": "INDEX",
+      "path": "线性代数/INDEX.md"
     },
     {
-      "basename": "函数的连续性",
-      "path": "数学分析/函数的连续性.md"
+      "basename": "分块矩阵的初等变换",
+      "path": "线性代数/02-矩阵理论/分块矩阵的初等变换.md"
     },
     {
-      "basename": "重要极限",
-      "path": "数学分析/重要极限.md"
+      "basename": "Course 思维导图",
+      "path": "线性代数/Course 思维导图.canvas"
     },
     {
-      "basename": "无穷大量",
-      "path": "数学分析/无穷大量.md"
+      "basename": "PDFs",
+      "path": "PDFs.base"
+    },
+    {
+      "basename": "ORGANIZATION_SUMMARY",
+      "path": "ORGANIZATION_SUMMARY.md"
+    },
+    {
+      "basename": "INDEX",
+      "path": "数学分析/INDEX.md"
     },
     {
       "basename": "无穷小量与无穷大量的比较",
-      "path": "数学分析/无穷小量与无穷大量的比较.md"
+      "path": "数学分析/04-函数极限/无穷小量与无穷大量的比较.md"
     },
     {
-      "basename": "数列极限",
-      "path": "数学分析/数列极限.md"
+      "basename": "无穷大量",
+      "path": "数学分析/03-数列极限/无穷大量.md"
+    },
+    {
+      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
+      "path": "数学分析/01-集合与实数系/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
+    },
+    {
+      "basename": "Course9.19 思考题：区间的条件",
+      "path": "数学分析/01-集合与实数系/Course9.19 思考题：区间的条件.md"
+    },
+    {
+      "basename": "常用不等式",
+      "path": "数学分析/辅助工具/常用不等式.md"
     },
     {
       "basename": "高等代数（上册）",
@@ -37,28 +57,8 @@
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
     {
-      "basename": "LADR01 向量空间",
-      "path": "线性代数/LADR01 向量空间.md"
-    },
-    {
       "basename": "TOC",
       "path": "线性代数/TOC.base"
-    },
-    {
-      "basename": "向量组的秩",
-      "path": "线性代数/向量组的秩.md"
-    },
-    {
-      "basename": "向量空间",
-      "path": "线性代数/向量空间.md"
-    },
-    {
-      "basename": "消元法解线性方程组",
-      "path": "线性代数/消元法解线性方程组.md"
-    },
-    {
-      "basename": "导数的计算",
-      "path": "数学分析/导数的计算.md"
     },
     {
       "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
@@ -69,16 +69,8 @@
       "path": "数学分析/EXT/反例构造.md"
     },
     {
-      "basename": "导数与微分",
-      "path": "数学分析/导数与微分.md"
-    },
-    {
       "basename": "《数学分析》陈纪修 第三版 上",
       "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
-      "basename": "函数极限的存在性",
-      "path": "数学分析/函数极限的存在性.md"
     },
     {
       "basename": "数学分析新讲 第一册",
@@ -89,104 +81,16 @@
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
-      "basename": "矩阵的秩",
-      "path": "线性代数/矩阵的秩.md"
-    },
-    {
-      "basename": "矩阵的相抵标准型",
-      "path": "线性代数/矩阵的相抵标准型.md"
-    },
-    {
-      "basename": "分块矩阵",
-      "path": "线性代数/分块矩阵.md"
-    },
-    {
-      "basename": "可逆矩阵",
-      "path": "线性代数/可逆矩阵.md"
-    },
-    {
-      "basename": "行列式的基本性质",
-      "path": "线性代数/行列式的基本性质.md"
-    },
-    {
-      "basename": "方阵的行列式",
-      "path": "线性代数/方阵的行列式.md"
-    },
-    {
-      "basename": "求解递推式：特征方程法",
-      "path": "线性代数/求解递推式：特征方程法.md"
-    },
-    {
-      "basename": "行列式的计算",
-      "path": "线性代数/行列式的计算.md"
-    },
-    {
       "basename": "LADR4eChinese",
       "path": "线性代数/PDFs/LADR4eChinese.pdf"
-    },
-    {
-      "basename": "函数极限的性质",
-      "path": "数学分析/函数极限的性质.md"
-    },
-    {
-      "basename": "函数极限的定义",
-      "path": "数学分析/函数极限的定义.md"
-    },
-    {
-      "basename": "收敛准则",
-      "path": "数学分析/收敛准则.md"
     },
     {
       "basename": "《数学分析》习题全解指南(第二版上册)",
       "path": "数学分析/PDFs/《数学分析》习题全解指南(第二版上册).pdf"
     },
     {
-      "basename": "Course9.19 矩阵的运算",
-      "path": "线性代数/Course9.19 矩阵的运算.md"
-    },
-    {
-      "basename": "Course9.17 线性型与矩阵概念引入",
-      "path": "线性代数/Course9.17 线性型与矩阵概念引入.md"
-    },
-    {
-      "basename": "数域",
-      "path": "线性代数/数域.md"
-    },
-    {
-      "basename": "Course9.15 线性代数",
-      "path": "线性代数/Course9.15 线性代数.md"
-    },
-    {
-      "basename": "Ch03 四个基本子空间",
-      "path": "线性代数/Ch03 四个基本子空间.md"
-    },
-    {
-      "basename": "Ch02 解线性方程组",
-      "path": "线性代数/Ch02 解线性方程组.md"
-    },
-    {
-      "basename": "Ch01 向量和矩阵",
-      "path": "线性代数/Ch01 向量和矩阵.md"
-    },
-    {
       "basename": "LADR4e",
       "path": "线性代数/PDFs/LADR4e.pdf"
-    },
-    {
-      "basename": "Course10.22 习题课",
-      "path": "线性代数/Course10.22 习题课.md"
-    },
-    {
-      "basename": "分块矩阵的初等变换",
-      "path": "线性代数/分块矩阵的初等变换.md"
-    },
-    {
-      "basename": "方阵的幂、方阵多项式、方阵的迹",
-      "path": "线性代数/方阵的幂、方阵多项式、方阵的迹.md"
-    },
-    {
-      "basename": "Ch05 行列式",
-      "path": "线性代数/Ch05 行列式.md"
     },
     {
       "basename": "汇编语言王爽着",
@@ -195,10 +99,6 @@
     {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
-      "basename": "求和符号",
-      "path": "线性代数/求和符号.md"
     }
   ],
   "omittedPaths": [],
