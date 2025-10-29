@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "81cbdaba117e49e3",
+        "id": "8c06524bf4af6111",
         "type": "tabs",
         "children": [
           {
-            "id": "f8b2af6cf76dcd54",
+            "id": "af4579f9a6e0ede2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数学分析/06-导数与微分/高阶导数.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "高阶导数"
             }
           }
         ]
@@ -93,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -218,14 +223,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "CSAPP/Ch02.md"
+                "file": "数学分析/06-导数与微分/高阶导数.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Ch02"
+              "title": "File properties for 高阶导数"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
@@ -250,8 +255,15 @@
       "random-note:Open random note": false
     }
   },
-  "active": "f8b2af6cf76dcd54",
+  "active": "af4579f9a6e0ede2",
   "lastOpenFiles": [
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/06-导数与微分/高阶导数.md",
+    "数学分析/06-导数与微分/特殊函数求导.md",
+    "数学分析/06-导数与微分/导数的计算.md",
+    "attachments/Pasted image 20251029161222.png",
+    "数学分析/05-函数连续性/闭区间上的连续函数.md",
+    "attachments/Pasted image 20251029160604.png",
     "数学分析/INDEX.md",
     "数学分析/辅助工具/极坐标系.md",
     "线性代数/INDEX.md",
@@ -279,16 +291,10 @@
     "线性代数/06-行列式/行列式的计算.md",
     "线性代数/06-行列式/行列式的基本性质.md",
     "线性代数/06-行列式/方阵的行列式.md",
-    "线性代数/06-行列式/Ch05 行列式.md",
     "线性代数/06-行列式",
-    "线性代数/05-正交性/Ch04 正交性.md",
     "线性代数/05-正交性",
-    "线性代数/04-线性空间/Ch03 四个基本子空间.md",
     "线性代数/04-线性空间",
-    "线性代数/03-线性方程组/消元法解线性方程组.md",
-    "线性代数/03-线性方程组/Ch02 解线性方程组.md",
     "线性代数/03-线性方程组",
-    "线性代数/02-矩阵理论",
     "attachments/Pasted image 20251027204203.png",
     "attachments/Pasted image 20251027204141.png",
     "attachments/Pasted image 20251027204119.png",
@@ -297,8 +303,6 @@
     "attachments/Pasted image 20251027204037.png",
     "attachments/Pasted image 20251027203937.png",
     "attachments/Pasted image 20251027203349.png",
-    "attachments/Pasted image 20251027203316.png",
-    "attachments/Pasted image 20251027203305.png",
     "数学分析/Course 思维导图.canvas",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
