@@ -1,12 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "汇编语言",
-      "path": "CSAPP/汇编语言.md"
+      "basename": "线性方程组解的结构",
+      "path": "线性代数/03-线性方程组/线性方程组解的结构.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "线性代数/04-线性空间/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "高等代数（下册）",
+      "path": "线性代数/PDFs/高等代数（下册）.pdf"
+    },
+    {
+      "basename": "向量组的秩",
+      "path": "线性代数/01-向量与向量空间/向量组的秩.md"
+    },
+    {
+      "basename": "向量空间",
+      "path": "线性代数/01-向量与向量空间/向量空间.md"
+    },
+    {
+      "basename": "LADR01 向量空间",
+      "path": "线性代数/01-向量与向量空间/LADR01 向量空间.md"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "线性代数/01-向量与向量空间/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "高等代数（上册）",
+      "path": "线性代数/PDFs/高等代数（上册）.pdf"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
       "basename": "汇编语言王爽著",
       "path": "CSAPP/汇编语言王爽著.pdf"
+    },
+    {
+      "basename": "汇编语言",
+      "path": "CSAPP/汇编语言.md"
     },
     {
       "basename": "段寄存器",
@@ -19,14 +59,6 @@
     {
       "basename": "三大总线",
       "path": "CSAPP/EXT/三大总线.md"
-    },
-    {
-      "basename": "高等代数（上册）",
-      "path": "线性代数/PDFs/高等代数（上册）.pdf"
-    },
-    {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
       "basename": "特殊函数求导",
@@ -97,10 +129,6 @@
       "path": "数学分析/辅助工具/常用不等式.md"
     },
     {
-      "basename": "高等代数（下册）",
-      "path": "线性代数/PDFs/高等代数（下册）.pdf"
-    },
-    {
       "basename": "Introduction to Linear Algebra",
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     },
@@ -119,10 +147,6 @@
     {
       "basename": "数学分析新讲 第一册",
       "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "LADR4eChinese",

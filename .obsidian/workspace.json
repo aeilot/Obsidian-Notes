@@ -9,57 +9,57 @@
         "dimension": 58.664259927797836,
         "children": [
           {
-            "id": "88a6d27c72f9be51",
+            "id": "48ca6a3dbf1ed6ee",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 145,
-                "left": -6,
-                "top": 549,
-                "zoom": 2.5180079483358173
+                "file": "线性代数/PDFs/高等代数（上册）.pdf",
+                "page": 72,
+                "left": -9,
+                "top": 647,
+                "zoom": 1.6348739495798321
               },
               "icon": "lucide-file-text",
-              "title": "CSAPP-3th-ZH-OCR"
+              "title": "高等代数（上册）"
             }
           },
           {
-            "id": "3ac4fa82590ed066",
+            "id": "7c23596fe2981afb",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CSAPP/汇编语言王爽著.pdf",
-                "page": 55,
-                "left": -36,
-                "top": 2204,
-                "zoom": 0.4321155019318105
+                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+                "page": 175,
+                "left": -13,
+                "top": 518,
+                "zoom": 1.1780257749519718
               },
               "icon": "lucide-file-text",
-              "title": "汇编语言王爽著"
+              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "cbdf497d50530c16",
+        "id": "217ad6c5c62a5506",
         "type": "tabs",
         "dimension": 41.335740072202164,
         "children": [
           {
-            "id": "5ba91ef1977dd685",
+            "id": "f32926e273578439",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSAPP/汇编语言.md",
+                "file": "线性代数/03-线性方程组/线性方程组解的结构.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "汇编语言"
+              "title": "线性方程组解的结构"
             }
           }
         ]
@@ -275,7 +275,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,16 +297,24 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5ba91ef1977dd685",
+  "active": "f32926e273578439",
   "lastOpenFiles": [
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/03-线性方程组/线性方程组解的结构.md",
+    "线性代数/04-线性空间/Ch03 四个基本子空间.md",
+    "线性代数/PDFs/高等代数（下册）.pdf",
+    "线性代数/01-向量与向量空间/向量组的秩.md",
+    "线性代数/01-向量与向量空间/向量空间.md",
+    "线性代数/01-向量与向量空间/LADR01 向量空间.md",
+    "线性代数/01-向量与向量空间/Ch01 向量和矩阵.md",
+    "线性代数/PDFs/高等代数（上册）.pdf",
+    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/汇编语言王爽著.pdf",
     "CSAPP/汇编语言.md",
     "CSAPP/EXT/段寄存器.md",
     "CSAPP/EXT/内存映射 IO.md",
     "CSAPP/EXT/三大总线.md",
     "CSAPP/EXT",
-    "线性代数/PDFs/高等代数（上册）.pdf",
-    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "数学分析/06-导数与微分/特殊函数求导.md",
     "数学分析/06-导数与微分/高阶导数.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
@@ -326,16 +335,8 @@
     "数学分析/01-集合与实数系/Course9.19 思考题：区间的条件.md",
     "数学分析/辅助工具/常用不等式.md",
     "数学分析/闭区间上的连续函数.md",
-    "线性代数/辅助工具/求和符号.md",
-    "线性代数/辅助工具/数域.md",
-    "线性代数/辅助工具/MATLAB.md",
     "线性代数/辅助工具",
-    "线性代数/课程笔记/Course9.15 线性代数.md",
-    "线性代数/课程笔记/Course10.22 习题课.md",
     "线性代数/课程笔记",
-    "线性代数/EXT/求解递推式：特征方程法.md",
-    "线性代数/EXT",
-    "线性代数/08-方阵理论",
     "attachments/Pasted image 20251027204203.png",
     "attachments/Pasted image 20251027204141.png",
     "attachments/Pasted image 20251027204119.png",
