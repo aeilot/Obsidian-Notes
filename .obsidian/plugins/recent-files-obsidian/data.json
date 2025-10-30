@@ -9,6 +9,18 @@
       "path": "CSAPP/汇编语言王爽著.pdf"
     },
     {
+      "basename": "段寄存器",
+      "path": "CSAPP/EXT/段寄存器.md"
+    },
+    {
+      "basename": "内存映射 IO",
+      "path": "CSAPP/EXT/内存映射 IO.md"
+    },
+    {
+      "basename": "三大总线",
+      "path": "CSAPP/EXT/三大总线.md"
+    },
+    {
       "basename": "高等代数（上册）",
       "path": "线性代数/PDFs/高等代数（上册）.pdf"
     },
