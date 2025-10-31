@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/EXT/秩不等式.md",
+                "file": "线性代数/课程笔记/2024 JQF 期中考试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "秩不等式"
+              "title": "2024 JQF 期中考试"
             }
           }
         ]
@@ -233,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,8 +257,10 @@
   },
   "active": "8cf4d9f9332d5ceb",
   "lastOpenFiles": [
-    "线性代数/01-向量与向量空间/向量组的秩.md",
+    "attachments/Pasted image 20251031143534.png",
     "线性代数/EXT/秩不等式.md",
+    "线性代数/课程笔记/2024 JQF 期中考试.md",
+    "线性代数/01-向量与向量空间/向量组的秩.md",
     "线性代数/02-矩阵理论/矩阵的秩.md",
     "线性代数/课程笔记/Course10.22 习题课.md",
     "线性代数/课程笔记/2024 期中考卷.md",
@@ -287,8 +290,6 @@
     "线性代数/01-向量与向量空间/LADR01 向量空间.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/汇编语言王爽著.pdf",
-    "CSAPP/汇编语言.md",
-    "CSAPP/EXT/段寄存器.md",
     "CSAPP/EXT",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "attachments/Pasted image 20251029161222.png",

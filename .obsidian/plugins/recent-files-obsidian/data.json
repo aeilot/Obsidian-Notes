@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024 JQF 期中考试",
+      "path": "线性代数/课程笔记/2024 JQF 期中考试.md"
+    },
+    {
       "basename": "秩不等式",
       "path": "线性代数/EXT/秩不等式.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "常用不等式",
       "path": "数学分析/辅助工具/常用不等式.md"
-    },
-    {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
     }
   ],
   "omittedPaths": [],
