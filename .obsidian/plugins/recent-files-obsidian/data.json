@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024 期中考卷",
+      "path": "线性代数/课程笔记/2024 期中考卷.md"
+    },
+    {
+      "basename": "高等代数（上册）",
+      "path": "线性代数/PDFs/高等代数（上册）.pdf"
+    },
+    {
       "basename": "Ch03 四个基本子空间",
       "path": "线性代数/04-线性空间/Ch03 四个基本子空间.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "行列式的基本性质",
       "path": "线性代数/06-行列式/行列式的基本性质.md"
-    },
-    {
-      "basename": "高等代数（上册）",
-      "path": "线性代数/PDFs/高等代数（上册）.pdf"
     },
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
@@ -191,14 +195,6 @@
     {
       "basename": "TOC",
       "path": "线性代数/TOC.base"
-    },
-    {
-      "basename": "C++程序设计：思想与方法 ideas and methods 慕课",
-      "path": "C++ 程序设计/PDFs/C++程序设计：思想与方法 ideas and methods 慕课.pdf"
-    },
-    {
-      "basename": "反例构造",
-      "path": "数学分析/EXT/反例构造.md"
     }
   ],
   "omittedPaths": [],
