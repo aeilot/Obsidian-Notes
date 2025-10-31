@@ -233,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -257,6 +256,7 @@
   },
   "active": "8cf4d9f9332d5ceb",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251031144344.png",
     "attachments/Pasted image 20251031143534.png",
     "线性代数/EXT/秩不等式.md",
     "线性代数/课程笔记/2024 JQF 期中考试.md",
@@ -303,7 +303,6 @@
     "attachments/Pasted image 20251027204105.png",
     "attachments/Pasted image 20251027204059.png",
     "attachments/Pasted image 20251027204037.png",
-    "attachments/Pasted image 20251027203937.png",
     "数学分析/Course 思维导图.canvas",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"
