@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "微分中值定理",
+      "path": "数学分析/06-导数与微分/微分中值定理.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "导数与微分",
+      "path": "数学分析/06-导数与微分/导数与微分.md"
+    },
+    {
+      "basename": "高阶导数与高阶微分",
+      "path": "数学分析/06-导数与微分/高阶导数与高阶微分.md"
+    },
+    {
+      "basename": "数学分析新讲 第一册",
+      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 下",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf"
+    },
+    {
+      "basename": "汇编语言王爽著",
+      "path": "CSAPP/汇编语言王爽著.pdf"
+    },
+    {
+      "basename": "汇编语言",
+      "path": "CSAPP/汇编语言.md"
+    },
+    {
+      "basename": "段寄存器",
+      "path": "CSAPP/EXT/段寄存器.md"
+    },
+    {
+      "basename": "INDEX",
+      "path": "C++ 程序设计/INDEX.md"
+    },
+    {
       "basename": "2024 期中考卷",
       "path": "线性代数/Exam/2024 期中考卷.md"
     },
@@ -117,18 +157,6 @@
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
-      "basename": "汇编语言王爽著",
-      "path": "CSAPP/汇编语言王爽著.pdf"
-    },
-    {
-      "basename": "汇编语言",
-      "path": "CSAPP/汇编语言.md"
-    },
-    {
-      "basename": "段寄存器",
-      "path": "CSAPP/EXT/段寄存器.md"
-    },
-    {
       "basename": "内存映射 IO",
       "path": "CSAPP/EXT/内存映射 IO.md"
     },
@@ -139,14 +167,6 @@
     {
       "basename": "特殊函数求导",
       "path": "数学分析/06-导数与微分/特殊函数求导.md"
-    },
-    {
-      "basename": "高阶导数",
-      "path": "数学分析/06-导数与微分/高阶导数.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
       "basename": "导数的计算",
@@ -179,26 +199,6 @@
     {
       "basename": "ORGANIZATION_SUMMARY",
       "path": "ORGANIZATION_SUMMARY.md"
-    },
-    {
-      "basename": "无穷小量与无穷大量的比较",
-      "path": "数学分析/04-函数极限/无穷小量与无穷大量的比较.md"
-    },
-    {
-      "basename": "无穷大量",
-      "path": "数学分析/03-数列极限/无穷大量.md"
-    },
-    {
-      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
-      "path": "数学分析/01-集合与实数系/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
-    },
-    {
-      "basename": "Course9.19 思考题：区间的条件",
-      "path": "数学分析/01-集合与实数系/Course9.19 思考题：区间的条件.md"
-    },
-    {
-      "basename": "常用不等式",
-      "path": "数学分析/辅助工具/常用不等式.md"
     }
   ],
   "omittedPaths": [],

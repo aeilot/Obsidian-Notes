@@ -4,21 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "7d333870dc8e9849",
+        "id": "5b3b38af1ddebd2c",
         "type": "tabs",
         "children": [
           {
-            "id": "4b268a8e2d09359d",
+            "id": "eaa110d8eca4f6b5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "线性代数/Exam/2024 期中考卷.md",
-                "mode": "source",
-                "source": false
+                "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+                "page": 159,
+                "left": -13,
+                "top": 7,
+                "zoom": 1.2435258574773689
               },
+              "icon": "lucide-file-text",
+              "title": "《数学分析》陈纪修 第三版 上"
+            }
+          },
+          {
+            "id": "a373e6b4ff8e809d",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "数学分析/PDFs/数学分析新讲 第一册.pdf",
+                "page": 116,
+                "left": -8,
+                "top": 612,
+                "zoom": 2.044537471506308
+              },
+              "icon": "lucide-file-text",
+              "title": "数学分析新讲 第一册"
+            }
+          }
+        ]
+      },
+      {
+        "id": "174cd35c60db4315",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd587b4d17d36ba9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024 期中考卷"
+              "title": "New tab"
             }
           }
         ]
@@ -97,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -233,7 +268,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,10 +290,20 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4b268a8e2d09359d",
+  "active": "bd587b4d17d36ba9",
   "lastOpenFiles": [
-    "线性代数/Exam",
+    "数学分析/06-导数与微分/微分中值定理.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/06-导数与微分/导数与微分.md",
+    "数学分析/06-导数与微分/高阶导数与高阶微分.md",
+    "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf",
+    "CSAPP/汇编语言王爽著.pdf",
+    "CSAPP/汇编语言.md",
+    "CSAPP/EXT/段寄存器.md",
+    "C++ 程序设计/INDEX.md",
     "线性代数/Exam/2024 期中考卷.md",
+    "线性代数/Exam",
     "线性代数/Exam/2024 JQF 期中考试.md",
     "attachments/Pasted image 20251031144344.png",
     "attachments/Pasted image 20251031143534.png",
@@ -282,22 +328,11 @@
     "线性代数/02-矩阵理论/分块矩阵的初等变换.md",
     "线性代数/02-矩阵理论/方阵的幂、方阵多项式、方阵的迹.md",
     "线性代数/02-矩阵理论/可逆矩阵.md",
-    "线性代数/02-矩阵理论/分块矩阵.md",
-    "线性代数/02-矩阵理论/Course9.19 矩阵的运算.md",
-    "线性代数/02-矩阵理论/Course9.17 线性型与矩阵概念引入.md",
-    "线性代数/01-向量与向量空间/向量空间.md",
-    "线性代数/01-向量与向量空间/Ch01 向量和矩阵.md",
     "线性代数/PDFs/高等代数（下册）.pdf",
-    "线性代数/01-向量与向量空间/LADR01 向量空间.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-    "CSAPP/汇编语言王爽著.pdf",
-    "CSAPP/EXT",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "attachments/Pasted image 20251029161222.png",
     "attachments/Pasted image 20251029160604.png",
     "线性代数/Course 思维导图.canvas",
-    "PDFs.base",
-    "线性代数/辅助工具",
     "attachments/Pasted image 20251027204203.png",
     "attachments/Pasted image 20251027204141.png",
     "attachments/Pasted image 20251027204119.png",
