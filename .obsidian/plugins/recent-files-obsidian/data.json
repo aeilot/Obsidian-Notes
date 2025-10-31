@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "秩不等式",
+      "path": "线性代数/EXT/秩不等式.md"
+    },
+    {
+      "basename": "向量组的秩",
+      "path": "线性代数/01-向量与向量空间/向量组的秩.md"
+    },
+    {
+      "basename": "矩阵的秩",
+      "path": "线性代数/02-矩阵理论/矩阵的秩.md"
+    },
+    {
+      "basename": "Course10.22 习题课",
+      "path": "线性代数/课程笔记/Course10.22 习题课.md"
+    },
+    {
       "basename": "2024 期中考卷",
       "path": "线性代数/课程笔记/2024 期中考卷.md"
     },
@@ -49,10 +65,6 @@
       "path": "线性代数/03-线性方程组/Ch02 解线性方程组.md"
     },
     {
-      "basename": "矩阵的秩",
-      "path": "线性代数/02-矩阵理论/矩阵的秩.md"
-    },
-    {
       "basename": "矩阵的相抵标准型",
       "path": "线性代数/02-矩阵理论/矩阵的相抵标准型.md"
     },
@@ -83,10 +95,6 @@
     {
       "basename": "向量空间",
       "path": "线性代数/01-向量与向量空间/向量空间.md"
-    },
-    {
-      "basename": "向量组的秩",
-      "path": "线性代数/01-向量与向量空间/向量组的秩.md"
     },
     {
       "basename": "Ch01 向量和矩阵",
@@ -191,10 +199,6 @@
     {
       "basename": "Introduction to Linear Algebra",
       "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
-    },
-    {
-      "basename": "TOC",
-      "path": "线性代数/TOC.base"
     }
   ],
   "omittedPaths": [],
