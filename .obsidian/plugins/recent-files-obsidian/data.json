@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "微分中值定理",
-      "path": "数学分析/06-导数与微分/微分中值定理.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
-      "basename": "导数与微分",
-      "path": "数学分析/06-导数与微分/导数与微分.md"
+      "basename": "数学分析新讲 第一册",
+      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
     },
     {
       "basename": "高阶导数与高阶微分",
       "path": "数学分析/06-导数与微分/高阶导数与高阶微分.md"
     },
     {
-      "basename": "数学分析新讲 第一册",
-      "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
+      "basename": "无穷小量与无穷大量的比较",
+      "path": "数学分析/04-函数极限/无穷小量与无穷大量的比较.md"
+    },
+    {
+      "basename": "函数的连续性",
+      "path": "数学分析/05-函数连续性/函数的连续性.md"
+    },
+    {
+      "basename": "闭区间上的连续函数",
+      "path": "数学分析/05-函数连续性/闭区间上的连续函数.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "微分中值定理",
+      "path": "数学分析/06-导数与微分/微分中值定理.md"
+    },
+    {
+      "basename": "导数与微分",
+      "path": "数学分析/06-导数与微分/导数与微分.md"
     },
     {
       "basename": "《数学分析》陈纪修 第三版 下",
@@ -173,10 +185,6 @@
       "path": "数学分析/06-导数与微分/导数的计算.md"
     },
     {
-      "basename": "闭区间上的连续函数",
-      "path": "数学分析/05-函数连续性/闭区间上的连续函数.md"
-    },
-    {
       "basename": "INDEX",
       "path": "数学分析/INDEX.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Course 思维导图",
       "path": "线性代数/Course 思维导图.canvas"
-    },
-    {
-      "basename": "PDFs",
-      "path": "PDFs.base"
-    },
-    {
-      "basename": "ORGANIZATION_SUMMARY",
-      "path": "ORGANIZATION_SUMMARY.md"
     }
   ],
   "omittedPaths": [],

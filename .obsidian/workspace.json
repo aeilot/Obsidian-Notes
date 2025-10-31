@@ -8,45 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "eaa110d8eca4f6b5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-                "page": 159,
-                "left": -13,
-                "top": 7,
-                "zoom": 1.2435258574773689
-              },
-              "icon": "lucide-file-text",
-              "title": "《数学分析》陈纪修 第三版 上"
-            }
-          },
-          {
             "id": "a373e6b4ff8e809d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "数学分析/PDFs/数学分析新讲 第一册.pdf",
-                "page": 116,
+                "page": 179,
                 "left": -8,
-                "top": 612,
-                "zoom": 2.044537471506308
+                "top": 785,
+                "zoom": 2.0445374715063074
               },
               "icon": "lucide-file-text",
               "title": "数学分析新讲 第一册"
             }
-          }
-        ]
-      },
-      {
-        "id": "174cd35c60db4315",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "bd587b4d17d36ba9",
+            "id": "998052695c754802",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -55,7 +33,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -268,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,13 +267,16 @@
       "random-note:Open random note": false
     }
   },
-  "active": "bd587b4d17d36ba9",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "数学分析/06-导数与微分/微分中值定理.md",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-    "数学分析/06-导数与微分/导数与微分.md",
-    "数学分析/06-导数与微分/高阶导数与高阶微分.md",
     "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "数学分析/06-导数与微分/高阶导数与高阶微分.md",
+    "数学分析/04-函数极限/无穷小量与无穷大量的比较.md",
+    "数学分析/05-函数连续性/函数的连续性.md",
+    "数学分析/05-函数连续性/闭区间上的连续函数.md",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/06-导数与微分/微分中值定理.md",
+    "数学分析/06-导数与微分/导数与微分.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf",
     "CSAPP/汇编语言王爽著.pdf",
     "CSAPP/汇编语言.md",
@@ -325,9 +305,6 @@
     "线性代数/03-线性方程组/消元法解线性方程组.md",
     "线性代数/03-线性方程组/Ch02 解线性方程组.md",
     "线性代数/02-矩阵理论/矩阵的相抵标准型.md",
-    "线性代数/02-矩阵理论/分块矩阵的初等变换.md",
-    "线性代数/02-矩阵理论/方阵的幂、方阵多项式、方阵的迹.md",
-    "线性代数/02-矩阵理论/可逆矩阵.md",
     "线性代数/PDFs/高等代数（下册）.pdf",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "attachments/Pasted image 20251029161222.png",
