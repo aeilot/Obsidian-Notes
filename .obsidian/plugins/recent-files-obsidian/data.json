@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch03",
+      "path": "CSAPP/Ch03.md"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "汇编语言",
+      "path": "CSAPP/汇编语言.md"
+    },
+    {
+      "basename": "汇编语言王爽著",
+      "path": "CSAPP/汇编语言王爽著.pdf"
+    },
+    {
       "basename": "数学分析新讲 第一册",
       "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
     },
@@ -35,14 +51,6 @@
     {
       "basename": "《数学分析》陈纪修 第三版 下",
       "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf"
-    },
-    {
-      "basename": "汇编语言王爽著",
-      "path": "CSAPP/汇编语言王爽著.pdf"
-    },
-    {
-      "basename": "汇编语言",
-      "path": "CSAPP/汇编语言.md"
     },
     {
       "basename": "段寄存器",
@@ -165,10 +173,6 @@
       "path": "线性代数/01-向量与向量空间/LADR01 向量空间.md"
     },
     {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
       "basename": "内存映射 IO",
       "path": "CSAPP/EXT/内存映射 IO.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "INDEX",
       "path": "线性代数/INDEX.md"
-    },
-    {
-      "basename": "Course 思维导图",
-      "path": "线性代数/Course 思维导图.canvas"
     }
   ],
   "omittedPaths": [],
