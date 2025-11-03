@@ -4,45 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "5b3b38af1ddebd2c",
+        "id": "e7d49a7d4976562f",
         "type": "tabs",
-        "dimension": 58.42358604091456,
+        "dimension": 64.19975932611311,
         "children": [
           {
-            "id": "f61d0d17703bfe3f",
+            "id": "4ca12622dba365e1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 171,
-                "left": -14,
-                "top": 503,
-                "zoom": 1.0214853367984325
+                "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+                "page": 170,
+                "left": -10,
+                "top": 475,
+                "zoom": 1.614539893336609
               },
               "icon": "lucide-file-text",
-              "title": "CSAPP-3th-ZH-OCR"
+              "title": "《数学分析》陈纪修 第三版 上"
             }
           }
         ]
       },
       {
-        "id": "f496d2481db661f3",
+        "id": "5b3b38af1ddebd2c",
         "type": "tabs",
-        "dimension": 41.57641395908544,
+        "dimension": 35.80024067388688,
         "children": [
           {
-            "id": "3291e8c2d20ea68b",
+            "id": "0de510259132d120",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSAPP/Ch03.md",
+                "file": "数学分析/06-导数与微分/微分中值定理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch03"
+              "title": "微分中值定理"
             }
           }
         ]
@@ -258,7 +258,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,8 +280,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "3291e8c2d20ea68b",
+  "active": "0de510259132d120",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251103184546.png",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/06-导数与微分/微分中值定理.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch03.md",
     "数学分析/04-函数极限/函数极限的存在性.md",
@@ -293,8 +297,6 @@
     "数学分析/04-函数极限/无穷小量与无穷大量的比较.md",
     "数学分析/05-函数连续性/函数的连续性.md",
     "数学分析/05-函数连续性/闭区间上的连续函数.md",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-    "数学分析/06-导数与微分/微分中值定理.md",
     "数学分析/06-导数与微分/导数与微分.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf",
     "CSAPP/EXT/段寄存器.md",
