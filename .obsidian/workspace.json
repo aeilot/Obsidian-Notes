@@ -16,9 +16,9 @@
               "state": {
                 "file": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
                 "page": 170,
-                "left": -10,
-                "top": 475,
-                "zoom": 1.614539893336609
+                "left": -13,
+                "top": 479,
+                "zoom": 1.144483975023419
               },
               "icon": "lucide-file-text",
               "title": "《数学分析》陈纪修 第三版 上"
@@ -258,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5,
-    "collapsed": true
+    "width": 466.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,7 +279,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "0de510259132d120",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
     "attachments/Pasted image 20251103184546.png",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
