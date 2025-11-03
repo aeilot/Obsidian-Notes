@@ -6,7 +6,6 @@
       {
         "id": "5b3b38af1ddebd2c",
         "type": "tabs",
-        "dimension": 56.85920577617328,
         "children": [
           {
             "id": "f61d0d17703bfe3f",
@@ -15,37 +14,33 @@
               "type": "pdf",
               "state": {
                 "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 154,
-                "left": -15,
-                "top": 14,
-                "zoom": 0.9935419689224875
+                "page": 155,
+                "left": -6,
+                "top": 671,
+                "zoom": 2.518007927487929
               },
               "icon": "lucide-file-text",
               "title": "CSAPP-3th-ZH-OCR"
             }
-          }
-        ]
-      },
-      {
-        "id": "1b7303a11359908d",
-        "type": "tabs",
-        "dimension": 43.14079422382672,
-        "children": [
+          },
           {
-            "id": "e4eb49c695c81b5e",
+            "id": "a9d8edb78ca772f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "CSAPP/Ch03.md",
-                "mode": "source",
-                "source": false
+                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+                "page": 171,
+                "left": -4,
+                "top": 392,
+                "zoom": 1.89
               },
-              "icon": "lucide-file",
-              "title": "Ch03"
+              "icon": "lucide-file-text",
+              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -279,8 +274,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "a9d8edb78ca772f0",
   "lastOpenFiles": [
+    "线性代数/EXT/秩不等式.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch03.md",
     "CSAPP/汇编语言.md",
@@ -301,7 +298,6 @@
     "线性代数/Exam/2024 JQF 期中考试.md",
     "attachments/Pasted image 20251031144344.png",
     "attachments/Pasted image 20251031143534.png",
-    "线性代数/EXT/秩不等式.md",
     "线性代数/01-向量与向量空间/向量组的秩.md",
     "线性代数/02-矩阵理论/矩阵的秩.md",
     "线性代数/课程笔记/Course10.22 习题课.md",
@@ -312,7 +308,6 @@
     "attachments/Pasted image 20251031125527.png",
     "线性代数/03-线性方程组/线性方程组解的结构.md",
     "线性代数/06-行列式/行列式的基本性质.md",
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/06-行列式/方阵的行列式.md",
     "线性代数/06-行列式/行列式的计算.md",
     "线性代数/06-行列式/Ch05 行列式.md",

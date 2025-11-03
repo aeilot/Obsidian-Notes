@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch03",
-      "path": "CSAPP/Ch03.md"
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "秩不等式",
+      "path": "线性代数/EXT/秩不等式.md"
     },
     {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "Ch03",
+      "path": "CSAPP/Ch03.md"
     },
     {
       "basename": "汇编语言",
@@ -69,10 +77,6 @@
       "path": "线性代数/Exam/2024 JQF 期中考试.md"
     },
     {
-      "basename": "秩不等式",
-      "path": "线性代数/EXT/秩不等式.md"
-    },
-    {
       "basename": "向量组的秩",
       "path": "线性代数/01-向量与向量空间/向量组的秩.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "行列式的基本性质",
       "path": "线性代数/06-行列式/行列式的基本性质.md"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "方阵的行列式",
