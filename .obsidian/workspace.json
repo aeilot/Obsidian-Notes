@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 165,
+                "page": 167,
                 "left": -14,
-                "top": 420,
+                "top": 63,
                 "zoom": 1.0214853367984325
               },
               "icon": "lucide-file-text",
@@ -281,8 +281,8 @@
   },
   "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch03.md",
+    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "数学分析/04-函数极限/函数极限的存在性.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/EXT/秩不等式.md",
