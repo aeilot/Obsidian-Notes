@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
-      "basename": "秩不等式",
-      "path": "线性代数/EXT/秩不等式.md"
-    },
-    {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
       "basename": "Ch03",
       "path": "CSAPP/Ch03.md"
+    },
+    {
+      "basename": "函数极限的存在性",
+      "path": "数学分析/04-函数极限/函数极限的存在性.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "秩不等式",
+      "path": "线性代数/EXT/秩不等式.md"
     },
     {
       "basename": "汇编语言",
@@ -195,10 +199,6 @@
     {
       "basename": "极坐标系",
       "path": "数学分析/辅助工具/极坐标系.md"
-    },
-    {
-      "basename": "INDEX",
-      "path": "线性代数/INDEX.md"
     }
   ],
   "omittedPaths": [],

@@ -6,6 +6,7 @@
       {
         "id": "5b3b38af1ddebd2c",
         "type": "tabs",
+        "dimension": 58.423586040914564,
         "children": [
           {
             "id": "f61d0d17703bfe3f",
@@ -14,33 +15,37 @@
               "type": "pdf",
               "state": {
                 "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 155,
-                "left": -6,
-                "top": 671,
-                "zoom": 2.518007927487929
+                "page": 166,
+                "left": -14,
+                "top": 457,
+                "zoom": 1.0214853367984325
               },
               "icon": "lucide-file-text",
               "title": "CSAPP-3th-ZH-OCR"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f496d2481db661f3",
+        "type": "tabs",
+        "dimension": 41.57641395908544,
+        "children": [
           {
-            "id": "a9d8edb78ca772f0",
+            "id": "3291e8c2d20ea68b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-                "page": 171,
-                "left": -4,
-                "top": 392,
-                "zoom": 1.89
+                "file": "CSAPP/Ch03.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
+              "icon": "lucide-file",
+              "title": "Ch03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,12 +279,13 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a9d8edb78ca772f0",
+  "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
-    "线性代数/EXT/秩不等式.md",
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch03.md",
+    "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+    "数学分析/04-函数极限/函数极限的存在性.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/EXT/秩不等式.md",
     "CSAPP/汇编语言.md",
     "CSAPP/汇编语言王爽著.pdf",
     "数学分析/PDFs/数学分析新讲 第一册.pdf",
@@ -312,7 +318,6 @@
     "线性代数/06-行列式/行列式的计算.md",
     "线性代数/06-行列式/Ch05 行列式.md",
     "线性代数/03-线性方程组/消元法解线性方程组.md",
-    "线性代数/03-线性方程组/Ch02 解线性方程组.md",
     "线性代数/PDFs/高等代数（下册）.pdf",
     "attachments/Pasted image 20251029161222.png",
     "attachments/Pasted image 20251029160604.png",
