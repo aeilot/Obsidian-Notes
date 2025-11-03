@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 170,
+                "page": 171,
                 "left": -14,
-                "top": 682,
+                "top": 503,
                 "zoom": 1.0214853367984325
               },
               "icon": "lucide-file-text",
@@ -279,7 +279,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "3291e8c2d20ea68b",
   "lastOpenFiles": [
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch03.md",
