@@ -13,30 +13,28 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 180,
-                "left": -7,
-                "top": 13,
-                "zoom": 1.7945851999391151
+                "file": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf",
+                "page": 41,
+                "left": -8,
+                "top": 71,
+                "zoom": 1.8386092041698447
               },
               "icon": "lucide-file-text",
-              "title": "CSAPP-3th-ZH-OCR"
+              "title": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)"
             }
           },
           {
             "id": "d9c8f8a208070c7d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf",
-                "page": 41,
-                "left": -9,
-                "top": 285,
-                "zoom": 1.6145436053902873
+                "file": "C++ 程序设计/基础知识/static_assert.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)"
+              "icon": "lucide-file",
+              "title": "static_assert"
             }
           }
         ],
@@ -116,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -253,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,10 +274,11 @@
   },
   "active": "d9c8f8a208070c7d",
   "lastOpenFiles": [
-    "C++ 程序设计/基础知识/不变式.md",
     "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf",
-    "C++ 程序设计/PDFs/Scott_Meyers_Effective_Modern_C++.pdf",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+    "C++ 程序设计/基础知识/static_assert.md",
+    "C++ 程序设计/基础知识/不变式.md",
+    "C++ 程序设计/PDFs/Scott_Meyers_Effective_Modern_C++.pdf",
     "CSAPP/Ch03.md",
     "MISC/排序算法.md",
     "数学分析/06-导数与微分/微分中值定理.md",
@@ -314,7 +313,6 @@
     "线性代数/03-线性方程组/线性方程组解的结构.md",
     "线性代数/06-行列式/行列式的基本性质.md",
     "线性代数/06-行列式/方阵的行列式.md",
-    "线性代数/06-行列式/行列式的计算.md",
     "attachments/Pasted image 20251029161222.png",
     "attachments/Pasted image 20251029160604.png",
     "线性代数/Course 思维导图.canvas",
