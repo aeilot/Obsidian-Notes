@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "static_assert",
-      "path": "C++ 程序设计/基础知识/static_assert.md"
-    },
-    {
       "basename": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)",
       "path": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf"
+    },
+    {
+      "basename": "static_assert",
+      "path": "C++ 程序设计/基础知识/static_assert.md"
     },
     {
       "basename": "CSAPP-3th-ZH-OCR",
