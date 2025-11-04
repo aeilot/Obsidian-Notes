@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)",
+      "path": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf"
+    },
+    {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "导数的计算",
       "path": "数学分析/06-导数与微分/导数的计算.md"
-    },
-    {
-      "basename": "INDEX",
-      "path": "数学分析/INDEX.md"
     }
   ],
   "omittedPaths": [],

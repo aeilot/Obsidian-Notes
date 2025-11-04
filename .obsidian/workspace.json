@@ -14,16 +14,33 @@
               "type": "pdf",
               "state": {
                 "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 181,
-                "left": -103,
-                "top": 687,
-                "zoom": 1.3
+                "page": 180,
+                "left": -7,
+                "top": 13,
+                "zoom": 1.7945851999391151
               },
               "icon": "lucide-file-text",
               "title": "CSAPP-3th-ZH-OCR"
             }
+          },
+          {
+            "id": "6934ec5bdb637915",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf",
+                "page": 1,
+                "left": -4,
+                "top": 320,
+                "zoom": 2.4702380952380953
+              },
+              "icon": "lucide-file-text",
+              "title": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -257,10 +273,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "6934ec5bdb637915",
   "lastOpenFiles": [
-    "CSAPP/Ch03.md",
+    "C++ 程序设计/PDFs/Scott_Meyers_Effective_Modern_C++.pdf",
+    "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
+    "CSAPP/Ch03.md",
     "MISC/排序算法.md",
     "数学分析/06-导数与微分/微分中值定理.md",
     "attachments/Pasted image 20251103184546.png",
@@ -297,7 +315,6 @@
     "线性代数/06-行列式/方阵的行列式.md",
     "线性代数/06-行列式/行列式的计算.md",
     "线性代数/06-行列式/Ch05 行列式.md",
-    "线性代数/PDFs/高等代数（下册）.pdf",
     "attachments/Pasted image 20251029161222.png",
     "attachments/Pasted image 20251029160604.png",
     "线性代数/Course 思维导图.canvas",
