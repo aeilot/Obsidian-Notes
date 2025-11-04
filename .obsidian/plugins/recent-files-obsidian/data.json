@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "微分中值定理",
-      "path": "数学分析/06-导数与微分/微分中值定理.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
-    },
-    {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
       "basename": "Ch03",
       "path": "CSAPP/Ch03.md"
+    },
+    {
+      "basename": "排序算法",
+      "path": "MISC/排序算法.md"
+    },
+    {
+      "basename": "微分中值定理",
+      "path": "数学分析/06-导数与微分/微分中值定理.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
       "basename": "函数极限的存在性",
@@ -195,10 +199,6 @@
     {
       "basename": "INDEX",
       "path": "数学分析/INDEX.md"
-    },
-    {
-      "basename": "极坐标系",
-      "path": "数学分析/辅助工具/极坐标系.md"
     }
   ],
   "omittedPaths": [],
