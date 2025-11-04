@@ -24,16 +24,16 @@
             }
           },
           {
-            "id": "6934ec5bdb637915",
+            "id": "d9c8f8a208070c7d",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
                 "file": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf",
-                "page": 1,
-                "left": -4,
-                "top": 320,
-                "zoom": 2.4702380952380953
+                "page": 41,
+                "left": -9,
+                "top": 285,
+                "zoom": 1.6145436053902873
               },
               "icon": "lucide-file-text",
               "title": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)"
@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -273,10 +274,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6934ec5bdb637915",
+  "active": "d9c8f8a208070c7d",
   "lastOpenFiles": [
-    "C++ 程序设计/PDFs/Scott_Meyers_Effective_Modern_C++.pdf",
+    "C++ 程序设计/基础知识/不变式.md",
     "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf",
+    "C++ 程序设计/PDFs/Scott_Meyers_Effective_Modern_C++.pdf",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch03.md",
     "MISC/排序算法.md",
@@ -306,7 +308,6 @@
     "线性代数/02-矩阵理论/矩阵的秩.md",
     "线性代数/课程笔记/Course10.22 习题课.md",
     "线性代数/课程笔记/Untitled.base",
-    "线性代数/PDFs/高等代数（上册）.pdf",
     "线性代数/04-线性空间/Ch03 四个基本子空间.md",
     "线性代数/05-正交性/Ch04 正交性.md",
     "attachments/Pasted image 20251031125527.png",
@@ -314,7 +315,6 @@
     "线性代数/06-行列式/行列式的基本性质.md",
     "线性代数/06-行列式/方阵的行列式.md",
     "线性代数/06-行列式/行列式的计算.md",
-    "线性代数/06-行列式/Ch05 行列式.md",
     "attachments/Pasted image 20251029161222.png",
     "attachments/Pasted image 20251029160604.png",
     "线性代数/Course 思维导图.canvas",

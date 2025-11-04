@@ -5,6 +5,10 @@
       "path": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf"
     },
     {
+      "basename": "不变式",
+      "path": "C++ 程序设计/基础知识/不变式.md"
+    },
+    {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "特殊函数求导",
       "path": "数学分析/06-导数与微分/特殊函数求导.md"
-    },
-    {
-      "basename": "导数的计算",
-      "path": "数学分析/06-导数与微分/导数的计算.md"
     }
   ],
   "omittedPaths": [],
