@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "LU 分解",
+      "path": "线性代数/03-线性方程组/LU 分解.md"
+    },
+    {
+      "basename": "线性方程组解的结构",
+      "path": "线性代数/03-线性方程组/线性方程组解的结构.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "矩阵的秩",
+      "path": "线性代数/02-矩阵理论/矩阵的秩.md"
+    },
+    {
       "basename": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)",
       "path": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf"
     },
@@ -35,10 +51,6 @@
     {
       "basename": "函数极限的存在性",
       "path": "数学分析/04-函数极限/函数极限的存在性.md"
-    },
-    {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
     },
     {
       "basename": "秩不等式",
@@ -101,10 +113,6 @@
       "path": "线性代数/01-向量与向量空间/向量组的秩.md"
     },
     {
-      "basename": "矩阵的秩",
-      "path": "线性代数/02-矩阵理论/矩阵的秩.md"
-    },
-    {
       "basename": "Course10.22 习题课",
       "path": "线性代数/课程笔记/Course10.22 习题课.md"
     },
@@ -119,10 +127,6 @@
     {
       "basename": "Ch04 正交性",
       "path": "线性代数/05-正交性/Ch04 正交性.md"
-    },
-    {
-      "basename": "线性方程组解的结构",
-      "path": "线性代数/03-线性方程组/线性方程组解的结构.md"
     },
     {
       "basename": "行列式的基本性质",
@@ -195,10 +199,6 @@
     {
       "basename": "内存映射 IO",
       "path": "CSAPP/EXT/内存映射 IO.md"
-    },
-    {
-      "basename": "三大总线",
-      "path": "CSAPP/EXT/三大总线.md"
     }
   ],
   "omittedPaths": [],
