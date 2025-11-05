@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Ch03",
+      "path": "CSAPP/Ch03.md"
+    },
+    {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)",
+      "path": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf"
+    },
+    {
+      "basename": "Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir)",
+      "path": "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 上",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
+    },
+    {
+      "basename": "洛必达法则",
+      "path": "数学分析/06-导数与微分/洛必达法则.md"
+    },
+    {
+      "basename": "《数学分析》陈纪修 第三版 下",
+      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "LADR4eChinese",
+      "path": "线性代数/PDFs/LADR4eChinese.pdf"
+    },
+    {
+      "basename": "LADR01 向量空间",
+      "path": "线性代数/01-向量与向量空间/LADR01 向量空间.md"
+    },
+    {
       "basename": "矩阵的秩",
       "path": "线性代数/02-矩阵理论/矩阵的秩.md"
     },
@@ -13,28 +53,12 @@
       "path": "线性代数/03-线性方程组/线性方程组解的结构.md"
     },
     {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
-      "basename": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)",
-      "path": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf"
-    },
-    {
       "basename": "static_assert",
       "path": "C++ 程序设计/基础知识/static_assert.md"
     },
     {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
       "basename": "不变式",
       "path": "C++ 程序设计/基础知识/不变式.md"
-    },
-    {
-      "basename": "Ch03",
-      "path": "CSAPP/Ch03.md"
     },
     {
       "basename": "排序算法",
@@ -43,10 +67,6 @@
     {
       "basename": "微分中值定理",
       "path": "数学分析/06-导数与微分/微分中值定理.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 上",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf"
     },
     {
       "basename": "函数极限的存在性",
@@ -87,10 +107,6 @@
     {
       "basename": "导数与微分",
       "path": "数学分析/06-导数与微分/导数与微分.md"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 下",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf"
     },
     {
       "basename": "段寄存器",
@@ -183,22 +199,6 @@
     {
       "basename": "向量空间",
       "path": "线性代数/01-向量与向量空间/向量空间.md"
-    },
-    {
-      "basename": "Ch01 向量和矩阵",
-      "path": "线性代数/01-向量与向量空间/Ch01 向量和矩阵.md"
-    },
-    {
-      "basename": "高等代数（下册）",
-      "path": "线性代数/PDFs/高等代数（下册）.pdf"
-    },
-    {
-      "basename": "LADR01 向量空间",
-      "path": "线性代数/01-向量与向量空间/LADR01 向量空间.md"
-    },
-    {
-      "basename": "内存映射 IO",
-      "path": "CSAPP/EXT/内存映射 IO.md"
     }
   ],
   "omittedPaths": [],
