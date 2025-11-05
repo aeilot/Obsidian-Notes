@@ -36,9 +36,23 @@
               "icon": "lucide-file",
               "title": "LU 分解"
             }
+          },
+          {
+            "id": "8eb57c443e154864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "线性代数/02-矩阵理论/矩阵的秩.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "矩阵的秩"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,7 +264,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 466.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,12 +286,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "8eb57c443e154864",
   "lastOpenFiles": [
+    "线性代数/03-线性方程组/LU 分解.md",
     "线性代数/03-线性方程组/线性方程组解的结构.md",
     "attachments/Pasted image 20251105104931.png",
     "attachments/Pasted image 20251105104923.png",
-    "线性代数/03-线性方程组/LU 分解.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/02-矩阵理论/矩阵的秩.md",
     "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf",

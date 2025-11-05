@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "矩阵的秩",
+      "path": "线性代数/02-矩阵理论/矩阵的秩.md"
+    },
+    {
       "basename": "LU 分解",
       "path": "线性代数/03-线性方程组/LU 分解.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
-      "basename": "矩阵的秩",
-      "path": "线性代数/02-矩阵理论/矩阵的秩.md"
     },
     {
       "basename": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)",
