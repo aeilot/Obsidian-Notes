@@ -4,43 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "4379eb2bb3108f0a",
+        "id": "39cac34b81b87231",
         "type": "tabs",
         "children": [
           {
-            "id": "e4096646d00b8bb5",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CSAPP/CSAPP-3th-ZH-OCR.pdf",
-                "page": 200,
-                "left": -17,
-                "top": 729,
-                "zoom": 0.8662444113263786
-              },
-              "icon": "lucide-file-text",
-              "title": "CSAPP-3th-ZH-OCR"
-            }
-          }
-        ]
-      },
-      {
-        "id": "28d7695467bc6771",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "be6d1f01cbc48fc5",
+            "id": "fc616ca60965cb13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CSAPP/Ch03.md",
+                "file": "线性代数/04-线性空间/线性空间.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ch03"
+              "title": "线性空间"
+            }
+          },
+          {
+            "id": "00a67c8b7234a0fc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "线性代数/PDFs/LADR4eChinese.pdf",
+                "page": 64,
+                "left": -7,
+                "top": 677,
+                "zoom": 2.227901383042694
+              },
+              "icon": "lucide-file-text",
+              "title": "LADR4eChinese"
             }
           }
         ]
@@ -119,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -279,6 +272,14 @@
   },
   "active": "5cd368e40bb0b5bf",
   "lastOpenFiles": [
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/04-线性空间/线性空间.md",
+    "线性代数/Untitled",
+    "线性代数/PDFs/LADR4eChinese.pdf",
+    "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
+    "线性代数/03-线性方程组/LU 分解.md",
+    "线性代数/PDFs/Introduction to Linear Algebra.pdf",
+    "线性代数/03-线性方程组/Ch02 解线性方程组.md",
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch03.md",
     "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf",
@@ -286,25 +287,19 @@
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/06-导数与微分/洛必达法则.md",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf",
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
-    "线性代数/PDFs/LADR4eChinese.pdf",
     "线性代数/01-向量与向量空间/LADR01 向量空间.md",
     "线性代数/02-矩阵理论/矩阵的秩.md",
-    "线性代数/03-线性方程组/LU 分解.md",
     "线性代数/03-线性方程组/线性方程组解的结构.md",
     "attachments/Pasted image 20251105104931.png",
     "attachments/Pasted image 20251105104923.png",
     "C++ 程序设计/基础知识/static_assert.md",
     "C++ 程序设计/基础知识/不变式.md",
-    "C++ 程序设计/PDFs/Scott_Meyers_Effective_Modern_C++.pdf",
     "MISC/排序算法.md",
     "数学分析/06-导数与微分/微分中值定理.md",
     "attachments/Pasted image 20251103184546.png",
     "数学分析/04-函数极限/函数极限的存在性.md",
     "线性代数/EXT/秩不等式.md",
     "CSAPP/汇编语言.md",
-    "CSAPP/汇编语言王爽著.pdf",
-    "数学分析/PDFs/数学分析新讲 第一册.pdf",
     "数学分析/06-导数与微分/高阶导数与高阶微分.md",
     "数学分析/04-函数极限/无穷小量与无穷大量的比较.md",
     "数学分析/05-函数连续性/函数的连续性.md",
@@ -317,8 +312,6 @@
     "attachments/Pasted image 20251031144344.png",
     "attachments/Pasted image 20251031143534.png",
     "线性代数/01-向量与向量空间/向量组的秩.md",
-    "线性代数/课程笔记/Course10.22 习题课.md",
-    "线性代数/04-线性空间/Ch03 四个基本子空间.md",
     "attachments/Pasted image 20251031125527.png",
     "attachments/Pasted image 20251029161222.png",
     "attachments/Pasted image 20251029160604.png",

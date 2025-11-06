@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Ch03",
-      "path": "CSAPP/Ch03.md"
+      "basename": "线性空间",
+      "path": "线性代数/04-线性空间/线性空间.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "LADR4eChinese",
+      "path": "线性代数/PDFs/LADR4eChinese.pdf"
+    },
+    {
+      "basename": "The-Art-of-Linear-Algebra",
+      "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
+    },
+    {
+      "basename": "Introduction to Linear Algebra",
+      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
+    },
+    {
+      "basename": "LU 分解",
+      "path": "线性代数/03-线性方程组/LU 分解.md"
+    },
+    {
+      "basename": "Ch02 解线性方程组",
+      "path": "线性代数/03-线性方程组/Ch02 解线性方程组.md"
     },
     {
       "basename": "CSAPP-3th-ZH-OCR",
       "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "Ch03",
+      "path": "CSAPP/Ch03.md"
     },
     {
       "basename": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)",
@@ -29,24 +57,12 @@
       "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf"
     },
     {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
-    },
-    {
-      "basename": "LADR4eChinese",
-      "path": "线性代数/PDFs/LADR4eChinese.pdf"
-    },
-    {
       "basename": "LADR01 向量空间",
       "path": "线性代数/01-向量与向量空间/LADR01 向量空间.md"
     },
     {
       "basename": "矩阵的秩",
       "path": "线性代数/02-矩阵理论/矩阵的秩.md"
-    },
-    {
-      "basename": "LU 分解",
-      "path": "线性代数/03-线性方程组/LU 分解.md"
     },
     {
       "basename": "线性方程组解的结构",
@@ -165,10 +181,6 @@
       "path": "线性代数/03-线性方程组/消元法解线性方程组.md"
     },
     {
-      "basename": "Ch02 解线性方程组",
-      "path": "线性代数/03-线性方程组/Ch02 解线性方程组.md"
-    },
-    {
       "basename": "矩阵的相抵标准型",
       "path": "线性代数/02-矩阵理论/矩阵的相抵标准型.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "分块矩阵",
       "path": "线性代数/02-矩阵理论/分块矩阵.md"
-    },
-    {
-      "basename": "Course9.19 矩阵的运算",
-      "path": "线性代数/02-矩阵理论/Course9.19 矩阵的运算.md"
-    },
-    {
-      "basename": "Course9.17 线性型与矩阵概念引入",
-      "path": "线性代数/02-矩阵理论/Course9.17 线性型与矩阵概念引入.md"
-    },
-    {
-      "basename": "向量空间",
-      "path": "线性代数/01-向量与向量空间/向量空间.md"
     }
   ],
   "omittedPaths": [],
