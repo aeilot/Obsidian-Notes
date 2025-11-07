@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "39cac34b81b87231",
+        "id": "b7bda8bdbc9f1c35",
         "type": "tabs",
         "children": [
           {
-            "id": "fc616ca60965cb13",
+            "id": "c629f12a21a62db0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数/04-线性空间/线性空间.md",
+                "file": "线性代数/Exam/2024 期中复习题 高云.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "线性空间"
-            }
-          },
-          {
-            "id": "00a67c8b7234a0fc",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "线性代数/PDFs/LADR4eChinese.pdf",
-                "page": 64,
-                "left": -7,
-                "top": 677,
-                "zoom": 2.227901383042694
-              },
-              "icon": "lucide-file-text",
-              "title": "LADR4eChinese"
+              "title": "2024 期中复习题 高云"
             }
           }
         ]
@@ -129,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "线性代数/01-向量与向量空间/向量组的秩.md",
+                "file": "线性代数/Exam/2024 期中复习题 高云.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +123,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 向量组的秩"
+              "title": "Backlinks for 2024 期中复习题 高云"
             }
           },
           {
@@ -162,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "线性代数/01-向量与向量空间/向量组的秩.md",
+                "file": "线性代数/Exam/2024 期中复习题 高云.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 向量组的秩"
+              "title": "Outline of 2024 期中复习题 高云"
             }
           },
           {
@@ -184,16 +168,6 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
-            }
-          },
-          {
-            "id": "5cd368e40bb0b5bf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -238,18 +212,28 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "数学分析/06-导数与微分/高阶导数.md"
+                "file": "线性代数/Exam/2024 期中复习题 高云.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 高阶导数"
+              "title": "File properties for 2024 期中复习题 高云"
+            }
+          },
+          {
+            "id": "402e80b1a16e07b5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 466.5
+    "width": 682.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,22 +244,26 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": true,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": true,
       "audio-recorder:Start/stop recording": false,
       "infio-copilot:Open infio copilot": true,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "markdown-importer:Open format converter": true,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cd368e40bb0b5bf",
+  "active": "c629f12a21a62db0",
   "lastOpenFiles": [
+    "attachments/Pasted image 20251107150639.png",
+    "attachments/Pasted image 20251107150331.png",
+    "attachments/Pasted image 20251107150302.png",
+    "线性代数/Exam/2024 期中复习题 高云.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "线性代数/PDFs/LADR4eChinese.pdf",
     "线性代数/04-线性空间/线性空间.md",
     "线性代数/Untitled",
-    "线性代数/PDFs/LADR4eChinese.pdf",
     "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf",
     "线性代数/03-线性方程组/LU 分解.md",
     "线性代数/PDFs/Introduction to Linear Algebra.pdf",
@@ -311,13 +299,10 @@
     "线性代数/Exam/2024 JQF 期中考试.md",
     "attachments/Pasted image 20251031144344.png",
     "attachments/Pasted image 20251031143534.png",
-    "线性代数/01-向量与向量空间/向量组的秩.md",
     "attachments/Pasted image 20251031125527.png",
     "attachments/Pasted image 20251029161222.png",
     "attachments/Pasted image 20251029160604.png",
     "线性代数/Course 思维导图.canvas",
-    "attachments/Pasted image 20251027204203.png",
-    "attachments/Pasted image 20251027204141.png",
     "数学分析/Course 思维导图.canvas",
     "Untitled.canvas",
     "Linear Algebra/Untitled.canvas"

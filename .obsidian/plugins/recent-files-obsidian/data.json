@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "线性空间",
-      "path": "线性代数/04-线性空间/线性空间.md"
+      "basename": "2024 期中复习题 高云",
+      "path": "线性代数/Exam/2024 期中复习题 高云.md"
     },
     {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
@@ -11,6 +11,10 @@
     {
       "basename": "LADR4eChinese",
       "path": "线性代数/PDFs/LADR4eChinese.pdf"
+    },
+    {
+      "basename": "线性空间",
+      "path": "线性代数/04-线性空间/线性空间.md"
     },
     {
       "basename": "The-Art-of-Linear-Algebra",
@@ -195,10 +199,6 @@
     {
       "basename": "可逆矩阵",
       "path": "线性代数/02-矩阵理论/可逆矩阵.md"
-    },
-    {
-      "basename": "分块矩阵",
-      "path": "线性代数/02-矩阵理论/分块矩阵.md"
     }
   ],
   "omittedPaths": [],
