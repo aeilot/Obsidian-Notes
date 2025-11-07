@@ -221,7 +221,7 @@
   "clearSelectionAfterAutoPaste": true,
   "respectCursorPositionWhenAutoPaste": true,
   "blankLineAboveAppendedContent": true,
-  "autoCopy": false,
+  "autoCopy": true,
   "autoFocus": false,
   "autoPaste": false,
   "autoFocusTarget": "last-active-and-open-then-last-paste",

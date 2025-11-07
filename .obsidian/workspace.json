@@ -4,21 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "b7bda8bdbc9f1c35",
+        "id": "65413310c2c479f1",
         "type": "tabs",
         "children": [
           {
-            "id": "c629f12a21a62db0",
+            "id": "1b551aeb48b6292c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "线性代数/Exam/2024 期中复习题 高云.md",
-                "mode": "source",
-                "source": false
+                "file": "数学分析/PDFs/数学分析新讲 第二册.pdf",
+                "page": 27,
+                "left": -10,
+                "top": 536,
+                "zoom": 1.536554363604309
               },
-              "icon": "lucide-file",
-              "title": "2024 期中复习题 高云"
+              "icon": "lucide-file-text",
+              "title": "数学分析新讲 第二册"
             }
           }
         ]
@@ -97,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -233,7 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 682.5
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,12 +257,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c629f12a21a62db0",
+  "active": "402e80b1a16e07b5",
   "lastOpenFiles": [
+    "数学分析/06-导数与微分/泰勒公式.md",
+    "数学分析/PDFs/数学分析新讲 第二册.pdf",
+    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
+    "数学分析/06-导数与微分/洛必达法则.md",
+    "数学分析/06-导数与微分/函数的升降与极值.md",
+    "数学分析/PDFs/数学分析新讲 第一册.pdf",
+    "数学分析/06-导数与微分/导数与微分.md",
+    "线性代数/Exam/2024 期中复习题 高云.md",
     "attachments/Pasted image 20251107150639.png",
     "attachments/Pasted image 20251107150331.png",
     "attachments/Pasted image 20251107150302.png",
-    "线性代数/Exam/2024 期中复习题 高云.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/PDFs/LADR4eChinese.pdf",
     "线性代数/04-线性空间/线性空间.md",
@@ -271,10 +281,6 @@
     "CSAPP/CSAPP-3th-ZH-OCR.pdf",
     "CSAPP/Ch03.md",
     "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf",
-    "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
-    "数学分析/06-导数与微分/洛必达法则.md",
-    "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf",
     "线性代数/01-向量与向量空间/LADR01 向量空间.md",
     "线性代数/02-矩阵理论/矩阵的秩.md",
     "线性代数/03-线性方程组/线性方程组解的结构.md",
@@ -292,16 +298,12 @@
     "数学分析/04-函数极限/无穷小量与无穷大量的比较.md",
     "数学分析/05-函数连续性/函数的连续性.md",
     "数学分析/05-函数连续性/闭区间上的连续函数.md",
-    "数学分析/06-导数与微分/导数与微分.md",
     "CSAPP/EXT/段寄存器.md",
     "C++ 程序设计/INDEX.md",
-    "线性代数/Exam/2024 期中考卷.md",
-    "线性代数/Exam/2024 JQF 期中考试.md",
     "attachments/Pasted image 20251031144344.png",
     "attachments/Pasted image 20251031143534.png",
     "attachments/Pasted image 20251031125527.png",
     "attachments/Pasted image 20251029161222.png",
-    "attachments/Pasted image 20251029160604.png",
     "线性代数/Course 思维导图.canvas",
     "数学分析/Course 思维导图.canvas",
     "Untitled.canvas",
