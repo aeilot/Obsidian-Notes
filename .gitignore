@@ -4,3 +4,10 @@
 /线性代数/PDFs/高等代数（上册）.pdf
 /线性代数/PDFs/高等代数（下册）.pdf
 /C++ 程序设计/PDFs/Scott_Meyers_Effective_Modern_C++.pdf
+
+# LaTeX temporary files
+*.log
+missfont.log
+
+# Temporary combined markdown files
+*.combined.md
