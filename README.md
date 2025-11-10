@@ -169,6 +169,8 @@ python3 markdown_to_pdf.py 线性代数 --exclude .obsidian --exclude PDFs
 python3 markdown_to_pdf.py 线性代数 -t
 ```
 
+更多示例请参考 [`examples/convert_notes.sh`](examples/convert_notes.sh)。
+
 #### 命令行选项
 
 - `folder_path`: 要处理的文件夹路径（必需）
