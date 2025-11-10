@@ -136,6 +136,84 @@ python3 organize_notes.py -n
 - Python 3.6+
 - 标准库（无需额外依赖）
 
+## Markdown 转 PDF 工具
+
+本仓库还包含一个将 Markdown 文件转换为 PDF 的工具 `markdown_to_pdf.py`。
+
+### 功能特性
+
+- 📂 **自动收集**：递归或非递归扫描文件夹中的所有 Markdown 文件
+- 📑 **智能拼接**：按文件名排序拼接所有 Markdown 文件
+- 📄 **PDF 转换**：使用 pandoc 将拼接后的 Markdown 转换为 PDF
+- 🎨 **中文支持**：自动检测并使用系统中可用的中文字体
+- 🔧 **灵活配置**：支持自定义输出文件名、排除模式等
+
+### 使用方法
+
+#### 基本用法
+
+```bash
+# 转换文件夹为 PDF
+python3 markdown_to_pdf.py 线性代数
+
+# 指定输出文件名
+python3 markdown_to_pdf.py 线性代数 -o linear_algebra.pdf
+
+# 不递归处理子文件夹（只处理顶层文件）
+python3 markdown_to_pdf.py 线性代数 --no-recursive
+
+# 排除特定文件夹
+python3 markdown_to_pdf.py 线性代数 --exclude .obsidian --exclude PDFs
+
+# 保留临时的合并 Markdown 文件
+python3 markdown_to_pdf.py 线性代数 -t
+```
+
+#### 命令行选项
+
+- `folder_path`: 要处理的文件夹路径（必需）
+- `-o, --output`: 输出 PDF 文件名（默认：`<folder_name>.pdf`）
+- `-r, --recursive`: 递归处理子文件夹（默认启用）
+- `--no-recursive`: 不递归处理子文件夹
+- `-t, --temp`: 保留临时的合并 Markdown 文件
+- `--exclude PATTERN`: 排除匹配的文件/文件夹（可多次使用）
+- `-h, --help`: 显示帮助信息
+
+### 环境要求
+
+- Python 3.6+
+- pandoc（PDF 转换引擎）
+- XeLaTeX 或 LuaLaTeX（用于中文支持）
+
+#### 安装依赖
+
+**Ubuntu/Debian:**
+```bash
+sudo apt-get install pandoc texlive-xetex texlive-fonts-recommended texlive-lang-chinese fonts-noto-cjk
+```
+
+**macOS:**
+```bash
+brew install pandoc basictex
+```
+
+**Windows:**
+下载并安装 [pandoc](https://pandoc.org/installing.html) 和 [MiKTeX](https://miktex.org/)
+
+### 工作原理
+
+1. **收集文件**：扫描指定文件夹，按文件名排序收集所有 Markdown 文件
+2. **拼接文件**：将所有 Markdown 文件拼接成一个临时文件，并添加文档标题和目录
+3. **转换 PDF**：使用 pandoc 和 XeLaTeX 引擎将 Markdown 转换为 PDF
+4. **清理临时文件**：转换完成后删除临时文件（除非使用 `-t` 选项）
+
+### 注意事项
+
+1. **中文字体**：脚本会自动检测系统中可用的中文字体（优先使用 Noto Sans CJK SC）
+2. **排除模式**：默认排除 `.obsidian`、`.git`、`.DS_Store`、`PDFs`、`attachments` 等文件夹
+3. **转换时间**：大文件夹的转换可能需要几分钟时间，请耐心等待
+4. **标题调整**：原 Markdown 文件中的标题会自动增加一级（`#` 变为 `##`），以保持文档结构
+
 ## 许可证
 
 本工具为开源工具，欢迎使用和改进。
