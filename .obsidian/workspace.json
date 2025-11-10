@@ -15,9 +15,9 @@
               "state": {
                 "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
                 "page": 316,
-                "left": -16,
-                "top": 527,
-                "zoom": 0.9965972064032188
+                "left": -21,
+                "top": 536,
+                "zoom": 0.7420932421889962
               },
               "icon": "lucide-file-text",
               "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
@@ -270,8 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,10 +291,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a688acf72301148",
+  "active": "402e80b1a16e07b5",
   "lastOpenFiles": [
-    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "线性代数/04-线性空间/线性空间的基、维数与坐标.md",
+    "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
     "linear_algebra.combined.md",
     "markdown_to_pdf.py",
     "examples/convert_notes.sh",
