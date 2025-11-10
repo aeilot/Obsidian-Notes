@@ -15,9 +15,9 @@
               "state": {
                 "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
                 "page": 316,
-                "left": -21,
-                "top": 213,
-                "zoom": 0.7420932421889961
+                "left": -16,
+                "top": 527,
+                "zoom": 0.9965972064032188
               },
               "icon": "lucide-file-text",
               "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
@@ -270,7 +270,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 403.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
