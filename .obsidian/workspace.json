@@ -4,23 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ed1b62b0419ab81",
+        "id": "df62e63ce3d29982",
         "type": "tabs",
         "children": [
           {
-            "id": "160a847f591efe48",
+            "id": "ef77209a9f34e83a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "数学分析/PDFs/数学分析新讲 第二册.pdf",
-                "page": 22,
-                "left": -8,
-                "top": 622,
-                "zoom": 2.0445374715063074
+                "file": "线性代数/Exam/2023 JQF 期中考.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "数学分析新讲 第二册"
+              "icon": "lucide-file",
+              "title": "2023 JQF 期中考"
             }
           }
         ]
@@ -99,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "ccd96bc7733d42ef",
@@ -257,11 +254,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "160a847f591efe48",
+  "active": "ef77209a9f34e83a",
   "lastOpenFiles": [
+    "线性代数/Exam/2024 期中复习题 高云.md",
+    "线性代数/Exam/2023 JQF 期中考.md",
+    "线性代数/Exam/2024 JQF 期中考试.md",
+    "数学分析/PDFs/数学分析新讲 第二册.pdf",
     "数学分析/PDFs/数学分析新讲 第一册.pdf",
     "数学分析/06-导数与微分/函数的升降与极值.md",
-    "数学分析/PDFs/数学分析新讲 第二册.pdf",
     "数学分析/PDFs/《数学分析》陈纪修 第三版 上.pdf",
     "数学分析/06-导数与微分/泰勒公式.md",
     "线性代数/04-线性空间/线性空间.md",
@@ -289,8 +289,6 @@
     "数学分析/02-映射与函数/函数的概念与性质.md",
     "数学分析/01-集合与实数系/确界原理.md",
     "数学分析/01-集合与实数系/实数集与连续统.md",
-    "数学分析/01-集合与实数系/集合.md",
-    "数学分析/01-集合与实数系/Course9.19 有理数是无限十进循环小数.md",
     "attachments/Pasted image 20251107150639.png",
     "attachments/Pasted image 20251107150331.png",
     "attachments/Pasted image 20251107150302.png",

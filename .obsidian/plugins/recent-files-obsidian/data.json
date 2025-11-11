@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2023 JQF 期中考",
+      "path": "线性代数/Exam/2023 JQF 期中考.md"
+    },
+    {
+      "basename": "2024 期中复习题 高云",
+      "path": "线性代数/Exam/2024 期中复习题 高云.md"
+    },
+    {
+      "basename": "2024 JQF 期中考试",
+      "path": "线性代数/Exam/2024 JQF 期中考试.md"
+    },
+    {
       "basename": "数学分析新讲 第二册",
       "path": "数学分析/PDFs/数学分析新讲 第二册.pdf"
     },
@@ -125,10 +137,6 @@
       "path": "数学分析/06-导数与微分/洛必达法则.md"
     },
     {
-      "basename": "2024 期中复习题 高云",
-      "path": "线性代数/Exam/2024 期中复习题 高云.md"
-    },
-    {
       "basename": "LADR4eChinese",
       "path": "线性代数/PDFs/LADR4eChinese.pdf"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "排序算法",
       "path": "MISC/排序算法.md"
-    },
-    {
-      "basename": "秩不等式",
-      "path": "线性代数/EXT/秩不等式.md"
-    },
-    {
-      "basename": "汇编语言",
-      "path": "CSAPP/汇编语言.md"
     }
   ],
   "omittedPaths": [],
