@@ -8,17 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0698656eaeb201c",
+            "id": "51ac9611cdf520b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "数学分析/06-导数与微分/函数的凸性.md",
-                "mode": "source",
-                "source": false
+                "file": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+                "page": 331,
+                "left": -13,
+                "top": 528,
+                "zoom": 1.1251091091252523
               },
-              "icon": "lucide-file",
-              "title": "函数的凸性"
+              "icon": "lucide-file-text",
+              "title": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)"
             }
           }
         ]
@@ -233,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5,
-    "collapsed": true
+    "width": 403.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -255,12 +256,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0698656eaeb201c",
+  "active": "51ac9611cdf520b6",
   "lastOpenFiles": [
-    "数学分析/06-导数与微分/函数的升降与极值.md",
     "数学分析/06-导数与微分/函数的凸性.md",
-    "线性代数/04-线性空间/欧式空间.md",
     "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf",
+    "数学分析/06-导数与微分/函数的升降与极值.md",
+    "线性代数/04-线性空间/欧式空间.md",
     "线性代数/04-线性空间/线性空间的基、维数与坐标.md",
     "线性代数/04-线性空间/线性空间.md",
     "线性代数/Exam/2023 JQF 期中考.md",
@@ -290,7 +291,6 @@
     "数学分析/04-函数极限/重要极限.md",
     "数学分析/04-函数极限/无穷小量与无穷大量的比较.md",
     "数学分析/04-函数极限/函数极限的性质.md",
-    "数学分析/02-映射与函数/函数的概念与性质.md",
     "attachments/Pasted image 20251107150639.png",
     "attachments/Pasted image 20251107150331.png",
     "attachments/Pasted image 20251107150302.png",
