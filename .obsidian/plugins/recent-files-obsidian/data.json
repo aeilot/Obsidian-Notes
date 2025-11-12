@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "函数的凸性",
+      "path": "数学分析/06-导数与微分/函数的凸性.md"
+    },
+    {
+      "basename": "函数的升降与极值",
+      "path": "数学分析/06-导数与微分/函数的升降与极值.md"
+    },
+    {
       "basename": "欧式空间",
       "path": "线性代数/04-线性空间/欧式空间.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "数学分析新讲 第一册",
       "path": "数学分析/PDFs/数学分析新讲 第一册.pdf"
-    },
-    {
-      "basename": "函数的升降与极值",
-      "path": "数学分析/06-导数与微分/函数的升降与极值.md"
     },
     {
       "basename": "《数学分析》陈纪修 第三版 上",
@@ -195,10 +199,6 @@
     {
       "basename": "static_assert",
       "path": "C++ 程序设计/基础知识/static_assert.md"
-    },
-    {
-      "basename": "不变式",
-      "path": "C++ 程序设计/基础知识/不变式.md"
     }
   ],
   "omittedPaths": [],
