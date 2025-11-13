@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+    },
+    {
+      "basename": "Ch03",
+      "path": "CSAPP/Ch03.md"
+    },
+    {
       "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
       "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "SW104",
+      "path": "C++ 程序设计/PDFs/SW104.pdf"
     },
     {
       "basename": "函数的凸性",
@@ -165,14 +177,6 @@
       "path": "线性代数/03-线性方程组/Ch02 解线性方程组.md"
     },
     {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
-    },
-    {
-      "basename": "Ch03",
-      "path": "CSAPP/Ch03.md"
-    },
-    {
       "basename": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)",
       "path": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "线性方程组解的结构",
       "path": "线性代数/03-线性方程组/线性方程组解的结构.md"
-    },
-    {
-      "basename": "static_assert",
-      "path": "C++ 程序设计/基础知识/static_assert.md"
     }
   ],
   "omittedPaths": [],
