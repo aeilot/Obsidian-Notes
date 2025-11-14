@@ -1,16 +1,108 @@
 {
   "recentFiles": [
     {
-      "basename": "CSAPP-3th-ZH-OCR",
-      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
+      "basename": "2024 期中考卷",
+      "path": "线性代数/Exam/2024 期中考卷.md"
+    },
+    {
+      "basename": "行列式的计算",
+      "path": "线性代数/06-行列式/行列式的计算.md"
+    },
+    {
+      "basename": "行列式的基本性质",
+      "path": "线性代数/06-行列式/行列式的基本性质.md"
+    },
+    {
+      "basename": "方阵的行列式",
+      "path": "线性代数/06-行列式/方阵的行列式.md"
+    },
+    {
+      "basename": "Ch05 行列式",
+      "path": "线性代数/06-行列式/Ch05 行列式.md"
+    },
+    {
+      "basename": "Ch03 四个基本子空间",
+      "path": "线性代数/04-线性空间/Ch03 四个基本子空间.md"
+    },
+    {
+      "basename": "LU 分解",
+      "path": "线性代数/03-线性方程组/LU 分解.md"
+    },
+    {
+      "basename": "线性方程组解的结构",
+      "path": "线性代数/03-线性方程组/线性方程组解的结构.md"
+    },
+    {
+      "basename": "消元法解线性方程组",
+      "path": "线性代数/03-线性方程组/消元法解线性方程组.md"
+    },
+    {
+      "basename": "Ch02 解线性方程组",
+      "path": "线性代数/03-线性方程组/Ch02 解线性方程组.md"
+    },
+    {
+      "basename": "方阵的幂、方阵多项式、方阵的迹",
+      "path": "线性代数/02-矩阵理论/方阵的幂、方阵多项式、方阵的迹.md"
+    },
+    {
+      "basename": "矩阵的相抵标准型",
+      "path": "线性代数/02-矩阵理论/矩阵的相抵标准型.md"
+    },
+    {
+      "basename": "矩阵的秩",
+      "path": "线性代数/02-矩阵理论/矩阵的秩.md"
+    },
+    {
+      "basename": "可逆矩阵",
+      "path": "线性代数/02-矩阵理论/可逆矩阵.md"
+    },
+    {
+      "basename": "分块矩阵的初等变换",
+      "path": "线性代数/02-矩阵理论/分块矩阵的初等变换.md"
+    },
+    {
+      "basename": "Course9.19 矩阵的运算",
+      "path": "线性代数/02-矩阵理论/Course9.19 矩阵的运算.md"
+    },
+    {
+      "basename": "分块矩阵",
+      "path": "线性代数/02-矩阵理论/分块矩阵.md"
+    },
+    {
+      "basename": "Course9.17 线性型与矩阵概念引入",
+      "path": "线性代数/02-矩阵理论/Course9.17 线性型与矩阵概念引入.md"
+    },
+    {
+      "basename": "向量组的秩",
+      "path": "线性代数/01-向量与向量空间/向量组的秩.md"
+    },
+    {
+      "basename": "向量空间",
+      "path": "线性代数/01-向量与向量空间/向量空间.md"
+    },
+    {
+      "basename": "LADR01 向量空间",
+      "path": "线性代数/01-向量与向量空间/LADR01 向量空间.md"
+    },
+    {
+      "basename": "Ch01 向量和矩阵",
+      "path": "线性代数/01-向量与向量空间/Ch01 向量和矩阵.md"
+    },
+    {
+      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
+      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+    },
+    {
+      "basename": "2024 期中复习题 高云",
+      "path": "线性代数/Exam/2024 期中复习题 高云.md"
     },
     {
       "basename": "Ch03",
       "path": "CSAPP/Ch03.md"
     },
     {
-      "basename": "大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library)",
-      "path": "线性代数/PDFs/大学数学.线性代数 (上海交通大学数学系线性代数课程组编, 上海交通大学数学系线性代数课程组编, 上海交通大学) (Z-Library).pdf"
+      "basename": "CSAPP-3th-ZH-OCR",
+      "path": "CSAPP/CSAPP-3th-ZH-OCR.pdf"
     },
     {
       "basename": "SW104",
@@ -39,10 +131,6 @@
     {
       "basename": "2023 JQF 期中考",
       "path": "线性代数/Exam/2023 JQF 期中考.md"
-    },
-    {
-      "basename": "2024 期中复习题 高云",
-      "path": "线性代数/Exam/2024 期中复习题 高云.md"
     },
     {
       "basename": "2024 JQF 期中考试",
@@ -111,94 +199,6 @@
     {
       "basename": "重要极限",
       "path": "数学分析/04-函数极限/重要极限.md"
-    },
-    {
-      "basename": "无穷小量与无穷大量的比较",
-      "path": "数学分析/04-函数极限/无穷小量与无穷大量的比较.md"
-    },
-    {
-      "basename": "函数极限的性质",
-      "path": "数学分析/04-函数极限/函数极限的性质.md"
-    },
-    {
-      "basename": "函数的概念与性质",
-      "path": "数学分析/02-映射与函数/函数的概念与性质.md"
-    },
-    {
-      "basename": "确界原理",
-      "path": "数学分析/01-集合与实数系/确界原理.md"
-    },
-    {
-      "basename": "实数集与连续统",
-      "path": "数学分析/01-集合与实数系/实数集与连续统.md"
-    },
-    {
-      "basename": "集合",
-      "path": "数学分析/01-集合与实数系/集合.md"
-    },
-    {
-      "basename": "Course9.19 有理数是无限十进循环小数",
-      "path": "数学分析/01-集合与实数系/Course9.19 有理数是无限十进循环小数.md"
-    },
-    {
-      "basename": "Course9.19 思考题：区间的条件",
-      "path": "数学分析/01-集合与实数系/Course9.19 思考题：区间的条件.md"
-    },
-    {
-      "basename": "Course9.17 康托尔-伯恩斯坦-施罗德定理",
-      "path": "数学分析/01-集合与实数系/Course9.17 康托尔-伯恩斯坦-施罗德定理.md"
-    },
-    {
-      "basename": "Course9.15习题 集族证明题",
-      "path": "数学分析/01-集合与实数系/Course9.15习题 集族证明题.md"
-    },
-    {
-      "basename": "洛必达法则",
-      "path": "数学分析/06-导数与微分/洛必达法则.md"
-    },
-    {
-      "basename": "LADR4eChinese",
-      "path": "线性代数/PDFs/LADR4eChinese.pdf"
-    },
-    {
-      "basename": "The-Art-of-Linear-Algebra",
-      "path": "线性代数/PDFs/The-Art-of-Linear-Algebra.pdf"
-    },
-    {
-      "basename": "Introduction to Linear Algebra",
-      "path": "线性代数/PDFs/Introduction to Linear Algebra.pdf"
-    },
-    {
-      "basename": "LU 分解",
-      "path": "线性代数/03-线性方程组/LU 分解.md"
-    },
-    {
-      "basename": "Ch02 解线性方程组",
-      "path": "线性代数/03-线性方程组/Ch02 解线性方程组.md"
-    },
-    {
-      "basename": "A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p)",
-      "path": "C++ 程序设计/PDFs/A Tour of C++ - Bjarne Stroustrup (Addison-Wesley, 2014)(193p).pdf"
-    },
-    {
-      "basename": "Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir)",
-      "path": "C++ 程序设计/PDFs/Effective C++, 3rd Edition by Scott Meyers (e-bookfa.ir).pdf"
-    },
-    {
-      "basename": "《数学分析》陈纪修 第三版 下",
-      "path": "数学分析/PDFs/《数学分析》陈纪修 第三版 下.pdf"
-    },
-    {
-      "basename": "LADR01 向量空间",
-      "path": "线性代数/01-向量与向量空间/LADR01 向量空间.md"
-    },
-    {
-      "basename": "矩阵的秩",
-      "path": "线性代数/02-矩阵理论/矩阵的秩.md"
-    },
-    {
-      "basename": "线性方程组解的结构",
-      "path": "线性代数/03-线性方程组/线性方程组解的结构.md"
     }
   ],
   "omittedPaths": [],
